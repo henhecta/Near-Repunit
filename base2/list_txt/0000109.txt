@@ -1,0 +1,108 @@
+2^109-2^107-1	CF	has factors: 29
+2^109-2^106-1	CF	has factors: 3
+2^109-2^105-1	CF	has factors: 7
+2^109-2^104-1	CF	has factors: 3
+2^109-2^103-1	C	is composite: RES64: [5564C32FA1670C2C] (0.0000s+0.0061s)
+2^109-2^102-1	CF	has factors: 3^2
+2^109-2^101-1	C	is composite: RES64: [8F253E22D07E3D30] (0.0000s+0.0119s)
+2^109-2^100-1	CF	has factors: 3
+2^109-2^99-1	CF	has factors: 7
+2^109-2^98-1	CF	has factors: 3
+2^109-2^97-1	C	is composite: RES64: [A5B309F7FDE99432] (0.0000s+0.0248s)
+2^109-2^96-1	CF	has factors: 3^2
+2^109-2^95-1	CF	has factors: 5869
+2^109-2^94-1	CF	has factors: 3
+2^109-2^93-1	CF	has factors: 7
+2^109-2^92-1	CF	has factors: 3
+2^109-2^91-1	CF	has factors: 401
+2^109-2^90-1	CF	has factors: 3^3
+2^109-2^89-1	C	is composite: RES64: [B15473FCF0BD1126] (0.0000s+0.0808s)
+2^109-2^88-1	CF	has factors: 3
+2^109-2^87-1	CF	has factors: 7
+2^109-2^86-1	CF	has factors: 3
+2^109-2^85-1	CF	has factors: 53
+2^109-2^84-1	CF	has factors: 3^2
+2^109-2^83-1	CF	has factors: 431
+2^109-2^82-1	CF	has factors: 3
+2^109-2^81-1	CF	has factors: 7
+2^109-2^80-1	CF	has factors: 3
+2^109-2^79-1	CF	has factors: 29
+2^109-2^78-1	CF	has factors: 3^2
+2^109-2^77-1	CF	has factors: 113
+2^109-2^76-1	CF	has factors: 3
+2^109-2^75-1	CF	has factors: 7
+2^109-2^74-1	CF	has factors: 3
+2^109-2^73-1	CF	has factors: 947
+2^109-2^72-1	CF	has factors: 3^3
+2^109-2^71-1	CF	has factors: 137
+2^109-2^70-1	CF	has factors: 3
+2^109-2^69-1	CF	has factors: 7^2
+2^109-2^68-1	CF	has factors: 3
+2^109-2^67-1	CF	has factors: 61
+2^109-2^66-1	CF	has factors: 3^2
+2^109-2^65-1	C	is composite: RES64: [06FAE4CE813D9082] (0.0000s+0.0125s)
+2^109-2^64-1	CF	has factors: 3
+2^109-2^63-1	CF	has factors: 7
+2^109-2^62-1	CF	has factors: 3
+2^109-2^61-1	C	is composite: RES64: [DD75B04FD7CFA810] (0.0000s+0.0235s)
+2^109-2^60-1	CF	has factors: 3^2
+2^109-2^59-1	CF	has factors: 1723
+2^109-2^58-1	CF	has factors: 3
+2^109-2^57-1	CF	has factors: 7
+2^109-2^56-1	CF	has factors: 3
+2^109-2^55-1	CF	has factors: 1559
+2^109-2^54-1	CF	has factors: 3^5
+2^109-2^53-1	C	is composite: RES64: [FCF006866FD76250] (0.0000s+0.0481s)
+2^109-2^52-1	CF	has factors: 3
+2^109-2^51-1	CF	has factors: 7
+2^109-2^50-1	CF	has factors: 3
+2^109-2^49-1	CF	has factors: 113
+2^109-2^48-1	CF	has factors: 3^2
+2^109-2^47-1	CF	has factors: 383
+2^109-2^46-1	CF	has factors: 3
+2^109-2^45-1	CF	has factors: 7
+2^109-2^44-1	CF	has factors: 3
+2^109-2^43-1	CF	has factors: 107
+2^109-2^42-1	CF	has factors: 3^2
+2^109-2^41-1	CF	has factors: 3373
+2^109-2^40-1	CF	has factors: 3
+2^109-2^39-1	CF	has factors: 7
+2^109-2^38-1	CF	has factors: 3
+2^109-2^37-1	C	is composite: RES64: [12049A286BD71EFE] (0.0000s+0.0445s)
+2^109-2^36-1	CF	has factors: 3^3
+2^109-2^35-1	CF	has factors: 829
+2^109-2^34-1	CF	has factors: 3
+2^109-2^33-1	CF	has factors: 7
+2^109-2^32-1	CF	has factors: 3
+2^109-2^31-1	CF	has factors: 2269
+2^109-2^30-1	CF	has factors: 3^2
+2^109-2^29-1	C	is composite: RES64: [F776E2954D14FB5D] (0.0000s+0.0128s)
+2^109-2^28-1	CF	has factors: 3
+2^109-2^27-1	CF	has factors: 7^2
+2^109-2^26-1	CF	has factors: 3
+2^109-2^25-1	C	is composite: RES64: [D82F3955612E532C] (0.0000s+0.0185s)
+2^109-2^24-1	CF	has factors: 3^2
+2^109-2^23-1	CF	has factors: 29
+2^109-2^22-1	CF	has factors: 3
+2^109-2^21-1	CF	has factors: 7
+2^109-2^20-1	CF	has factors: 3
+2^109-2^19-1	C	is composite: RES64: [DBE6541D5E1FF650] (0.0000s+0.0187s)
+2^109-2^18-1	CF	has factors: 3^3
+2^109-2^17-1	CF	has factors: 1051
+2^109-2^16-1	CF	has factors: 3
+2^109-2^15-1	CF	has factors: 7
+2^109-2^14-1	CF	has factors: 3
+2^109-2^13-1	C	is composite: RES64: [2FC3925622F9043C] (0.0000s+0.0081s)
+2^109-2^12-1	CF	has factors: 3^2
+2^109-2^11-1	P(FactorDB)	is 3-PRP! (0.0000s+0.0190s)	http://factordb.com/index.php?id=1100000001104131742
+2^109-2^10-1	CF	has factors: 3
+2^109-2^9-1	CF	has factors: 7
+2^109-2^8-1	CF	has factors: 3
+2^109-2^7-1	CF	has factors: 61
+2^109-2^6-1	CF	has factors: 3^2
+2^109-2^5-1	C	is composite: RES64: [0B308E6DFF81B57E] (0.0000s+0.0187s)
+2^109-2^4-1	CF	has factors: 3
+2^109-2^3-1	CF	has factors: 7
+2^109-2^2-1	CF	has factors: 3
+2^109-2^1-1	CF	has factors: 269
+2^109-2^0-1	CF	has factors: 2

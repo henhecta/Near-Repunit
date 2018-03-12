@@ -1,0 +1,75 @@
+2^76-2^74-1	C	is composite: RES64: [13EE2A84C88D4B4D] (0.0000s+0.0193s)
+2^76-2^73-1	CF	has factors: 11
+2^76-2^72-1	CF	has factors: 7
+2^76-2^71-1	CF	has factors: 53
+2^76-2^70-1	CF	has factors: 31
+2^76-2^69-1	CF	has factors: 7
+2^76-2^68-1	C	is composite: RES64: [F2C78267D5A2E75A] (0.0000s+0.0049s)
+2^76-2^67-1	P(FactorDB)	is 3-PRP! (0.0000s+0.0099s)	http://factordb.com/index.php?id=1100000000413695811
+2^76-2^66-1	CF	has factors: 7^2
+2^76-2^65-1	CF	has factors: 19
+2^76-2^64-1	C	is composite: RES64: [30156EDF64204244] (0.0000s+0.0185s)
+2^76-2^63-1	CF	has factors: 7
+2^76-2^62-1	CF	has factors: 163
+2^76-2^61-1	CF	has factors: 13
+2^76-2^60-1	CF	has factors: 7
+2^76-2^59-1	CF	has factors: 239
+2^76-2^58-1	C	is composite: RES64: [0F830E823E23737D] (0.0000s+0.0377s)
+2^76-2^57-1	CF	has factors: 7
+2^76-2^56-1	CF	has factors: 241
+2^76-2^55-1	CF	has factors: 31
+2^76-2^54-1	CF	has factors: 7
+2^76-2^53-1	CF	has factors: 11
+2^76-2^52-1	CF	has factors: 3889
+2^76-2^51-1	CF	has factors: 7
+2^76-2^50-1	CF	has factors: 31
+2^76-2^49-1	CF	has factors: 13
+2^76-2^48-1	CF	has factors: 7
+2^76-2^47-1	CF	has factors: 19
+2^76-2^46-1	P(FactorDB)	is 3-PRP! (0.0000s+0.0299s)	http://factordb.com/index.php?id=1100000001104131660
+2^76-2^45-1	CF	has factors: 7^2
+2^76-2^44-1	CF	has factors: 3733
+2^76-2^43-1	CF	has factors: 11
+2^76-2^42-1	CF	has factors: 7
+2^76-2^41-1	C	is composite: RES64: [78A539323F888FDF] (0.0000s+0.0110s)
+2^76-2^40-1	CF	has factors: 31
+2^76-2^39-1	CF	has factors: 7
+2^76-2^38-1	P(FactorDB)	is 3-PRP! (0.0000s+0.0124s)	http://factordb.com/index.php?id=1100000000662299283
+2^76-2^37-1	CF	has factors: 13
+2^76-2^36-1	CF	has factors: 7
+2^76-2^35-1	CF	has factors: 31
+2^76-2^34-1	C	is composite: RES64: [9823D78DEF648681] (0.0000s+0.0105s)
+2^76-2^33-1	CF	has factors: 7
+2^76-2^32-1	CF	has factors: 241
+2^76-2^31-1	P(FactorDB)	is 3-PRP! (0.0000s+0.0278s)	http://factordb.com/index.php?id=1100000001104131659
+2^76-2^30-1	CF	has factors: 7
+2^76-2^29-1	CF	has factors: 17
+2^76-2^28-1	CF	has factors: 101
+2^76-2^27-1	CF	has factors: 7
+2^76-2^26-1	CF	has factors: 29
+2^76-2^25-1	CF	has factors: 13
+2^76-2^24-1	CF	has factors: 7^2
+2^76-2^23-1	CF	has factors: 11
+2^76-2^22-1	P(FactorDB)	is 3-PRP! (0.0000s+0.0160s)	http://factordb.com/index.php?id=1100000000690958249
+2^76-2^21-1	CF	has factors: 7
+2^76-2^20-1	CF	has factors: 31
+2^76-2^19-1	CF	has factors: 53
+2^76-2^18-1	CF	has factors: 7
+2^76-2^17-1	C	is composite: RES64: [580E163067C02768] (0.0000s+0.0738s)
+2^76-2^16-1	CF	has factors: 281
+2^76-2^15-1	CF	has factors: 7
+2^76-2^14-1	CF	has factors: 3121
+2^76-2^13-1	CF	has factors: 11
+2^76-2^12-1	CF	has factors: 7
+2^76-2^11-1	CF	has factors: 19
+2^76-2^10-1	CF	has factors: 31
+2^76-2^9-1	CF	has factors: 7
+2^76-2^8-1	CF	has factors: 79
+2^76-2^7-1	CF	has factors: 181
+2^76-2^6-1	CF	has factors: 7
+2^76-2^5-1	CF	has factors: 17^3
+2^76-2^4-1	CF	has factors: 613
+2^76-2^3-1	CF	has factors: 7^2
+2^76-2^2-1	CF	has factors: 739
+2^76-2^1-1	CF	has factors: 13
+2^76-2^0-1	CF	has factors: 2

@@ -1,0 +1,80 @@
+2^81-2^79-1	CF	has factors: 29
+2^81-2^78-1	CF	has factors: 3
+2^81-2^77-1	CF	has factors: 113
+2^81-2^76-1	CF	has factors: 3^2
+2^81-2^75-1	CF	has factors: 31
+2^81-2^74-1	CF	has factors: 3
+2^81-2^73-1	CF	has factors: 1531
+2^81-2^72-1	CF	has factors: 3
+2^81-2^71-1	C	is composite: RES64: [945386BC4E0E4BE9] (0.0000s+0.0275s)
+2^81-2^70-1	CF	has factors: 3^2
+2^81-2^69-1	CF	has factors: 277
+2^81-2^68-1	CF	has factors: 3
+2^81-2^67-1	CF	has factors: 2801
+2^81-2^66-1	CF	has factors: 3
+2^81-2^65-1	CF	has factors: 31
+2^81-2^64-1	CF	has factors: 3^3
+2^81-2^63-1	C	is composite: RES64: [ECDE77A6796F9C7B] (0.0000s+0.0067s)
+2^81-2^62-1	CF	has factors: 3
+2^81-2^61-1	C	is composite: RES64: [3ACACB7E6C2A6414] (0.0000s+0.0120s)
+2^81-2^60-1	CF	has factors: 3
+2^81-2^59-1	CF	has factors: 1151
+2^81-2^58-1	CF	has factors: 3^2
+2^81-2^57-1	C	is composite: RES64: [A5D0A3CD7BF7B1A4] (0.0000s+0.0123s)
+2^81-2^56-1	CF	has factors: 3
+2^81-2^55-1	CF	has factors: 31
+2^81-2^54-1	CF	has factors: 3
+2^81-2^53-1	C	is composite: RES64: [2FE9017FA39C41F6] (0.0000s+0.0174s)
+2^81-2^52-1	CF	has factors: 3^2
+2^81-2^51-1	CF	has factors: 29
+2^81-2^50-1	CF	has factors: 3
+2^81-2^49-1	CF	has factors: 113
+2^81-2^48-1	CF	has factors: 3
+2^81-2^47-1	C	is composite: RES64: [78B3B84E2A75D7B7] (0.0000s+0.0193s)
+2^81-2^46-1	CF	has factors: 3^3
+2^81-2^45-1	CF	has factors: 31
+2^81-2^44-1	CF	has factors: 3
+2^81-2^43-1	CF	has factors: 47
+2^81-2^42-1	CF	has factors: 3
+2^81-2^41-1	P(FactorDB)	is 3-PRP! (0.0000s+0.0065s)	http://factordb.com/index.php?id=1100000000916082780
+2^81-2^40-1	CF	has factors: 3^2
+2^81-2^39-1	C	is composite: RES64: [2BD80E98881B5AC5] (0.0000s+0.0199s)
+2^81-2^38-1	CF	has factors: 3
+2^81-2^37-1	CF	has factors: 2663
+2^81-2^36-1	CF	has factors: 3
+2^81-2^35-1	CF	has factors: 31
+2^81-2^34-1	CF	has factors: 3^2
+2^81-2^33-1	P(FactorDB)	is 3-PRP! (0.0000s+0.0062s)	http://factordb.com/index.php?id=1100000001104131679
+2^81-2^32-1	CF	has factors: 3
+2^81-2^31-1	C	is composite: RES64: [6D4445E657702323] (0.0000s+0.0398s)
+2^81-2^30-1	CF	has factors: 3
+2^81-2^29-1	CF	has factors: 9461
+2^81-2^28-1	CF	has factors: 3^4
+2^81-2^27-1	CF	has factors: 2683
+2^81-2^26-1	CF	has factors: 3
+2^81-2^25-1	CF	has factors: 31
+2^81-2^24-1	CF	has factors: 3
+2^81-2^23-1	CF	has factors: 29
+2^81-2^22-1	CF	has factors: 3^2
+2^81-2^21-1	CF	has factors: 113
+2^81-2^20-1	CF	has factors: 3
+2^81-2^19-1	C	is composite: RES64: [4D782967F60AD50F] (0.0000s+0.0194s)
+2^81-2^18-1	CF	has factors: 3
+2^81-2^17-1	CF	has factors: 4211
+2^81-2^16-1	CF	has factors: 3^2
+2^81-2^15-1	CF	has factors: 31
+2^81-2^14-1	CF	has factors: 3
+2^81-2^13-1	P(FactorDB)	is 3-PRP! (0.0000s+0.0129s)	http://factordb.com/index.php?id=1100000001104131678
+2^81-2^12-1	CF	has factors: 3
+2^81-2^11-1	CF	has factors: 619
+2^81-2^10-1	CF	has factors: 3^3
+2^81-2^9-1	C	is composite: RES64: [88E949863207F47F] (0.0000s+0.0372s)
+2^81-2^8-1	CF	has factors: 3
+2^81-2^7-1	CF	has factors: 911
+2^81-2^6-1	CF	has factors: 3
+2^81-2^5-1	CF	has factors: 31^2
+2^81-2^4-1	CF	has factors: 3^2
+2^81-2^3-1	CF	has factors: 727
+2^81-2^2-1	CF	has factors: 3
+2^81-2^1-1	CF	has factors: 5189
+2^81-2^0-1	CF	has factors: 2

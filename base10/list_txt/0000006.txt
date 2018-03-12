@@ -1,0 +1,5 @@
+(10^6-1)/9-10^4	P(FactorDB)	is trivially prime!: 101111	http://factordb.com/index.php?id=101111
+(10^6-1)/9-10^3	FF	trivially factors as: 149*739
+(10^6-1)/9-10^2	FF	trivially factors as: 31*3581
+(10^6-1)/9-10^1	FF	trivially factors as: 241*461
+(10^6-1)/9-10^0	FF	trivially factors as: 2*5*41*271

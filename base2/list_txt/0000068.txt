@@ -1,0 +1,67 @@
+2^68-2^66-1	CF	has factors: 59
+2^68-2^65-1	C	is composite: RES64: [9D283515D1DFF4C3] (0.0000s+0.0176s)
+2^68-2^64-1	CF	has factors: 103
+2^68-2^63-1	CF	has factors: 13
+2^68-2^62-1	CF	has factors: 29
+2^68-2^61-1	CF	has factors: 11
+2^68-2^60-1	CF	has factors: 1213
+2^68-2^59-1	C	is composite: RES64: [F520C94874F87870] (0.0000s+0.0032s)
+2^68-2^58-1	C	is composite: RES64: [C52C03FEF5D7E5EF] (0.0000s+0.0282s)
+2^68-2^57-1	CF	has factors: 863
+2^68-2^56-1	CF	has factors: 613
+2^68-2^55-1	CF	has factors: 41
+2^68-2^54-1	CF	has factors: 709
+2^68-2^53-1	CF	has factors: 17
+2^68-2^52-1	CF	has factors: 19
+2^68-2^51-1	CF	has factors: 11
+2^68-2^50-1	CF	has factors: 619
+2^68-2^49-1	C	is composite: RES64: [E857E8B86FA1E807] (0.0000s+0.0048s)
+2^68-2^48-1	P(FactorDB)	is 3-PRP! (0.0000s+0.0065s)	http://factordb.com/index.php?id=1100000001104131641
+2^68-2^47-1	CF	has factors: 211
+2^68-2^46-1	C	is composite: RES64: [910CE4DFB01D9703] (0.0000s+0.0097s)
+2^68-2^45-1	CF	has factors: 17
+2^68-2^44-1	CF	has factors: 167
+2^68-2^43-1	C	is composite: RES64: [60BBA274C76D72B3] (0.0000s+0.0106s)
+2^68-2^42-1	C	is composite: RES64: [9C637B775257879F] (0.0000s+0.0178s)
+2^68-2^41-1	CF	has factors: 11
+2^68-2^40-1	CF	has factors: 241
+2^68-2^39-1	CF	has factors: 13
+2^68-2^38-1	CF	has factors: 383
+2^68-2^37-1	CF	has factors: 17
+2^68-2^36-1	C	is composite: RES64: [6EF69705D5D87216] (0.0000s+0.0087s)
+2^68-2^35-1	CF	has factors: 41
+2^68-2^34-1	CF	has factors: 19
+2^68-2^33-1	C	is composite: RES64: [68A7E704ECCF5A1E] (0.0000s+0.0166s)
+2^68-2^32-1	CF	has factors: 83
+2^68-2^31-1	CF	has factors: 11
+2^68-2^30-1	CF	has factors: 23
+2^68-2^29-1	CF	has factors: 17
+2^68-2^28-1	P(FactorDB)	is 3-PRP! (0.0000s+0.0160s)	http://factordb.com/index.php?id=1100000001104131640
+2^68-2^27-1	CF	has factors: 13
+2^68-2^26-1	CF	has factors: 2843
+2^68-2^25-1	CF	has factors: 4261
+2^68-2^24-1	CF	has factors: 2203
+2^68-2^23-1	C	is composite: RES64: [1DD2D2B1FD081488] (0.0000s+0.0032s)
+2^68-2^22-1	C	is composite: RES64: [87C7C94468A41CA1] (0.0000s+0.0132s)
+2^68-2^21-1	CF	has factors: 11
+2^68-2^20-1	CF	has factors: 379
+2^68-2^19-1	CF	has factors: 23
+2^68-2^18-1	C	is composite: RES64: [44FA8B60B8DF38C3] (0.0000s+0.0128s)
+2^68-2^17-1	CF	has factors: 1559
+2^68-2^16-1	CF	has factors: 19
+2^68-2^15-1	CF	has factors: 13^2
+2^68-2^14-1	C	is composite: RES64: [1484F99D3EDD2682] (0.0000s+0.0066s)
+2^68-2^13-1	CF	has factors: 17
+2^68-2^12-1	C	is composite: RES64: [EA946815956C9C02] (0.0000s+0.0070s)
+2^68-2^11-1	CF	has factors: 11
+2^68-2^10-1	C	is composite: RES64: [4226CDFA6E6A9088] (0.0000s+0.0087s)
+2^68-2^9-1	C	is composite: RES64: [21B792423200E24A] (0.0000s+0.0226s)
+2^68-2^8-1	CF	has factors: 23
+2^68-2^7-1	CF	has factors: 1361
+2^68-2^6-1	CF	has factors: 29
+2^68-2^5-1	CF	has factors: 17
+2^68-2^4-1	CF	has factors: 229
+2^68-2^3-1	CF	has factors: 13
+2^68-2^2-1	C	is composite: RES64: [EAD9AB683ACFE72E] (0.0000s+0.0753s)
+2^68-2^1-1	CF	has factors: 11
+2^68-2^0-1	CF	has factors: 2

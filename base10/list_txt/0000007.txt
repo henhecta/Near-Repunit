@@ -1,0 +1,6 @@
+(10^7-1)/9-10^5	FF	trivially factors as: 3*47*71*101
+(10^7-1)/9-10^4	FF	trivially factors as: 3*11*61*547
+(10^7-1)/9-10^3	FF	trivially factors as: 3*37*73*137
+(10^7-1)/9-10^2	FF	trivially factors as: 3*11*131*257
+(10^7-1)/9-10^1	FF	trivially factors as: 3*19*101*193
+(10^7-1)/9-10^0	FF	trivially factors as: 2*3*5*7*11*13*37

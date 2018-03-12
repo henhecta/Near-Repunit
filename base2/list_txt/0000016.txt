@@ -1,0 +1,15 @@
+2^16-2^14-1	FF	trivially factors as: 23*2137
+2^16-2^13-1	FF	trivially factors as: 11*13*401
+2^16-2^12-1	FF	trivially factors as: 7*67*131
+2^16-2^11-1	P(FactorDB)	is trivially prime!: 63487	http://factordb.com/index.php?id=63487
+2^16-2^10-1	FF	trivially factors as: 31*2081
+2^16-2^9-1	FF	trivially factors as: 7^2*1327
+2^16-2^8-1	FF	trivially factors as: 29*2251
+2^16-2^7-1	P(FactorDB)	is trivially prime!: 65407	http://factordb.com/index.php?id=65407
+2^16-2^6-1	FF	trivially factors as: 7*47*199
+2^16-2^5-1	FF	trivially factors as: 31*2113
+2^16-2^4-1	P(FactorDB)	is trivially prime!: 65519	http://factordb.com/index.php?id=65519
+2^16-2^3-1	FF	trivially factors as: 7*11*23*37
+2^16-2^2-1	FF	trivially factors as: 19*3449
+2^16-2^1-1	FF	trivially factors as: 13*71^2
+2^16-2^0-1	FF	trivially factors as: 2*7*31*151

@@ -1,0 +1,31 @@
+2^32-2^30-1	FF	trivially factors as: 431*7473841
+2^32-2^29-1	P(FactorDB)	is trivially prime!: 3758096383	http://factordb.com/index.php?id=3758096383
+2^32-2^28-1	FF	trivially factors as: 11*2351*155699
+2^32-2^27-1	FF	trivially factors as: 13*29*37*298283
+2^32-2^26-1	FF	trivially factors as: 57457*73583
+2^32-2^25-1	P(FactorDB)	is trivially prime!: 4261412863	http://factordb.com/index.php?id=4261412863
+2^32-2^24-1	P(FactorDB)	is trivially prime!: 4278190079	http://factordb.com/index.php?id=4278190079
+2^32-2^23-1	P(FactorDB)	is trivially prime!: 4286578687	http://factordb.com/index.php?id=4286578687
+2^32-2^22-1	FF	trivially factors as: 4139*1036669
+2^32-2^21-1	FF	trivially factors as: 197*21791219
+2^32-2^20-1	FF	trivially factors as: 199*701*30781
+2^32-2^19-1	FF	trivially factors as: 33601*127807
+2^32-2^18-1	FF	trivially factors as: 11^2*739*48029
+2^32-2^17-1	FF	trivially factors as: 41*104752103
+2^32-2^16-1	FF	trivially factors as: 19*181*1248881
+2^32-2^15-1	FF	trivially factors as: 13*12911*25589
+2^32-2^14-1	FF	trivially factors as: 13177*325943
+2^32-2^13-1	FF	trivially factors as: 59*3881*18757
+2^32-2^12-1	FF	trivially factors as: 367*11702897
+2^32-2^11-1	FF	trivially factors as: 15377*279311
+2^32-2^10-1	FF	trivially factors as: 44617*96263
+2^32-2^9-1	FF	trivially factors as: 619*6938557
+2^32-2^8-1	FF	trivially factors as: 11*19001*20549
+2^32-2^7-1	FF	trivially factors as: 79*113*149*3229
+2^32-2^6-1	P(FactorDB)	is trivially prime!: 4294967231	http://factordb.com/index.php?id=4294967231
+2^32-2^5-1	FF	trivially factors as: 67*64103989
+2^32-2^4-1	P(FactorDB)	is trivially prime!: 4294967279	http://factordb.com/index.php?id=4294967279
+2^32-2^3-1	FF	trivially factors as: 13*71^2*65539
+2^32-2^2-1	P(FactorDB)	is trivially prime!: 4294967291	http://factordb.com/index.php?id=4294967291
+2^32-2^1-1	FF	trivially factors as: 9241*464773
+2^32-2^0-1	FF	trivially factors as: 2*2147483647

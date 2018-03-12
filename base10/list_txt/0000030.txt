@@ -1,0 +1,29 @@
+(10^30-1)/9-10^28	CF	has factors: 131
+(10^30-1)/9-10^27	C	is composite: RES64: [8DC374E05E689691] (0.0000s+0.0064s)
+(10^30-1)/9-10^26	CF	has factors: 23
+(10^30-1)/9-10^25	C	is composite: RES64: [7AC1017D18E5D592] (0.0000s+0.0054s)
+(10^30-1)/9-10^24	P(FactorDB)	is 3-PRP! (0.0000s+0.0220s)	http://factordb.com/index.php?id=1100000000260760735
+(10^30-1)/9-10^23	CF	has factors: 29
+(10^30-1)/9-10^22	CF	has factors: 359
+(10^30-1)/9-10^21	CF	has factors: 103
+(10^30-1)/9-10^20	CF	has factors: 331
+(10^30-1)/9-10^19	CF	has factors: 17^2
+(10^30-1)/9-10^18	CF	has factors: 1051
+(10^30-1)/9-10^17	C	is composite: RES64: [7DCEB0A6EABC9341] (0.0000s+0.0038s)
+(10^30-1)/9-10^16	C	is composite: RES64: [5051B4686F39D96F] (0.0000s+0.0041s)
+(10^30-1)/9-10^15	C	is composite: RES64: [6E02AFDA3415776B] (0.0000s+0.0142s)
+(10^30-1)/9-10^14	CF	has factors: 479
+(10^30-1)/9-10^13	CF	has factors: 1061
+(10^30-1)/9-10^12	CF	has factors: 19
+(10^30-1)/9-10^11	P(FactorDB)	is 3-PRP! (0.0000s+0.0066s)	http://factordb.com/index.php?id=1100000000294178941
+(10^30-1)/9-10^10	CF	has factors: 47
+(10^30-1)/9-10^9	C	is composite: RES64: [EED24B6DA2D52D57] (0.0000s+0.0307s)
+(10^30-1)/9-10^8	CF	has factors: 2939
+(10^30-1)/9-10^7	CF	has factors: 67
+(10^30-1)/9-10^6	CF	has factors: 3547
+(10^30-1)/9-10^5	C	is composite: RES64: [11F8C364063C6128] (0.0000s+0.0314s)
+(10^30-1)/9-10^4	CF	has factors: 23
+(10^30-1)/9-10^3	CF	has factors: 17
+(10^30-1)/9-10^2	CF	has factors: 43
+(10^30-1)/9-10^1	CF	has factors: 71
+(10^30-1)/9-10^0	CF	has factors: 2

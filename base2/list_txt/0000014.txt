@@ -1,0 +1,13 @@
+2^14-2^12-1	FF	trivially factors as: 11*1117
+2^14-2^11-1	FF	trivially factors as: 5*47*61
+2^14-2^10-1	P(FactorDB)	is trivially prime!: 15359	http://factordb.com/index.php?id=15359
+2^14-2^9-1	FF	trivially factors as: 59*269
+2^14-2^8-1	P(FactorDB)	is trivially prime!: 16127	http://factordb.com/index.php?id=16127
+2^14-2^7-1	FF	trivially factors as: 5*3251
+2^14-2^6-1	P(FactorDB)	is trivially prime!: 16319	http://factordb.com/index.php?id=16319
+2^14-2^5-1	FF	trivially factors as: 83*197
+2^14-2^4-1	FF	trivially factors as: 13*1259
+2^14-2^3-1	FF	trivially factors as: 5^3*131
+2^14-2^2-1	FF	trivially factors as: 11*1489
+2^14-2^1-1	P(FactorDB)	is trivially prime!: 16381	http://factordb.com/index.php?id=16381
+2^14-2^0-1	FF	trivially factors as: 2*8191

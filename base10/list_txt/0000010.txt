@@ -1,0 +1,9 @@
+(10^10-1)/9-10^8	FF	trivially factors as: 3^2*89*1262311
+(10^10-1)/9-10^7	FF	trivially factors as: 3^3*40781893
+(10^10-1)/9-10^6	FF	trivially factors as: 3^2*37*433*7699
+(10^10-1)/9-10^5	FF	trivially factors as: 3^2*7*19*928163
+(10^10-1)/9-10^4	FF	trivially factors as: 3^3*41151893
+(10^10-1)/9-10^3	FF	trivially factors as: 3^2*37*67*49801
+(10^10-1)/9-10^2	FF	trivially factors as: 3^2*109*173*6547
+(10^10-1)/9-10^1	FF	trivially factors as: 3^4*3607*3803
+(10^10-1)/9-10^0	FF	trivially factors as: 2*3^2*5*37*333667

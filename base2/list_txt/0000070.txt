@@ -1,0 +1,69 @@
+2^70-2^68-1	CF	has factors: 13
+2^70-2^67-1	CF	has factors: 5
+2^70-2^66-1	CF	has factors: 7
+2^70-2^65-1	C	is composite: RES64: [17A9948BAC1D6CEE] (0.0000s+0.0097s)
+2^70-2^64-1	CF	has factors: 647
+2^70-2^63-1	CF	has factors: 5
+2^70-2^62-1	C	is composite: RES64: [1AF6F47FB63A6433] (0.0000s+0.0194s)
+2^70-2^61-1	CF	has factors: 1019
+2^70-2^60-1	CF	has factors: 7
+2^70-2^59-1	CF	has factors: 5
+2^70-2^58-1	C	is composite: RES64: [D6631A979676B1B9] (0.0000s+0.0224s)
+2^70-2^57-1	CF	has factors: 7
+2^70-2^56-1	CF	has factors: 13
+2^70-2^55-1	CF	has factors: 5
+2^70-2^54-1	CF	has factors: 7^3
+2^70-2^53-1	CF	has factors: 59
+2^70-2^52-1	C	is composite: RES64: [6D66C9E8CF166964] (0.0000s+0.0069s)
+2^70-2^51-1	CF	has factors: 5^2
+2^70-2^50-1	C	is composite: RES64: [643F77B8DC175553] (0.0000s+0.0059s)
+2^70-2^49-1	C	is composite: RES64: [AD81B565DA165AB9] (0.0000s+0.0378s)
+2^70-2^48-1	CF	has factors: 7
+2^70-2^47-1	CF	has factors: 5
+2^70-2^46-1	CF	has factors: 47
+2^70-2^45-1	CF	has factors: 7
+2^70-2^44-1	CF	has factors: 13
+2^70-2^43-1	CF	has factors: 5
+2^70-2^42-1	CF	has factors: 7
+2^70-2^41-1	CF	has factors: 103
+2^70-2^40-1	CF	has factors: 8861
+2^70-2^39-1	CF	has factors: 5
+2^70-2^38-1	CF	has factors: 19
+2^70-2^37-1	P(FactorDB)	is 3-PRP! (0.0000s+0.0102s)	http://factordb.com/index.php?id=1100000000889145266
+2^70-2^36-1	CF	has factors: 7
+2^70-2^35-1	CF	has factors: 5
+2^70-2^34-1	P(FactorDB)	is 3-PRP! (0.0000s+0.0253s)	http://factordb.com/index.php?id=1100000000662842846
+2^70-2^33-1	CF	has factors: 7^2
+2^70-2^32-1	CF	has factors: 13
+2^70-2^31-1	CF	has factors: 5^2
+2^70-2^30-1	CF	has factors: 7
+2^70-2^29-1	CF	has factors: 5479
+2^70-2^28-1	CF	has factors: 2309
+2^70-2^27-1	CF	has factors: 5
+2^70-2^26-1	P(FactorDB)	is 3-PRP! (0.0000s+0.0033s)	http://factordb.com/index.php?id=1100000001104131642
+2^70-2^25-1	C	is composite: RES64: [FB12B2E4D75EA6E6] (0.0000s+0.0245s)
+2^70-2^24-1	CF	has factors: 7
+2^70-2^23-1	CF	has factors: 5
+2^70-2^22-1	CF	has factors: 191
+2^70-2^21-1	CF	has factors: 7
+2^70-2^20-1	CF	has factors: 13^2
+2^70-2^19-1	CF	has factors: 5
+2^70-2^18-1	CF	has factors: 7
+2^70-2^17-1	C	is composite: RES64: [A3205612258137C1] (0.0000s+0.0092s)
+2^70-2^16-1	CF	has factors: 4111
+2^70-2^15-1	CF	has factors: 5
+2^70-2^14-1	C	is composite: RES64: [61D37BBD137B3F73] (0.0000s+0.0303s)
+2^70-2^13-1	CF	has factors: 919
+2^70-2^12-1	CF	has factors: 7^2
+2^70-2^11-1	CF	has factors: 5^3
+2^70-2^10-1	CF	has factors: 353
+2^70-2^9-1	CF	has factors: 7
+2^70-2^8-1	CF	has factors: 13
+2^70-2^7-1	CF	has factors: 5
+2^70-2^6-1	CF	has factors: 7
+2^70-2^5-1	CF	has factors: 5923
+2^70-2^4-1	C	is composite: RES64: [2925100A8CB86E7A] (0.0000s+0.0333s)
+2^70-2^3-1	CF	has factors: 5
+2^70-2^2-1	CF	has factors: 19
+2^70-2^1-1	CF	has factors: 107
+2^70-2^0-1	CF	has factors: 2

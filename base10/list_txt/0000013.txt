@@ -1,0 +1,12 @@
+(10^13-1)/9-10^11	FF	trivially factors as: 3*17*19*23^2*1972511
+(10^13-1)/9-10^10	CF	has factors: 3
+(10^13-1)/9-10^9	CF	has factors: 3
+(10^13-1)/9-10^8	CF	has factors: 3
+(10^13-1)/9-10^7	CF	has factors: 3
+(10^13-1)/9-10^6	CF	has factors: 3
+(10^13-1)/9-10^5	CF	has factors: 3
+(10^13-1)/9-10^4	CF	has factors: 3
+(10^13-1)/9-10^3	CF	has factors: 3
+(10^13-1)/9-10^2	CF	has factors: 3
+(10^13-1)/9-10^1	CF	has factors: 3
+(10^13-1)/9-10^0	CF	has factors: 2

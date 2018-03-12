@@ -1,0 +1,8 @@
+2^9-2^7-1	P(FactorDB)	is trivially prime!: 383	http://factordb.com/index.php?id=383
+2^9-2^6-1	FF	trivially factors as: 3*149
+2^9-2^5-1	P(FactorDB)	is trivially prime!: 479	http://factordb.com/index.php?id=479
+2^9-2^4-1	FF	trivially factors as: 3^2*5*11
+2^9-2^3-1	P(FactorDB)	is trivially prime!: 503	http://factordb.com/index.php?id=503
+2^9-2^2-1	FF	trivially factors as: 3*13^2
+2^9-2^1-1	P(FactorDB)	is trivially prime!: 509	http://factordb.com/index.php?id=509
+2^9-2^0-1	FF	trivially factors as: 2*3*5*17

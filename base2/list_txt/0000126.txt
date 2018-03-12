@@ -1,0 +1,125 @@
+2^126-2^124-1	CF	has factors: 23
+2^126-2^123-1	CF	has factors: 5
+2^126-2^122-1	CF	has factors: 197
+2^126-2^121-1	CF	has factors: 61
+2^126-2^120-1	CF	has factors: 31
+2^126-2^119-1	CF	has factors: 5^2
+2^126-2^118-1	C	is composite: RES64: [031647303C973FC4] (0.0000s+0.0467s)
+2^126-2^117-1	CF	has factors: 1279
+2^126-2^116-1	CF	has factors: 149
+2^126-2^115-1	CF	has factors: 5
+2^126-2^114-1	CF	has factors: 239
+2^126-2^113-1	CF	has factors: 11
+2^126-2^112-1	CF	has factors: 1303
+2^126-2^111-1	CF	has factors: 5
+2^126-2^110-1	CF	has factors: 31
+2^126-2^109-1	CF	has factors: 173
+2^126-2^108-1	CF	has factors: 2207
+2^126-2^107-1	CF	has factors: 5
+2^126-2^106-1	C	is composite: RES64: [92E12A36D50234B5] (0.0000s+0.0065s)
+2^126-2^105-1	CF	has factors: 31
+2^126-2^104-1	C	is composite: RES64: [95CB0E6CDD851026] (0.0000s+0.0206s)
+2^126-2^103-1	CF	has factors: 5
+2^126-2^102-1	CF	has factors: 23
+2^126-2^101-1	CF	has factors: 97
+2^126-2^100-1	CF	has factors: 31
+2^126-2^99-1	CF	has factors: 5^2
+2^126-2^98-1	CF	has factors: 137
+2^126-2^97-1	C	is composite: RES64: [A9AF5AA21E377640] (0.0000s+0.0089s)
+2^126-2^96-1	CF	has factors: 101
+2^126-2^95-1	CF	has factors: 5
+2^126-2^94-1	C	is composite: RES64: [206DB4450E85D25B] (0.0000s+0.0062s)
+2^126-2^93-1	CF	has factors: 11
+2^126-2^92-1	C	is composite: RES64: [1277D0CE14E0FA28] (0.0000s+0.0123s)
+2^126-2^91-1	CF	has factors: 5
+2^126-2^90-1	CF	has factors: 31
+2^126-2^89-1	CF	has factors: 71
+2^126-2^88-1	C	is composite: RES64: [5E9D90FF3A0EF334] (0.0000s+0.0308s)
+2^126-2^87-1	CF	has factors: 5
+2^126-2^86-1	CF	has factors: 2473
+2^126-2^85-1	CF	has factors: 31
+2^126-2^84-1	CF	has factors: 53
+2^126-2^83-1	CF	has factors: 5
+2^126-2^82-1	CF	has factors: 4159
+2^126-2^81-1	CF	has factors: 2707
+2^126-2^80-1	CF	has factors: 23
+2^126-2^79-1	CF	has factors: 5^2
+2^126-2^78-1	P(FactorDB)	is 3-PRP! (0.0000s+0.0032s)	http://factordb.com/index.php?id=1100000001104131800
+2^126-2^77-1	C	is composite: RES64: [5DC7FC76FADB61D2] (0.0000s+0.0106s)
+2^126-2^76-1	CF	has factors: 439
+2^126-2^75-1	CF	has factors: 5
+2^126-2^74-1	P(FactorDB)	is 3-PRP! (0.0000s+0.0075s)	http://factordb.com/index.php?id=1100000001104131799
+2^126-2^73-1	CF	has factors: 11
+2^126-2^72-1	P(FactorDB)	is 3-PRP! (0.0000s+0.0123s)	http://factordb.com/index.php?id=1100000001104131798
+2^126-2^71-1	CF	has factors: 5
+2^126-2^70-1	CF	has factors: 31
+2^126-2^69-1	CF	has factors: 23
+2^126-2^68-1	C	is composite: RES64: [77561342332F3BA4] (0.0000s+0.0121s)
+2^126-2^67-1	CF	has factors: 5
+2^126-2^66-1	CF	has factors: 59
+2^126-2^65-1	CF	has factors: 31
+2^126-2^64-1	C	is composite: RES64: [2C7B70F53F7D27CF] (0.0000s+0.0238s)
+2^126-2^63-1	CF	has factors: 5
+2^126-2^62-1	CF	has factors: 67
+2^126-2^61-1	CF	has factors: 61
+2^126-2^60-1	CF	has factors: 31
+2^126-2^59-1	CF	has factors: 5^4
+2^126-2^58-1	CF	has factors: 23
+2^126-2^57-1	CF	has factors: 3461
+2^126-2^56-1	C	is composite: RES64: [18F44A98FD35C5D7] (0.0000s+0.0245s)
+2^126-2^55-1	CF	has factors: 5
+2^126-2^54-1	CF	has factors: 71
+2^126-2^53-1	CF	has factors: 11
+2^126-2^52-1	CF	has factors: 1277
+2^126-2^51-1	CF	has factors: 5
+2^126-2^50-1	CF	has factors: 31
+2^126-2^49-1	CF	has factors: 131
+2^126-2^48-1	C	is composite: RES64: [27C3410A59240159] (0.0000s+0.0069s)
+2^126-2^47-1	CF	has factors: 5
+2^126-2^46-1	C	is composite: RES64: [8339BC943F0C4EE0] (0.0000s+0.0073s)
+2^126-2^45-1	CF	has factors: 31
+2^126-2^44-1	P(FactorDB)	is 3-PRP! (0.0000s+0.0061s)	http://factordb.com/index.php?id=1100000001104131797
+2^126-2^43-1	CF	has factors: 5
+2^126-2^42-1	C	is composite: RES64: [A08CCA0B7F9E8C98] (0.0000s+0.0124s)
+2^126-2^41-1	CF	has factors: 107
+2^126-2^40-1	CF	has factors: 31
+2^126-2^39-1	CF	has factors: 5^2
+2^126-2^38-1	C	is composite: RES64: [01E91FE2C45449C2] (0.0000s+0.0078s)
+2^126-2^37-1	C	is composite: RES64: [083495429CBC6635] (0.0000s+0.0095s)
+2^126-2^36-1	CF	has factors: 23
+2^126-2^35-1	CF	has factors: 5
+2^126-2^34-1	C	is composite: RES64: [9BEA5A6C0C1227B9] (0.0000s+0.0153s)
+2^126-2^33-1	CF	has factors: 11
+2^126-2^32-1	CF	has factors: 53
+2^126-2^31-1	CF	has factors: 5
+2^126-2^30-1	CF	has factors: 31
+2^126-2^29-1	C	is composite: RES64: [D4B4691B17967173] (0.0000s+0.0169s)
+2^126-2^28-1	CF	has factors: 2351
+2^126-2^27-1	CF	has factors: 5
+2^126-2^26-1	CF	has factors: 479
+2^126-2^25-1	CF	has factors: 23
+2^126-2^24-1	P(FactorDB)	is 3-PRP! (0.0000s+0.0063s)	http://factordb.com/index.php?id=1100000001104131796
+2^126-2^23-1	CF	has factors: 5
+2^126-2^22-1	C	is composite: RES64: [A4422123DE391870] (0.0000s+0.0123s)
+2^126-2^21-1	CF	has factors: 83
+2^126-2^20-1	CF	has factors: 31
+2^126-2^19-1	CF	has factors: 5^2
+2^126-2^18-1	C	is composite: RES64: [88D55EA5D11E1073] (0.0000s+0.0032s)
+2^126-2^17-1	C	is composite: RES64: [9BB361439A95E509] (0.0000s+0.0039s)
+2^126-2^16-1	C	is composite: RES64: [2EDB02A74948B07C] (0.0000s+0.0123s)
+2^126-2^15-1	CF	has factors: 5
+2^126-2^14-1	CF	has factors: 23
+2^126-2^13-1	CF	has factors: 11
+2^126-2^12-1	C	is composite: RES64: [D7095398B219FFC9] (0.0000s+0.0304s)
+2^126-2^11-1	CF	has factors: 5
+2^126-2^10-1	CF	has factors: 31
+2^126-2^9-1	CF	has factors: 281
+2^126-2^8-1	CF	has factors: 59
+2^126-2^7-1	CF	has factors: 5
+2^126-2^6-1	CF	has factors: 983
+2^126-2^5-1	CF	has factors: 31
+2^126-2^4-1	CF	has factors: 373
+2^126-2^3-1	CF	has factors: 5
+2^126-2^2-1	C	is composite: RES64: [75434B523FEDEEC6] (0.0000s+0.0094s)
+2^126-2^1-1	CF	has factors: 61
+2^126-2^0-1	CF	has factors: 2

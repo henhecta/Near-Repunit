@@ -1,0 +1,99 @@
+2^100-2^98-1	C	is composite: RES64: [A87E5B0961D2A6EE] (0.0000s+0.0274s)
+2^100-2^97-1	CF	has factors: 13
+2^100-2^96-1	CF	has factors: 7
+2^100-2^95-1	CF	has factors: 211
+2^100-2^94-1	CF	has factors: 19
+2^100-2^93-1	CF	has factors: 7^2
+2^100-2^92-1	CF	has factors: 29
+2^100-2^91-1	C	is composite: RES64: [F2E2EDADC8041F09] (0.0000s+0.0064s)
+2^100-2^90-1	CF	has factors: 7
+2^100-2^89-1	C	is composite: RES64: [CAA588D16B9689EA] (0.0000s+0.0200s)
+2^100-2^88-1	CF	has factors: 23
+2^100-2^87-1	CF	has factors: 7
+2^100-2^86-1	CF	has factors: 53
+2^100-2^85-1	CF	has factors: 13
+2^100-2^84-1	CF	has factors: 7
+2^100-2^83-1	P(FactorDB)	is 3-PRP! (0.0000s+0.0046s)	http://factordb.com/index.php?id=1100000001104131724
+2^100-2^82-1	P(FactorDB)	is 3-PRP! (0.0000s+0.0385s)	http://factordb.com/index.php?id=1100000001104131723
+2^100-2^81-1	CF	has factors: 7
+2^100-2^80-1	CF	has factors: 241
+2^100-2^79-1	CF	has factors: 173
+2^100-2^78-1	CF	has factors: 7
+2^100-2^77-1	CF	has factors: 17
+2^100-2^76-1	CF	has factors: 19
+2^100-2^75-1	CF	has factors: 7
+2^100-2^74-1	CF	has factors: 227
+2^100-2^73-1	CF	has factors: 13
+2^100-2^72-1	CF	has factors: 7^2
+2^100-2^71-1	C	is composite: RES64: [91FAD2FF6FEED0EB] (0.0000s+0.0032s)
+2^100-2^70-1	C	is composite: RES64: [6A71E71991288DAB] (0.0000s+0.0242s)
+2^100-2^69-1	CF	has factors: 7
+2^100-2^68-1	CF	has factors: 61
+2^100-2^67-1	CF	has factors: 4591
+2^100-2^66-1	CF	has factors: 7
+2^100-2^65-1	CF	has factors: 691
+2^100-2^64-1	CF	has factors: 29
+2^100-2^63-1	CF	has factors: 7
+2^100-2^62-1	C	is composite: RES64: [B9C1411F70DE535D] (0.0000s+0.0090s)
+2^100-2^61-1	CF	has factors: 13
+2^100-2^60-1	CF	has factors: 7
+2^100-2^59-1	C	is composite: RES64: [C929A5583C50A61D] (0.0000s+0.0221s)
+2^100-2^58-1	CF	has factors: 19
+2^100-2^57-1	CF	has factors: 7
+2^100-2^56-1	CF	has factors: 241
+2^100-2^55-1	CF	has factors: 23
+2^100-2^54-1	CF	has factors: 7
+2^100-2^53-1	CF	has factors: 17
+2^100-2^52-1	C	is composite: RES64: [E6C25FF6F63016A3] (0.0000s+0.0080s)
+2^100-2^51-1	CF	has factors: 7^2
+2^100-2^50-1	P(FactorDB)	is 3-PRP! (0.0000s+0.0160s)	http://factordb.com/index.php?id=1100000000662299301
+2^100-2^49-1	CF	has factors: 13
+2^100-2^48-1	CF	has factors: 7
+2^100-2^47-1	C	is composite: RES64: [0B71ABA2BBE35C80] (0.0000s+0.0210s)
+2^100-2^46-1	CF	has factors: 3259
+2^100-2^45-1	CF	has factors: 7
+2^100-2^44-1	CF	has factors: 23
+2^100-2^43-1	CF	has factors: 1913
+2^100-2^42-1	CF	has factors: 7
+2^100-2^41-1	C	is composite: RES64: [9C775CF2551CB4B2] (0.0000s+0.0098s)
+2^100-2^40-1	CF	has factors: 19
+2^100-2^39-1	CF	has factors: 7
+2^100-2^38-1	C	is composite: RES64: [C9C558D182113083] (0.0000s+0.0109s)
+2^100-2^37-1	CF	has factors: 13
+2^100-2^36-1	CF	has factors: 7
+2^100-2^35-1	P(FactorDB)	is 3-PRP! (0.0000s+0.0502s)	http://factordb.com/index.php?id=1100000001104131721
+2^100-2^34-1	CF	has factors: 53
+2^100-2^33-1	CF	has factors: 7
+2^100-2^32-1	CF	has factors: 241
+2^100-2^31-1	CF	has factors: 149
+2^100-2^30-1	CF	has factors: 7^2
+2^100-2^29-1	CF	has factors: 17
+2^100-2^28-1	CF	has factors: 5743
+2^100-2^27-1	CF	has factors: 7
+2^100-2^26-1	CF	has factors: 71
+2^100-2^25-1	CF	has factors: 13
+2^100-2^24-1	CF	has factors: 7
+2^100-2^23-1	CF	has factors: 313
+2^100-2^22-1	CF	has factors: 19
+2^100-2^21-1	CF	has factors: 7
+2^100-2^20-1	CF	has factors: 2459
+2^100-2^19-1	C	is composite: RES64: [76DF3F4CF5DB56EC] (0.0000s+0.0108s)
+2^100-2^18-1	CF	has factors: 7
+2^100-2^17-1	CF	has factors: 1061
+2^100-2^16-1	P(FactorDB)	is 3-PRP! (0.0000s+0.0062s)	http://factordb.com/index.php?id=1100000001104131720
+2^100-2^15-1	CF	has factors: 7
+2^100-2^14-1	C	is composite: RES64: [AA9BC7D154097D46] (0.0000s+0.0129s)
+2^100-2^13-1	CF	has factors: 13
+2^100-2^12-1	CF	has factors: 7
+2^100-2^11-1	CF	has factors: 23
+2^100-2^10-1	C	is composite: RES64: [0E246818D8F3719B] (0.0000s+0.1591s)
+2^100-2^9-1	CF	has factors: 7^2
+2^100-2^8-1	CF	has factors: 29
+2^100-2^7-1	CF	has factors: 103
+2^100-2^6-1	CF	has factors: 7
+2^100-2^5-1	CF	has factors: 17
+2^100-2^4-1	CF	has factors: 19
+2^100-2^3-1	CF	has factors: 7
+2^100-2^2-1	CF	has factors: 4519
+2^100-2^1-1	CF	has factors: 13
+2^100-2^0-1	CF	has factors: 2

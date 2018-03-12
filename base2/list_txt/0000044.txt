@@ -1,0 +1,43 @@
+2^44-2^42-1	CF	has factors: 11
+2^44-2^41-1	CF	has factors: 157
+2^44-2^40-1	CF	has factors: 53
+2^44-2^39-1	CF	has factors: 13
+2^44-2^38-1	CF	has factors: 167
+2^44-2^37-1	CF	has factors: 17
+2^44-2^36-1	CF	has factors: 29
+2^44-2^35-1	C	is composite: RES64: [0000009C10C01E7E] (0.0000s+0.0170s)
+2^44-2^34-1	CF	has factors: 101
+2^44-2^33-1	CF	has factors: 569
+2^44-2^32-1	CF	has factors: 11
+2^44-2^31-1	CF	has factors: 587
+2^44-2^30-1	P(FactorDB)	is 3-PRP! (0.0000s+0.0062s)	http://factordb.com/index.php?id=17591112302591
+2^44-2^29-1	CF	has factors: 17
+2^44-2^28-1	C	is composite: RES64: [000001256A3BEC9E] (0.0000s+0.0060s)
+2^44-2^27-1	CF	has factors: 13^2
+2^44-2^26-1	C	is composite: RES64: [0000059EA37B5625] (0.0000s+0.0514s)
+2^44-2^25-1	CF	has factors: 67
+2^44-2^24-1	CF	has factors: 59
+2^44-2^23-1	CF	has factors: 191
+2^44-2^22-1	CF	has factors: 11
+2^44-2^21-1	CF	has factors: 17
+2^44-2^20-1	CF	has factors: 37
+2^44-2^19-1	CF	has factors: 4271
+2^44-2^18-1	CF	has factors: 197
+2^44-2^17-1	CF	has factors: 251
+2^44-2^16-1	CF	has factors: 241
+2^44-2^15-1	CF	has factors: 13
+2^44-2^14-1	CF	has factors: 79
+2^44-2^13-1	CF	has factors: 17
+2^44-2^12-1	CF	has factors: 11
+2^44-2^11-1	P(FactorDB)	is 3-PRP! (0.0000s+0.0133s)	http://factordb.com/index.php?id=17592186042367
+2^44-2^10-1	CF	has factors: 173
+2^44-2^9-1	CF	has factors: 61
+2^44-2^8-1	CF	has factors: 29
+2^44-2^7-1	P(FactorDB)	is 3-PRP! (0.0000s+0.0110s)	http://factordb.com/index.php?id=17592186044287
+2^44-2^6-1	CF	has factors: 8761
+2^44-2^5-1	CF	has factors: 17
+2^44-2^4-1	P(FactorDB)	is 3-PRP! (0.0000s+0.1083s)	http://factordb.com/index.php?id=17592186044399
+2^44-2^3-1	CF	has factors: 13
+2^44-2^2-1	CF	has factors: 11
+2^44-2^1-1	CF	has factors: 5927
+2^44-2^0-1	CF	has factors: 2

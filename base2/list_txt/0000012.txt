@@ -1,0 +1,11 @@
+2^12-2^10-1	FF	trivially factors as: 37*83
+2^12-2^9-1	P(FactorDB)	is trivially prime!: 3583	http://factordb.com/index.php?id=3583
+2^12-2^8-1	FF	trivially factors as: 11*349
+2^12-2^7-1	P(FactorDB)	is trivially prime!: 3967	http://factordb.com/index.php?id=3967
+2^12-2^6-1	FF	trivially factors as: 29*139
+2^12-2^5-1	FF	trivially factors as: 17*239
+2^12-2^4-1	P(FactorDB)	is trivially prime!: 4079	http://factordb.com/index.php?id=4079
+2^12-2^3-1	FF	trivially factors as: 61*67
+2^12-2^2-1	P(FactorDB)	is trivially prime!: 4091	http://factordb.com/index.php?id=4091
+2^12-2^1-1	P(FactorDB)	is trivially prime!: 4093	http://factordb.com/index.php?id=4093
+2^12-2^0-1	FF	trivially factors as: 2*23*89

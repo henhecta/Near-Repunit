@@ -1,0 +1,49 @@
+2^50-2^48-1	CF	has factors: 263
+2^50-2^47-1	CF	has factors: 5
+2^50-2^46-1	CF	has factors: 163
+2^50-2^45-1	CF	has factors: 2939
+2^50-2^44-1	C	is composite: RES64: [000102114E7A0192] (0.0000s+0.0183s)
+2^50-2^43-1	CF	has factors: 5
+2^50-2^42-1	CF	has factors: 127
+2^50-2^41-1	CF	has factors: 53
+2^50-2^40-1	CF	has factors: 13
+2^50-2^39-1	CF	has factors: 5
+2^50-2^38-1	C	is composite: RES64: [0002BC8F4BA991E9] (0.0000s+0.0045s)
+2^50-2^37-1	P(FactorDB)	is 3-PRP! (0.0000s+0.0045s)	http://factordb.com/index.php?id=1125762467889151
+2^50-2^36-1	P(FactorDB)	is 3-PRP! (0.0000s+0.0120s)	http://factordb.com/index.php?id=1125831187365887
+2^50-2^35-1	CF	has factors: 5
+2^50-2^34-1	CF	has factors: 19
+2^50-2^33-1	CF	has factors: 367
+2^50-2^32-1	C	is composite: RES64: [00038270EA7CC60B] (0.0000s+0.0199s)
+2^50-2^31-1	CF	has factors: 5^2
+2^50-2^30-1	CF	has factors: 29
+2^50-2^29-1	CF	has factors: 67
+2^50-2^28-1	CF	has factors: 13
+2^50-2^27-1	CF	has factors: 5
+2^50-2^26-1	P(FactorDB)	is 3-PRP! (0.0000s+0.0060s)	http://factordb.com/index.php?id=1125899839733759
+2^50-2^25-1	CF	has factors: 421
+2^50-2^24-1	C	is composite: RES64: [0000134779525759] (0.0000s+0.0070s)
+2^50-2^23-1	CF	has factors: 5
+2^50-2^22-1	C	is composite: RES64: [000068B1FFC99656] (0.0000s+0.0064s)
+2^50-2^21-1	CF	has factors: 37
+2^50-2^20-1	C	is composite: RES64: [00029B72B4D2DF0F] (0.0000s+0.0247s)
+2^50-2^19-1	CF	has factors: 5
+2^50-2^18-1	CF	has factors: 293
+2^50-2^17-1	CF	has factors: 2377
+2^50-2^16-1	CF	has factors: 13
+2^50-2^15-1	CF	has factors: 5
+2^50-2^14-1	CF	has factors: 127
+2^50-2^13-1	CF	has factors: 757
+2^50-2^12-1	C	is composite: RES64: [0002BEF2D5E61EC8] (0.0000s+0.0127s)
+2^50-2^11-1	CF	has factors: 5^2
+2^50-2^10-1	CF	has factors: 373
+2^50-2^9-1	CF	has factors: 167
+2^50-2^8-1	C	is composite: RES64: [00002FD9D23806A4] (0.0000s+0.0469s)
+2^50-2^7-1	CF	has factors: 5
+2^50-2^6-1	CF	has factors: 701
+2^50-2^5-1	CF	has factors: 173
+2^50-2^4-1	CF	has factors: 13
+2^50-2^3-1	CF	has factors: 5
+2^50-2^2-1	CF	has factors: 29
+2^50-2^1-1	CF	has factors: 59
+2^50-2^0-1	CF	has factors: 2

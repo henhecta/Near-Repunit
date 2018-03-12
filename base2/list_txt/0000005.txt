@@ -1,0 +1,4 @@
+2^5-2^3-1	P(FactorDB)	is trivially prime!: 23	http://factordb.com/index.php?id=23
+2^5-2^2-1	FF	trivially factors as: 3^3
+2^5-2^1-1	P(FactorDB)	is trivially prime!: 29	http://factordb.com/index.php?id=29
+2^5-2^0-1	FF	trivially factors as: 2*3*5

@@ -1,0 +1,7 @@
+(10^8-1)/9-10^6	FF	trivially factors as: 29*151*2309
+(10^8-1)/9-10^5	FF	trivially factors as: 59*186629
+(10^8-1)/9-10^4	FF	trivially factors as: 7*19^2*23*191
+(10^8-1)/9-10^3	P(FactorDB)	is trivially prime!: 11110111	http://factordb.com/index.php?id=11110111
+(10^8-1)/9-10^2	FF	trivially factors as: 167*66533
+(10^8-1)/9-10^1	P(FactorDB)	is trivially prime!: 11111101	http://factordb.com/index.php?id=11111101
+(10^8-1)/9-10^0	FF	trivially factors as: 2*5*239*4649

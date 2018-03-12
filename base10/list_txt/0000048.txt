@@ -1,0 +1,47 @@
+(10^48-1)/9-10^46	CF	has factors: 3203
+(10^48-1)/9-10^45	CF	has factors: 2473
+(10^48-1)/9-10^44	CF	has factors: 131
+(10^48-1)/9-10^43	CF	has factors: 23
+(10^48-1)/9-10^42	C	is composite: RES64: [ACABEE05087B1631] (0.0000s+0.0042s)
+(10^48-1)/9-10^41	C	is composite: RES64: [EB48FC00E064D7BB] (0.0000s+0.0092s)
+(10^48-1)/9-10^40	CF	has factors: 29
+(10^48-1)/9-10^39	C	is composite: RES64: [C957823C602915D7] (0.0001s+0.0106s)
+(10^48-1)/9-10^38	C	is composite: RES64: [A5E9091519AFC345] (0.0000s+0.0796s)
+(10^48-1)/9-10^37	CF	has factors: 167
+(10^48-1)/9-10^36	CF	has factors: 4969
+(10^48-1)/9-10^35	CF	has factors: 853
+(10^48-1)/9-10^34	CF	has factors: 31
+(10^48-1)/9-10^33	CF	has factors: 151
+(10^48-1)/9-10^32	CF	has factors: 71
+(10^48-1)/9-10^31	C	is composite: RES64: [7E64E7B331D0B850] (0.0001s+0.0588s)
+(10^48-1)/9-10^30	CF	has factors: 19
+(10^48-1)/9-10^29	CF	has factors: 613
+(10^48-1)/9-10^28	C	is composite: RES64: [94CD202E141D25F6] (0.0000s+0.0434s)
+(10^48-1)/9-10^27	CF	has factors: 47
+(10^48-1)/9-10^26	CF	has factors: 601
+(10^48-1)/9-10^25	P(FactorDB)	is 3-PRP! (0.0000s+0.3613s)	http://factordb.com/index.php?id=1100000000294179226
+(10^48-1)/9-10^24	CF	has factors: 1259
+(10^48-1)/9-10^23	CF	has factors: 1319
+(10^48-1)/9-10^22	CF	has factors: 991
+(10^48-1)/9-10^21	CF	has factors: 23
+(10^48-1)/9-10^20	CF	has factors: 2113
+(10^48-1)/9-10^19	CF	has factors: 31^2
+(10^48-1)/9-10^18	CF	has factors: 449
+(10^48-1)/9-10^17	CF	has factors: 1549
+(10^48-1)/9-10^16	CF	has factors: 1327
+(10^48-1)/9-10^15	C	is composite: RES64: [B73F9EB202F16A4F] (0.0000s+0.0033s)
+(10^48-1)/9-10^14	C	is composite: RES64: [9099220EBA602C13] (0.0000s+0.0218s)
+(10^48-1)/9-10^13	CF	has factors: 263
+(10^48-1)/9-10^12	CF	has factors: 19
+(10^48-1)/9-10^11	CF	has factors: 491
+(10^48-1)/9-10^10	CF	has factors: 1009
+(10^48-1)/9-10^9	C	is composite: RES64: [CF901805C9B56C21] (0.0000s+0.0066s)
+(10^48-1)/9-10^8	CF	has factors: 797
+(10^48-1)/9-10^7	C	is composite: RES64: [52F09BC5102710A9] (0.0000s+0.0054s)
+(10^48-1)/9-10^6	P(FactorDB)	is 3-PRP! (0.0000s+0.0034s)	http://factordb.com/index.php?id=1100000000294179229
+(10^48-1)/9-10^5	C	is composite: RES64: [452CF87AF47FFAF1] (0.0000s+0.0067s)
+(10^48-1)/9-10^4	CF	has factors: 31
+(10^48-1)/9-10^3	C	is composite: RES64: [37031B2C279407FE] (0.0000s+0.1075s)
+(10^48-1)/9-10^2	CF	has factors: 2203
+(10^48-1)/9-10^1	CF	has factors: 67
+(10^48-1)/9-10^0	CF	has factors: 2

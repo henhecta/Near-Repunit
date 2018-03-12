@@ -1,0 +1,53 @@
+2^54-2^52-1	CF	has factors: 11
+2^54-2^51-1	CF	has factors: 5
+2^54-2^50-1	CF	has factors: 1019
+2^54-2^49-1	CF	has factors: 7621
+2^54-2^48-1	C	is composite: RES64: [000CF753C9888B2C] (0.0000s+0.0141s)
+2^54-2^47-1	CF	has factors: 5
+2^54-2^46-1	CF	has factors: 211
+2^54-2^45-1	CF	has factors: 29
+2^54-2^44-1	P(FactorDB)	is 3-PRP! (0.0000s+0.0105s)	http://factordb.com/index.php?id=17996806323437567
+2^54-2^43-1	CF	has factors: 5^2
+2^54-2^42-1	CF	has factors: 11
+2^54-2^41-1	P(FactorDB)	is 3-PRP! (0.0000s+0.0038s)	http://factordb.com/index.php?id=18012199486226431
+2^54-2^40-1	C	is composite: RES64: [000A3144FB16B17C] (0.0000s+0.0148s)
+2^54-2^39-1	CF	has factors: 5
+2^54-2^38-1	CF	has factors: 773
+2^54-2^37-1	CF	has factors: 163
+2^54-2^36-1	P(FactorDB)	is 3-PRP! (0.0000s+0.0381s)	http://factordb.com/index.php?id=18014329790005247
+2^54-2^35-1	CF	has factors: 5
+2^54-2^34-1	CF	has factors: 229
+2^54-2^33-1	CF	has factors: 307
+2^54-2^32-1	CF	has factors: 11^2
+2^54-2^31-1	CF	has factors: 5
+2^54-2^30-1	CF	has factors: 1973
+2^54-2^29-1	CF	has factors: 8269
+2^54-2^28-1	P(FactorDB)	is 3-PRP! (0.0000s+0.0213s)	http://factordb.com/index.php?id=18014398241046527
+2^54-2^27-1	CF	has factors: 5
+2^54-2^26-1	CF	has factors: 353
+2^54-2^25-1	CF	has factors: 61
+2^54-2^24-1	CF	has factors: 67
+2^54-2^23-1	CF	has factors: 5^3
+2^54-2^22-1	CF	has factors: 11
+2^54-2^21-1	C	is composite: RES64: [001E42B0574E653F] (0.0000s+0.0147s)
+2^54-2^20-1	CF	has factors: 197
+2^54-2^19-1	CF	has factors: 5
+2^54-2^18-1	CF	has factors: 1553
+2^54-2^17-1	CF	has factors: 29
+2^54-2^16-1	C	is composite: RES64: [003216E3E9EBC503] (0.0000s+0.0274s)
+2^54-2^15-1	CF	has factors: 5
+2^54-2^14-1	CF	has factors: 103
+2^54-2^13-1	CF	has factors: 7529
+2^54-2^12-1	CF	has factors: 11
+2^54-2^11-1	CF	has factors: 5
+2^54-2^10-1	CF	has factors: 1993
+2^54-2^9-1	CF	has factors: 3307
+2^54-2^8-1	P(FactorDB)	is 3-PRP! (0.0000s+0.0066s)	http://factordb.com/index.php?id=18014398509481727
+2^54-2^7-1	CF	has factors: 5
+2^54-2^6-1	C	is composite: RES64: [00235107F443694C] (0.0000s+0.0050s)
+2^54-2^5-1	P(FactorDB)	is 3-PRP! (0.0000s+0.0039s)	http://factordb.com/index.php?id=18014398509481951
+2^54-2^4-1	C	is composite: RES64: [001E6090CACBA258] (0.0000s+0.0098s)
+2^54-2^3-1	CF	has factors: 5^2
+2^54-2^2-1	CF	has factors: 11
+2^54-2^1-1	C	is composite: RES64: [003B09EB5B021C1A] (0.0000s+0.0373s)
+2^54-2^0-1	CF	has factors: 2

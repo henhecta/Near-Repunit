@@ -1,0 +1,22 @@
+
+table {
+    text-align: left;
+    font-weight: bold;
+    border-collapse: collapse;
+    overflow: scroll;
+    white-space: nowrap;
+    empty-cells: show;
+}
+
+    table th {
+        font-size: 17px;
+        padding: 3px;
+    }
+
+    table tr td{
+        padding: 5px;
+    }
+
+        table tr:nth-child(odd) td {
+            background: #EEEEEE;
+        }

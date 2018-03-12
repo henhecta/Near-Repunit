@@ -1,0 +1,41 @@
+2^42-2^40-1	C	is composite: RES64: [000000A1166D437B] (0.0000s+0.0108s)
+2^42-2^39-1	CF	has factors: 5
+2^42-2^38-1	CF	has factors: 11
+2^42-2^37-1	P(FactorDB)	is 3-PRP! (0.0000s+0.0658s)	http://factordb.com/index.php?id=4260607557631
+2^42-2^36-1	CF	has factors: 199
+2^42-2^35-1	CF	has factors: 5
+2^42-2^34-1	CF	has factors: 293
+2^42-2^33-1	C	is composite: RES64: [0000035F6764878D] (0.0000s+0.0347s)
+2^42-2^32-1	CF	has factors: 19
+2^42-2^31-1	CF	has factors: 5
+2^42-2^30-1	CF	has factors: 229
+2^42-2^29-1	CF	has factors: 503
+2^42-2^28-1	CF	has factors: 11
+2^42-2^27-1	CF	has factors: 5^3
+2^42-2^26-1	CF	has factors: 947
+2^42-2^25-1	CF	has factors: 311
+2^42-2^24-1	CF	has factors: 47
+2^42-2^23-1	CF	has factors: 5
+2^42-2^22-1	P(FactorDB)	is 3-PRP! (0.0000s+0.0219s)	http://factordb.com/index.php?id=4398042316799
+2^42-2^21-1	CF	has factors: 4751
+2^42-2^20-1	CF	has factors: 53
+2^42-2^19-1	CF	has factors: 5
+2^42-2^18-1	CF	has factors: 11
+2^42-2^17-1	CF	has factors: 449
+2^42-2^16-1	P(FactorDB)	is 3-PRP! (0.0000s+0.0597s)	http://factordb.com/index.php?id=4398046445567
+2^42-2^15-1	CF	has factors: 5
+2^42-2^14-1	CF	has factors: 19^2
+2^42-2^13-1	CF	has factors: 4523
+2^42-2^12-1	CF	has factors: 37
+2^42-2^11-1	CF	has factors: 5
+2^42-2^10-1	CF	has factors: 3259
+2^42-2^9-1	CF	has factors: 313
+2^42-2^8-1	CF	has factors: 11
+2^42-2^7-1	CF	has factors: 5^2
+2^42-2^6-1	P(FactorDB)	is 3-PRP! (0.0000s+0.0063s)	http://factordb.com/index.php?id=4398046511039
+2^42-2^5-1	P(FactorDB)	is 3-PRP! (0.0000s+0.0063s)	http://factordb.com/index.php?id=4398046511071
+2^42-2^4-1	P(FactorDB)	is 3-PRP! (0.0000s+0.0203s)	http://factordb.com/index.php?id=4398046511087
+2^42-2^3-1	CF	has factors: 5
+2^42-2^2-1	CF	has factors: 3061
+2^42-2^1-1	CF	has factors: 47
+2^42-2^0-1	CF	has factors: 2

@@ -1,0 +1,11 @@
+(10^12-1)/9-10^10	P(FactorDB)	is trivially prime!: 101111111111	http://factordb.com/index.php?id=101111111111
+(10^12-1)/9-10^9	FF	trivially factors as: 17*6477124183
+(10^12-1)/9-10^8	P(FactorDB)	is trivially prime!: 111011111111	http://factordb.com/index.php?id=111011111111
+(10^12-1)/9-10^7	FF	trivially factors as: 18917*5873083
+(10^12-1)/9-10^6	FF	trivially factors as: 97*29581*38723
+(10^12-1)/9-10^5	P(FactorDB)	is trivially prime!: 111111011111	http://factordb.com/index.php?id=111111011111
+(10^12-1)/9-10^4	FF	trivially factors as: 163*681663197
+(10^12-1)/9-10^3	P(FactorDB)	is trivially prime!: 111111110111	http://factordb.com/index.php?id=111111110111
+(10^12-1)/9-10^2	FF	trivially factors as: 5273*21071707
+(10^12-1)/9-10^1	P(FactorDB)	is trivially prime!: 111111111101	http://factordb.com/index.php?id=111111111101
+(10^12-1)/9-10^0	FF	trivially factors as: 2*5*21649*513239

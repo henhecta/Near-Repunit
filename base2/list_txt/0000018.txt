@@ -1,0 +1,17 @@
+2^18-2^16-1	FF	trivially factors as: 421*467
+2^18-2^15-1	FF	trivially factors as: 5^4*367
+2^18-2^14-1	P(FactorDB)	is trivially prime!: 245759	http://factordb.com/index.php?id=245759
+2^18-2^13-1	P(FactorDB)	is trivially prime!: 253951	http://factordb.com/index.php?id=253951
+2^18-2^12-1	FF	trivially factors as: 83*3109
+2^18-2^11-1	FF	trivially factors as: 5*11*4729
+2^18-2^10-1	FF	trivially factors as: 23*11353
+2^18-2^9-1	P(FactorDB)	is trivially prime!: 261631	http://factordb.com/index.php?id=261631
+2^18-2^8-1	P(FactorDB)	is trivially prime!: 261887	http://factordb.com/index.php?id=261887
+2^18-2^7-1	FF	trivially factors as: 5*13*29*139
+2^18-2^6-1	P(FactorDB)	is trivially prime!: 262079	http://factordb.com/index.php?id=262079
+2^18-2^5-1	P(FactorDB)	is trivially prime!: 262111	http://factordb.com/index.php?id=262111
+2^18-2^4-1	P(FactorDB)	is trivially prime!: 262127	http://factordb.com/index.php?id=262127
+2^18-2^3-1	FF	trivially factors as: 5*103*509
+2^18-2^2-1	P(FactorDB)	is trivially prime!: 262139	http://factordb.com/index.php?id=262139
+2^18-2^1-1	FF	trivially factors as: 11*23831
+2^18-2^0-1	FF	trivially factors as: 2*131071

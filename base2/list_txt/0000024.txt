@@ -1,0 +1,23 @@
+2^24-2^22-1	FF	trivially factors as: 11^2*103991
+2^24-2^21-1	P(FactorDB)	is trivially prime!: 14680063	http://factordb.com/index.php?id=14680063
+2^24-2^20-1	FF	trivially factors as: 487*32297
+2^24-2^19-1	FF	trivially factors as: 23*53*67*199
+2^24-2^18-1	FF	trivially factors as: 2521*6551
+2^24-2^17-1	FF	trivially factors as: 113*147311
+2^24-2^16-1	FF	trivially factors as: 37*451667
+2^24-2^15-1	P(FactorDB)	is trivially prime!: 16744447	http://factordb.com/index.php?id=16744447
+2^24-2^14-1	FF	trivially factors as: 19*239*3691
+2^24-2^13-1	P(FactorDB)	is trivially prime!: 16769023	http://factordb.com/index.php?id=16769023
+2^24-2^12-1	FF	trivially factors as: 11*1524829
+2^24-2^11-1	FF	trivially factors as: 1531*10957
+2^24-2^10-1	P(FactorDB)	is trivially prime!: 16776191	http://factordb.com/index.php?id=16776191
+2^24-2^9-1	FF	trivially factors as: 29*257*2251
+2^24-2^8-1	FF	trivially factors as: 23*223*3271
+2^24-2^7-1	FF	trivially factors as: 71*236297
+2^24-2^6-1	FF	trivially factors as: 79*212369
+2^24-2^5-1	P(FactorDB)	is trivially prime!: 16777183	http://factordb.com/index.php?id=16777183
+2^24-2^4-1	P(FactorDB)	is trivially prime!: 16777199	http://factordb.com/index.php?id=16777199
+2^24-2^3-1	FF	trivially factors as: 4093*4099
+2^24-2^2-1	FF	trivially factors as: 11*101*15101
+2^24-2^1-1	P(FactorDB)	is trivially prime!: 16777213	http://factordb.com/index.php?id=16777213
+2^24-2^0-1	FF	trivially factors as: 2*47*178481

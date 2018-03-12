@@ -1,0 +1,3143 @@
+(10^3144-1)/9-10^3142	CF	has factors: 29
+(10^3144-1)/9-10^3141	CF	has factors: 157
+(10^3144-1)/9-10^3140	C	is composite: RES64: [7C0D9FB37779DE0B] (0.1089s+0.0478s)
+(10^3144-1)/9-10^3139	CF	has factors: 7919
+(10^3144-1)/9-10^3138	CF	has factors: 577
+(10^3144-1)/9-10^3137	CF	has factors: 2659
+(10^3144-1)/9-10^3136	CF	has factors: 23
+(10^3144-1)/9-10^3135	C	is composite: RES64: [D140409E0018F518] (0.1120s+0.0305s)
+(10^3144-1)/9-10^3134	C	is composite: RES64: [7311A92AA1C450C4] (0.1253s+0.0644s)
+(10^3144-1)/9-10^3133	CF	has factors: 33181
+(10^3144-1)/9-10^3132	CF	has factors: 17
+(10^3144-1)/9-10^3131	CF	has factors: 47
+(10^3144-1)/9-10^3130	CF	has factors: 241
+(10^3144-1)/9-10^3129	CF	has factors: 239
+(10^3144-1)/9-10^3128	C	is composite: RES64: [7BFD4B3BF5978E75] (0.1177s+0.0479s)
+(10^3144-1)/9-10^3127	CF	has factors: 317
+(10^3144-1)/9-10^3126	CF	has factors: 19
+(10^3144-1)/9-10^3125	C	is composite: RES64: [EA5900EA6F448708] (0.1164s+0.0516s)
+(10^3144-1)/9-10^3124	C	is composite: RES64: [AC8272FE8DAE6493] (0.1147s+0.0443s)
+(10^3144-1)/9-10^3123	CF	has factors: 43
+(10^3144-1)/9-10^3122	CF	has factors: 239
+(10^3144-1)/9-10^3121	CF	has factors: 113
+(10^3144-1)/9-10^3120	C	is composite: RES64: [26DAF401037D0119] (0.1174s+0.0589s)
+(10^3144-1)/9-10^3119	CF	has factors: 1453
+(10^3144-1)/9-10^3118	CF	has factors: 15439
+(10^3144-1)/9-10^3117	CF	has factors: 61
+(10^3144-1)/9-10^3116	CF	has factors: 17^2
+(10^3144-1)/9-10^3115	CF	has factors: 239
+(10^3144-1)/9-10^3114	CF	has factors: 23
+(10^3144-1)/9-10^3113	CF	has factors: 1549
+(10^3144-1)/9-10^3112	C	is composite: RES64: [F1EF090E83A3F432] (0.1187s+0.0598s)
+(10^3144-1)/9-10^3111	CF	has factors: 347
+(10^3144-1)/9-10^3110	CF	has factors: 53
+(10^3144-1)/9-10^3109	CF	has factors: 2087
+(10^3144-1)/9-10^3108	CF	has factors: 19
+(10^3144-1)/9-10^3107	CF	has factors: 1823
+(10^3144-1)/9-10^3106	P(FactorDB)	is 3-PRP! (0.1108s+0.0287s)	http://factordb.com/index.php?id=1100000001101412256
+(10^3144-1)/9-10^3105	C	is composite: RES64: [9703913E5EA0501B] (0.1087s+0.0354s)
+(10^3144-1)/9-10^3104	CF	has factors: 7307
+(10^3144-1)/9-10^3103	C	is composite: RES64: [7CE648DC0C6FCEC6] (0.1111s+0.0585s)
+(10^3144-1)/9-10^3102	CF	has factors: 43
+(10^3144-1)/9-10^3101	CF	has factors: 239
+(10^3144-1)/9-10^3100	CF	has factors: 17
+(10^3144-1)/9-10^3099	CF	has factors: 109
+(10^3144-1)/9-10^3098	CF	has factors: 5393
+(10^3144-1)/9-10^3097	CF	has factors: 53
+(10^3144-1)/9-10^3096	CF	has factors: 379
+(10^3144-1)/9-10^3095	C	is composite: RES64: [884D766EB7CF15DB] (0.1126s+0.0593s)
+(10^3144-1)/9-10^3094	CF	has factors: 197
+(10^3144-1)/9-10^3093	CF	has factors: 13033
+(10^3144-1)/9-10^3092	CF	has factors: 23
+(10^3144-1)/9-10^3091	CF	has factors: 491
+(10^3144-1)/9-10^3090	CF	has factors: 19
+(10^3144-1)/9-10^3089	CF	has factors: 12373
+(10^3144-1)/9-10^3088	C	is composite: RES64: [7137FD865CEC4421] (0.1116s+0.0438s)
+(10^3144-1)/9-10^3087	CF	has factors: 239
+(10^3144-1)/9-10^3086	CF	has factors: 29
+(10^3144-1)/9-10^3085	CF	has factors: 47
+(10^3144-1)/9-10^3084	CF	has factors: 17
+(10^3144-1)/9-10^3083	C	is composite: RES64: [FCB43B657399C984] (0.1105s+0.0297s)
+(10^3144-1)/9-10^3082	C	is composite: RES64: [6F025C6BF13E117C] (0.1089s+0.0445s)
+(10^3144-1)/9-10^3081	CF	has factors: 43
+(10^3144-1)/9-10^3080	CF	has factors: 239
+(10^3144-1)/9-10^3079	CF	has factors: 191
+(10^3144-1)/9-10^3078	CF	has factors: 887
+(10^3144-1)/9-10^3077	C	is composite: RES64: [DBC81D7D83FE5039] (0.1072s+0.0344s)
+(10^3144-1)/9-10^3076	CF	has factors: 151
+(10^3144-1)/9-10^3075	C	is composite: RES64: [452451C04A9B728D] (0.1098s+0.0289s)
+(10^3144-1)/9-10^3074	C	is composite: RES64: [017B7144CA21993C] (0.1122s+0.0468s)
+(10^3144-1)/9-10^3073	CF	has factors: 239
+(10^3144-1)/9-10^3072	CF	has factors: 19
+(10^3144-1)/9-10^3071	CF	has factors: 53
+(10^3144-1)/9-10^3070	CF	has factors: 23
+(10^3144-1)/9-10^3069	C	is composite: RES64: [E15CA799B0CED70F] (0.1100s+0.0438s)
+(10^3144-1)/9-10^3068	CF	has factors: 17
+(10^3144-1)/9-10^3067	CF	has factors: 359
+(10^3144-1)/9-10^3066	CF	has factors: 239
+(10^3144-1)/9-10^3065	CF	has factors: 797
+(10^3144-1)/9-10^3064	C	is composite: RES64: [5B3543640C61EFE1] (0.1094s+0.0366s)
+(10^3144-1)/9-10^3063	CF	has factors: 157
+(10^3144-1)/9-10^3062	CF	has factors: 71
+(10^3144-1)/9-10^3061	C	is composite: RES64: [F09BA3F35A327ECC] (0.1099s+0.0435s)
+(10^3144-1)/9-10^3060	CF	has factors: 43
+(10^3144-1)/9-10^3059	CF	has factors: 239
+(10^3144-1)/9-10^3058	CF	has factors: 29^2
+(10^3144-1)/9-10^3057	CF	has factors: 61
+(10^3144-1)/9-10^3056	C	is composite: RES64: [4A4F66ADAE44F90C] (0.1088s+0.0291s)
+(10^3144-1)/9-10^3055	C	is composite: RES64: [06DF11408400E4C0] (0.1083s+0.0455s)
+(10^3144-1)/9-10^3054	CF	has factors: 19
+(10^3144-1)/9-10^3053	CF	has factors: 199
+(10^3144-1)/9-10^3052	CF	has factors: 17
+(10^3144-1)/9-10^3051	CF	has factors: 307
+(10^3144-1)/9-10^3050	C	is composite: RES64: [7170BD7F9184D164] (0.1079s+0.0291s)
+(10^3144-1)/9-10^3049	C	is composite: RES64: [0EDEFBA83A836BCD] (0.1100s+0.0322s)
+(10^3144-1)/9-10^3048	CF	has factors: 23
+(10^3144-1)/9-10^3047	C	is composite: RES64: [89A3C575F25E2722] (0.1084s+0.0288s)
+(10^3144-1)/9-10^3046	C	is composite: RES64: [666C12F843B6DE27] (0.1119s+0.0332s)
+(10^3144-1)/9-10^3045	CF	has factors: 53
+(10^3144-1)/9-10^3044	C	is composite: RES64: [A96F8AF148D19E7F] (0.1093s+0.0383s)
+(10^3144-1)/9-10^3043	CF	has factors: 283
+(10^3144-1)/9-10^3042	CF	has factors: 6029
+(10^3144-1)/9-10^3041	C	is composite: RES64: [6B92F00D3372120F] (0.1092s+0.0388s)
+(10^3144-1)/9-10^3040	CF	has factors: 241
+(10^3144-1)/9-10^3039	CF	has factors: 43
+(10^3144-1)/9-10^3038	CF	has factors: 239
+(10^3144-1)/9-10^3037	C	is composite: RES64: [0987FAADDF671726] (0.1098s+0.0601s)
+(10^3144-1)/9-10^3036	CF	has factors: 17
+(10^3144-1)/9-10^3035	CF	has factors: 3593
+(10^3144-1)/9-10^3034	CF	has factors: 419
+(10^3144-1)/9-10^3033	CF	has factors: 6133
+(10^3144-1)/9-10^3032	CF	has factors: 53
+(10^3144-1)/9-10^3031	CF	has factors: 239
+(10^3144-1)/9-10^3030	CF	has factors: 29
+(10^3144-1)/9-10^3029	C	is composite: RES64: [8F47B78929363E53] (0.1101s+0.0630s)
+(10^3144-1)/9-10^3028	CF	has factors: 59
+(10^3144-1)/9-10^3027	CF	has factors: 71
+(10^3144-1)/9-10^3026	CF	has factors: 23
+(10^3144-1)/9-10^3025	CF	has factors: 181
+(10^3144-1)/9-10^3024	CF	has factors: 239
+(10^3144-1)/9-10^3023	CF	has factors: 2207
+(10^3144-1)/9-10^3022	CF	has factors: 23971
+(10^3144-1)/9-10^3021	C	is composite: RES64: [2BBCCB284081B06A] (0.1115s+0.0603s)
+(10^3144-1)/9-10^3020	CF	has factors: 17
+(10^3144-1)/9-10^3019	CF	has factors: 53
+(10^3144-1)/9-10^3018	CF	has factors: 19
+(10^3144-1)/9-10^3017	CF	has factors: 239
+(10^3144-1)/9-10^3016	CF	has factors: 389
+(10^3144-1)/9-10^3015	CF	has factors: 269
+(10^3144-1)/9-10^3014	CF	has factors: 433
+(10^3144-1)/9-10^3013	CF	has factors: 1327
+(10^3144-1)/9-10^3012	C	is composite: RES64: [CC92EAD56CF85B99] (0.1108s+0.0303s)
+(10^3144-1)/9-10^3011	C	is composite: RES64: [8A6B913558118AE4] (0.1107s+0.0765s)
+(10^3144-1)/9-10^3010	CF	has factors: 239
+(10^3144-1)/9-10^3009	CF	has factors: 113
+(10^3144-1)/9-10^3008	CF	has factors: 4969
+(10^3144-1)/9-10^3007	CF	has factors: 6829
+(10^3144-1)/9-10^3006	CF	has factors: 53
+(10^3144-1)/9-10^3005	CF	has factors: 523
+(10^3144-1)/9-10^3004	CF	has factors: 17
+(10^3144-1)/9-10^3003	CF	has factors: 239
+(10^3144-1)/9-10^3002	CF	has factors: 29
+(10^3144-1)/9-10^3001	CF	has factors: 151
+(10^3144-1)/9-10^3000	CF	has factors: 19
+(10^3144-1)/9-10^2999	CF	has factors: 683
+(10^3144-1)/9-10^2998	C	is composite: RES64: [7140447284DD27EF] (0.1084s+0.0548s)
+(10^3144-1)/9-10^2997	CF	has factors: 43
+(10^3144-1)/9-10^2996	CF	has factors: 197
+(10^3144-1)/9-10^2995	CF	has factors: 1153
+(10^3144-1)/9-10^2994	CF	has factors: 2213
+(10^3144-1)/9-10^2993	CF	has factors: 47
+(10^3144-1)/9-10^2992	CF	has factors: 71
+(10^3144-1)/9-10^2991	CF	has factors: 109
+(10^3144-1)/9-10^2990	C	is composite: RES64: [29400B6BE32EFBE0] (0.1079s+0.0357s)
+(10^3144-1)/9-10^2989	CF	has factors: 179
+(10^3144-1)/9-10^2988	CF	has factors: 17
+(10^3144-1)/9-10^2987	C	is composite: RES64: [F5D6E1483B697E3E] (0.1069s+0.0353s)
+(10^3144-1)/9-10^2986	C	is composite: RES64: [F6E0266E346CF2AE] (0.1120s+0.0364s)
+(10^3144-1)/9-10^2985	CF	has factors: 157
+(10^3144-1)/9-10^2984	CF	has factors: 191
+(10^3144-1)/9-10^2983	C	is composite: RES64: [376282CCC6FAFE4A] (0.1092s+0.0404s)
+(10^3144-1)/9-10^2982	CF	has factors: 19
+(10^3144-1)/9-10^2981	CF	has factors: 503
+(10^3144-1)/9-10^2980	CF	has factors: 53
+(10^3144-1)/9-10^2979	C	is composite: RES64: [02EEBEA5A9E7BD9A] (0.1095s+0.0295s)
+(10^3144-1)/9-10^2978	C	is composite: RES64: [B1AC5010E571D383] (0.1122s+0.0745s)
+(10^3144-1)/9-10^2977	CF	has factors: 373
+(10^3144-1)/9-10^2976	CF	has factors: 43
+(10^3144-1)/9-10^2975	CF	has factors: 239
+(10^3144-1)/9-10^2974	CF	has factors: 29
+(10^3144-1)/9-10^2973	CF	has factors: 709
+(10^3144-1)/9-10^2972	CF	has factors: 17
+(10^3144-1)/9-10^2971	CF	has factors: 223
+(10^3144-1)/9-10^2970	CF	has factors: 59
+(10^3144-1)/9-10^2969	CF	has factors: 149
+(10^3144-1)/9-10^2968	CF	has factors: 233
+(10^3144-1)/9-10^2967	CF	has factors: 53
+(10^3144-1)/9-10^2966	C	is composite: RES64: [38A6D186DC1F0B2A] (0.1282s+0.0295s)
+(10^3144-1)/9-10^2965	C	is composite: RES64: [BD48C229450B1F4E] (0.1100s+0.0424s)
+(10^3144-1)/9-10^2964	CF	has factors: 19
+(10^3144-1)/9-10^2963	CF	has factors: 1619
+(10^3144-1)/9-10^2962	C	is composite: RES64: [6463DEDC0426C10F] (0.1127s+0.0751s)
+(10^3144-1)/9-10^2961	CF	has factors: 239
+(10^3144-1)/9-10^2960	CF	has factors: 23
+(10^3144-1)/9-10^2959	CF	has factors: 701
+(10^3144-1)/9-10^2958	CF	has factors: 3257
+(10^3144-1)/9-10^2957	CF	has factors: 71
+(10^3144-1)/9-10^2956	CF	has factors: 17
+(10^3144-1)/9-10^2955	CF	has factors: 43
+(10^3144-1)/9-10^2954	CF	has factors: 53
+(10^3144-1)/9-10^2953	C	is composite: RES64: [429E10A39E066BCF] (0.1224s+0.0402s)
+(10^3144-1)/9-10^2952	CF	has factors: 1373
+(10^3144-1)/9-10^2951	CF	has factors: 107
+(10^3144-1)/9-10^2950	CF	has factors: 241
+(10^3144-1)/9-10^2949	C	is composite: RES64: [776F335C38FBF1ED] (0.1113s+0.0453s)
+(10^3144-1)/9-10^2948	CF	has factors: 1301
+(10^3144-1)/9-10^2947	CF	has factors: 47
+(10^3144-1)/9-10^2946	CF	has factors: 19
+(10^3144-1)/9-10^2945	CF	has factors: 6521
+(10^3144-1)/9-10^2944	C	is composite: RES64: [32FB115DC22350F6] (0.1082s+0.0590s)
+(10^3144-1)/9-10^2943	CF	has factors: 1361
+(10^3144-1)/9-10^2942	CF	has factors: 12329
+(10^3144-1)/9-10^2941	CF	has factors: 53
+(10^3144-1)/9-10^2940	CF	has factors: 17
+(10^3144-1)/9-10^2939	CF	has factors: 557
+(10^3144-1)/9-10^2938	CF	has factors: 23
+(10^3144-1)/9-10^2937	CF	has factors: 61
+(10^3144-1)/9-10^2936	C	is composite: RES64: [0560F13CAD27FBF8] (0.1082s+0.0537s)
+(10^3144-1)/9-10^2935	CF	has factors: 45817
+(10^3144-1)/9-10^2934	CF	has factors: 43
+(10^3144-1)/9-10^2933	CF	has factors: 239
+(10^3144-1)/9-10^2932	C	is composite: RES64: [8EF3F101E70C0180] (0.1081s+0.0337s)
+(10^3144-1)/9-10^2931	CF	has factors: 97
+(10^3144-1)/9-10^2930	C	is composite: RES64: [09CDF1A249C4E7BE] (0.1100s+0.0555s)
+(10^3144-1)/9-10^2929	CF	has factors: 677
+(10^3144-1)/9-10^2928	CF	has factors: 19
+(10^3144-1)/9-10^2927	CF	has factors: 23671
+(10^3144-1)/9-10^2926	CF	has factors: 151
+(10^3144-1)/9-10^2925	C	is composite: RES64: [854214582B355863] (0.1083s+0.0328s)
+(10^3144-1)/9-10^2924	CF	has factors: 17
+(10^3144-1)/9-10^2923	C	is composite: RES64: [428FD40E661471E3] (0.1100s+0.0343s)
+(10^3144-1)/9-10^2922	CF	has factors: 71
+(10^3144-1)/9-10^2921	C	is composite: RES64: [5170564FE7154465] (0.1073s+0.0407s)
+(10^3144-1)/9-10^2920	CF	has factors: 241
+(10^3144-1)/9-10^2919	CF	has factors: 239
+(10^3144-1)/9-10^2918	CF	has factors: 29
+(10^3144-1)/9-10^2917	C	is composite: RES64: [E0D4140C348AE746] (0.1080s+0.0476s)
+(10^3144-1)/9-10^2916	CF	has factors: 23
+(10^3144-1)/9-10^2915	CF	has factors: 53
+(10^3144-1)/9-10^2914	CF	has factors: 631
+(10^3144-1)/9-10^2913	CF	has factors: 43
+(10^3144-1)/9-10^2912	CF	has factors: 59
+(10^3144-1)/9-10^2911	C	is composite: RES64: [5BBE63C0DCE316F2] (0.1093s+0.0601s)
+(10^3144-1)/9-10^2910	CF	has factors: 19^2
+(10^3144-1)/9-10^2909	CF	has factors: 15277
+(10^3144-1)/9-10^2908	CF	has factors: 17
+(10^3144-1)/9-10^2907	CF	has factors: 157^2
+(10^3144-1)/9-10^2906	CF	has factors: 1579
+(10^3144-1)/9-10^2905	CF	has factors: 239
+(10^3144-1)/9-10^2904	CF	has factors: 3533
+(10^3144-1)/9-10^2903	C	is composite: RES64: [7BC553D6181EA4A8] (0.1100s+0.0368s)
+(10^3144-1)/9-10^2902	CF	has factors: 53
+(10^3144-1)/9-10^2901	CF	has factors: 47
+(10^3144-1)/9-10^2900	C	is composite: RES64: [D67D2A8ED873B0B4] (0.1114s+0.0297s)
+(10^3144-1)/9-10^2899	C	is composite: RES64: [61860DE8E8589731] (0.1094s+0.0496s)
+(10^3144-1)/9-10^2898	CF	has factors: 107
+(10^3144-1)/9-10^2897	CF	has factors: 113
+(10^3144-1)/9-10^2896	CF	has factors: 929
+(10^3144-1)/9-10^2895	CF	has factors: 337
+(10^3144-1)/9-10^2894	CF	has factors: 23
+(10^3144-1)/9-10^2893	C	is composite: RES64: [C92726A7C5CD9F9F] (0.1079s+0.0499s)
+(10^3144-1)/9-10^2892	CF	has factors: 17
+(10^3144-1)/9-10^2891	CF	has factors: 227
+(10^3144-1)/9-10^2890	CF	has factors: 29
+(10^3144-1)/9-10^2889	CF	has factors: 53
+(10^3144-1)/9-10^2888	CF	has factors: 359
+(10^3144-1)/9-10^2887	CF	has factors: 71
+(10^3144-1)/9-10^2886	C	is composite: RES64: [63EE0CC2B943799B] (0.1070s+0.0918s)
+(10^3144-1)/9-10^2885	CF	has factors: 967
+(10^3144-1)/9-10^2884	CF	has factors: 239
+(10^3144-1)/9-10^2883	CF	has factors: 109
+(10^3144-1)/9-10^2882	CF	has factors: 5503
+(10^3144-1)/9-10^2881	CF	has factors: 1607
+(10^3144-1)/9-10^2880	CF	has factors: 3373
+(10^3144-1)/9-10^2879	CF	has factors: 4133
+(10^3144-1)/9-10^2878	CF	has factors: 60689
+(10^3144-1)/9-10^2877	CF	has factors: 61
+(10^3144-1)/9-10^2876	CF	has factors: 17
+(10^3144-1)/9-10^2875	C	is composite: RES64: [80B4BD057DEC6D25] (0.1095s+0.0332s)
+(10^3144-1)/9-10^2874	CF	has factors: 19
+(10^3144-1)/9-10^2873	C	is composite: RES64: [B5FA9F3B8FFF4961] (0.1114s+0.0387s)
+(10^3144-1)/9-10^2872	CF	has factors: 23
+(10^3144-1)/9-10^2871	CF	has factors: 43
+(10^3144-1)/9-10^2870	CF	has factors: 239
+(10^3144-1)/9-10^2869	C	is composite: RES64: [1D57A9E1373CDE9D] (0.1076s+0.0815s)
+(10^3144-1)/9-10^2868	CF	has factors: 907
+(10^3144-1)/9-10^2867	CF	has factors: 439
+(10^3144-1)/9-10^2866	CF	has factors: 797
+(10^3144-1)/9-10^2865	CF	has factors: 4663
+(10^3144-1)/9-10^2864	CF	has factors: 1381
+(10^3144-1)/9-10^2863	CF	has factors: 53
+(10^3144-1)/9-10^2862	CF	has factors: 29
+(10^3144-1)/9-10^2861	CF	has factors: 46853
+(10^3144-1)/9-10^2860	CF	has factors: 17
+(10^3144-1)/9-10^2859	C	is composite: RES64: [246AED42C9EF2B5D] (0.1090s+0.0339s)
+(10^3144-1)/9-10^2858	CF	has factors: 569
+(10^3144-1)/9-10^2857	C	is composite: RES64: [A8218D050DE28C89] (0.1110s+0.0620s)
+(10^3144-1)/9-10^2856	CF	has factors: 19
+(10^3144-1)/9-10^2855	CF	has factors: 47
+(10^3144-1)/9-10^2854	CF	has factors: 59
+(10^3144-1)/9-10^2853	CF	has factors: 229
+(10^3144-1)/9-10^2852	CF	has factors: 71
+(10^3144-1)/9-10^2851	CF	has factors: 151
+(10^3144-1)/9-10^2850	CF	has factors: 23
+(10^3144-1)/9-10^2849	CF	has factors: 239
+(10^3144-1)/9-10^2848	C	is composite: RES64: [B4AFB1C09433EF1F] (0.1095s+0.0285s)
+(10^3144-1)/9-10^2847	C	is composite: RES64: [460D127D7FD77EBA] (0.1085s+0.1043s)
+(10^3144-1)/9-10^2846	CF	has factors: 4603
+(10^3144-1)/9-10^2845	CF	has factors: 107
+(10^3144-1)/9-10^2844	CF	has factors: 17^2
+(10^3144-1)/9-10^2843	CF	has factors: 73583
+(10^3144-1)/9-10^2842	CF	has factors: 239
+(10^3144-1)/9-10^2841	CF	has factors: 79631
+(10^3144-1)/9-10^2840	C	is composite: RES64: [C3299FAD624FEB4C] (0.1096s+0.0323s)
+(10^3144-1)/9-10^2839	C	is composite: RES64: [9C0CC276EECA5A88] (0.1125s+0.0525s)
+(10^3144-1)/9-10^2838	CF	has factors: 19
+(10^3144-1)/9-10^2837	CF	has factors: 53
+(10^3144-1)/9-10^2836	CF	has factors: 2617
+(10^3144-1)/9-10^2835	CF	has factors: 97
+(10^3144-1)/9-10^2834	CF	has factors: 29
+(10^3144-1)/9-10^2833	C	is composite: RES64: [9D845D16AE8F112C] (0.1072s+0.0303s)
+(10^3144-1)/9-10^2832	C	is composite: RES64: [047A01612625E129] (0.1103s+0.0313s)
+(10^3144-1)/9-10^2831	C	is composite: RES64: [AA018A28FE8D1410] (0.1092s+0.0414s)
+(10^3144-1)/9-10^2830	CF	has factors: 241
+(10^3144-1)/9-10^2829	CF	has factors: 43
+(10^3144-1)/9-10^2828	CF	has factors: 17
+(10^3144-1)/9-10^2827	CF	has factors: 383
+(10^3144-1)/9-10^2826	C	is composite: RES64: [C82B07C2EFA1683E] (0.1085s+0.0379s)
+(10^3144-1)/9-10^2825	CF	has factors: 6563
+(10^3144-1)/9-10^2824	CF	has factors: 53
+(10^3144-1)/9-10^2823	C	is composite: RES64: [BF5101638509EA06] (0.1096s+0.1442s)
+(10^3144-1)/9-10^2822	CF	has factors: 1831
+(10^3144-1)/9-10^2821	CF	has factors: 149
+(10^3144-1)/9-10^2820	CF	has factors: 19
+(10^3144-1)/9-10^2819	CF	has factors: 18251
+(10^3144-1)/9-10^2818	CF	has factors: 3691
+(10^3144-1)/9-10^2817	CF	has factors: 61
+(10^3144-1)/9-10^2816	CF	has factors: 487
+(10^3144-1)/9-10^2815	CF	has factors: 1033
+(10^3144-1)/9-10^2814	CF	has factors: 239
+(10^3144-1)/9-10^2813	CF	has factors: 9011
+(10^3144-1)/9-10^2812	CF	has factors: 17
+(10^3144-1)/9-10^2811	CF	has factors: 53
+(10^3144-1)/9-10^2810	CF	has factors: 9601
+(10^3144-1)/9-10^2809	CF	has factors: 47
+(10^3144-1)/9-10^2808	CF	has factors: 43
+(10^3144-1)/9-10^2807	CF	has factors: 239
+(10^3144-1)/9-10^2806	CF	has factors: 23^2
+(10^3144-1)/9-10^2805	CF	has factors: 2179
+(10^3144-1)/9-10^2804	CF	has factors: 4019
+(10^3144-1)/9-10^2803	C	is composite: RES64: [AD16D4D21473CC6F] (0.1185s+0.0414s)
+(10^3144-1)/9-10^2802	CF	has factors: 19
+(10^3144-1)/9-10^2801	C	is composite: RES64: [9AAF28854C3D606D] (0.1171s+0.0380s)
+(10^3144-1)/9-10^2800	CF	has factors: 197
+(10^3144-1)/9-10^2799	C	is composite: RES64: [F167BF7C106D1A08] (0.1243s+0.0644s)
+(10^3144-1)/9-10^2798	CF	has factors: 53
+(10^3144-1)/9-10^2797	CF	has factors: 3259
+(10^3144-1)/9-10^2796	CF	has factors: 17
+(10^3144-1)/9-10^2795	CF	has factors: 1861
+(10^3144-1)/9-10^2794	CF	has factors: 191
+(10^3144-1)/9-10^2793	CF	has factors: 239
+(10^3144-1)/9-10^2792	CF	has factors: 107
+(10^3144-1)/9-10^2791	CF	has factors: 373
+(10^3144-1)/9-10^2790	C	is composite: RES64: [7163A222DD052F63] (0.1196s+0.0768s)
+(10^3144-1)/9-10^2789	CF	has factors: 1511
+(10^3144-1)/9-10^2788	CF	has factors: 131
+(10^3144-1)/9-10^2787	CF	has factors: 43
+(10^3144-1)/9-10^2786	CF	has factors: 239
+(10^3144-1)/9-10^2785	CF	has factors: 53
+(10^3144-1)/9-10^2784	CF	has factors: 19
+(10^3144-1)/9-10^2783	CF	has factors: 9337
+(10^3144-1)/9-10^2782	CF	has factors: 71
+(10^3144-1)/9-10^2781	C	is composite: RES64: [D0E41C1FDCF789C2] (0.1304s+0.0725s)
+(10^3144-1)/9-10^2780	CF	has factors: 17
+(10^3144-1)/9-10^2779	CF	has factors: 239
+(10^3144-1)/9-10^2778	CF	has factors: 29
+(10^3144-1)/9-10^2777	CF	has factors: 23173
+(10^3144-1)/9-10^2776	CF	has factors: 151
+(10^3144-1)/9-10^2775	CF	has factors: 109
+(10^3144-1)/9-10^2774	CF	has factors: 2399
+(10^3144-1)/9-10^2773	C	is composite: RES64: [5C6464829F78B8A0] (0.1092s+0.0343s)
+(10^3144-1)/9-10^2772	CF	has factors: 53
+(10^3144-1)/9-10^2771	C	is composite: RES64: [A9D771479AEDC49B] (0.1108s+0.0428s)
+(10^3144-1)/9-10^2770	CF	has factors: 241
+(10^3144-1)/9-10^2769	C	is composite: RES64: [6DDFF01CD5096612] (0.1112s+0.0657s)
+(10^3144-1)/9-10^2768	CF	has factors: 167
+(10^3144-1)/9-10^2767	CF	has factors: 293
+(10^3144-1)/9-10^2766	CF	has factors: 19
+(10^3144-1)/9-10^2765	CF	has factors: 239
+(10^3144-1)/9-10^2764	CF	has factors: 17
+(10^3144-1)/9-10^2763	CF	has factors: 47
+(10^3144-1)/9-10^2762	CF	has factors: 23
+(10^3144-1)/9-10^2761	CF	has factors: 283
+(10^3144-1)/9-10^2760	C	is composite: RES64: [54A1BD0987F76FD2] (0.1263s+0.0551s)
+(10^3144-1)/9-10^2759	CF	has factors: 53
+(10^3144-1)/9-10^2758	CF	has factors: 239
+(10^3144-1)/9-10^2757	CF	has factors: 61
+(10^3144-1)/9-10^2756	CF	has factors: 199
+(10^3144-1)/9-10^2755	CF	has factors: 991
+(10^3144-1)/9-10^2754	C	is composite: RES64: [F27B1F6F49C22F24] (0.1088s+0.0302s)
+(10^3144-1)/9-10^2753	C	is composite: RES64: [28C8AAE5BF63BF21] (0.1079s+0.0775s)
+(10^3144-1)/9-10^2752	CF	has factors: 11437
+(10^3144-1)/9-10^2751	CF	has factors: 157
+(10^3144-1)/9-10^2750	CF	has factors: 29
+(10^3144-1)/9-10^2749	CF	has factors: 223
+(10^3144-1)/9-10^2748	CF	has factors: 17
+(10^3144-1)/9-10^2747	CF	has factors: 71
+(10^3144-1)/9-10^2746	CF	has factors: 53
+(10^3144-1)/9-10^2745	CF	has factors: 43^2
+(10^3144-1)/9-10^2744	CF	has factors: 239
+(10^3144-1)/9-10^2743	C	is composite: RES64: [C51C18C14CD944B8] (0.1084s+0.0285s)
+(10^3144-1)/9-10^2742	C	is composite: RES64: [CDE47821832FF601] (0.1157s+0.0829s)
+(10^3144-1)/9-10^2741	CF	has factors: 16363
+(10^3144-1)/9-10^2740	CF	has factors: 23
+(10^3144-1)/9-10^2739	CF	has factors: 97
+(10^3144-1)/9-10^2738	CF	has factors: 59
+(10^3144-1)/9-10^2737	CF	has factors: 239
+(10^3144-1)/9-10^2736	CF	has factors: 233
+(10^3144-1)/9-10^2735	CF	has factors: 22303
+(10^3144-1)/9-10^2734	C	is composite: RES64: [F2FA7A688090FC85] (0.1091s+0.0360s)
+(10^3144-1)/9-10^2733	CF	has factors: 53
+(10^3144-1)/9-10^2732	CF	has factors: 17
+(10^3144-1)/9-10^2731	C	is composite: RES64: [7E278934708A9B23] (0.1107s+0.0334s)
+(10^3144-1)/9-10^2730	CF	has factors: 19
+(10^3144-1)/9-10^2729	C	is composite: RES64: [E166D351562EF199] (0.1092s+0.0297s)
+(10^3144-1)/9-10^2728	C	is composite: RES64: [D3F0B249B2CA28F7] (0.1077s+0.0359s)
+(10^3144-1)/9-10^2727	CF	has factors: 947
+(10^3144-1)/9-10^2726	CF	has factors: 839
+(10^3144-1)/9-10^2725	C	is composite: RES64: [762261661556FCB0] (0.1142s+0.0473s)
+(10^3144-1)/9-10^2724	CF	has factors: 43
+(10^3144-1)/9-10^2723	CF	has factors: 239
+(10^3144-1)/9-10^2722	CF	has factors: 29
+(10^3144-1)/9-10^2721	CF	has factors: 1367
+(10^3144-1)/9-10^2720	CF	has factors: 53
+(10^3144-1)/9-10^2719	C	is composite: RES64: [76AFEFACD857F367] (0.1093s+0.0429s)
+(10^3144-1)/9-10^2718	CF	has factors: 23
+(10^3144-1)/9-10^2717	CF	has factors: 47
+(10^3144-1)/9-10^2716	CF	has factors: 17
+(10^3144-1)/9-10^2715	C	is composite: RES64: [7E931F367DC7AAE8] (0.1094s+0.0288s)
+(10^3144-1)/9-10^2714	C	is composite: RES64: [3FB5B4129570D7BC] (0.1095s+0.0294s)
+(10^3144-1)/9-10^2713	C	is composite: RES64: [214B964A5DAE0CBB] (0.1092s+0.0359s)
+(10^3144-1)/9-10^2712	CF	has factors: 19
+(10^3144-1)/9-10^2711	C	is composite: RES64: [50A6FA931D708929] (0.1080s+0.0393s)
+(10^3144-1)/9-10^2710	CF	has factors: 241
+(10^3144-1)/9-10^2709	CF	has factors: 239
+(10^3144-1)/9-10^2708	C	is composite: RES64: [32FF9E6589C9A60F] (0.1093s+0.1020s)
+(10^3144-1)/9-10^2707	CF	has factors: 53
+(10^3144-1)/9-10^2706	CF	has factors: 193
+(10^3144-1)/9-10^2705	CF	has factors: 1657
+(10^3144-1)/9-10^2704	CF	has factors: 1621
+(10^3144-1)/9-10^2703	CF	has factors: 43
+(10^3144-1)/9-10^2702	CF	has factors: 197
+(10^3144-1)/9-10^2701	CF	has factors: 151
+(10^3144-1)/9-10^2700	CF	has factors: 17
+(10^3144-1)/9-10^2699	CF	has factors: 191
+(10^3144-1)/9-10^2698	CF	has factors: 3049
+(10^3144-1)/9-10^2697	CF	has factors: 61
+(10^3144-1)/9-10^2696	CF	has factors: 23
+(10^3144-1)/9-10^2695	CF	has factors: 239
+(10^3144-1)/9-10^2694	CF	has factors: 19
+(10^3144-1)/9-10^2693	CF	has factors: 10151
+(10^3144-1)/9-10^2692	C	is composite: RES64: [714D515DA7D53066] (0.1122s+0.0311s)
+(10^3144-1)/9-10^2691	C	is composite: RES64: [3F78F5C054F58D91] (0.1128s+0.0472s)
+(10^3144-1)/9-10^2690	CF	has factors: 15313
+(10^3144-1)/9-10^2689	CF	has factors: 3251
+(10^3144-1)/9-10^2688	CF	has factors: 239
+(10^3144-1)/9-10^2687	C	is composite: RES64: [2109927A5D42C06F] (0.1105s+0.0349s)
+(10^3144-1)/9-10^2686	CF	has factors: 107
+(10^3144-1)/9-10^2685	C	is composite: RES64: [6ACE5DC1025B4526] (0.1112s+0.0663s)
+(10^3144-1)/9-10^2684	CF	has factors: 17
+(10^3144-1)/9-10^2683	CF	has factors: 12011
+(10^3144-1)/9-10^2682	CF	has factors: 43
+(10^3144-1)/9-10^2681	CF	has factors: 53
+(10^3144-1)/9-10^2680	CF	has factors: 59
+(10^3144-1)/9-10^2679	CF	has factors: 29423
+(10^3144-1)/9-10^2678	C	is composite: RES64: [ACDAA7DD81620703] (0.1105s+0.0490s)
+(10^3144-1)/9-10^2677	CF	has factors: 71^2
+(10^3144-1)/9-10^2676	CF	has factors: 19
+(10^3144-1)/9-10^2675	CF	has factors: 499
+(10^3144-1)/9-10^2674	CF	has factors: 23
+(10^3144-1)/9-10^2673	CF	has factors: 113
+(10^3144-1)/9-10^2672	C	is composite: RES64: [8F0F3B445CED1B5B] (0.1136s+0.0549s)
+(10^3144-1)/9-10^2671	CF	has factors: 47
+(10^3144-1)/9-10^2670	CF	has factors: 367
+(10^3144-1)/9-10^2669	CF	has factors: 1051
+(10^3144-1)/9-10^2668	CF	has factors: 17
+(10^3144-1)/9-10^2667	CF	has factors: 109
+(10^3144-1)/9-10^2666	CF	has factors: 29
+(10^3144-1)/9-10^2665	CF	has factors: 181
+(10^3144-1)/9-10^2664	C	is composite: RES64: [A183E17A465924A5] (0.1092s+0.0296s)
+(10^3144-1)/9-10^2663	C	is composite: RES64: [39CD75178C139EF9] (0.1148s+0.0297s)
+(10^3144-1)/9-10^2662	C	is composite: RES64: [D22D978CC37F4343] (0.1111s+0.0568s)
+(10^3144-1)/9-10^2661	CF	has factors: 43
+(10^3144-1)/9-10^2660	CF	has factors: 239
+(10^3144-1)/9-10^2659	CF	has factors: 877
+(10^3144-1)/9-10^2658	CF	has factors: 19
+(10^3144-1)/9-10^2657	CF	has factors: 199
+(10^3144-1)/9-10^2656	CF	has factors: 1163
+(10^3144-1)/9-10^2655	CF	has factors: 53
+(10^3144-1)/9-10^2654	C	is composite: RES64: [EF6FA8900CAB3EB9] (0.1086s+0.0373s)
+(10^3144-1)/9-10^2653	CF	has factors: 239
+(10^3144-1)/9-10^2652	CF	has factors: 17
+(10^3144-1)/9-10^2651	C	is composite: RES64: [C43A2ADE2F974E64] (0.1111s+0.0545s)
+(10^3144-1)/9-10^2650	CF	has factors: 241
+(10^3144-1)/9-10^2649	CF	has factors: 1567
+(10^3144-1)/9-10^2648	CF	has factors: 439
+(10^3144-1)/9-10^2647	CF	has factors: 853
+(10^3144-1)/9-10^2646	CF	has factors: 239
+(10^3144-1)/9-10^2645	CF	has factors: 1039
+(10^3144-1)/9-10^2644	C	is composite: RES64: [AC0961AA32D72C96] (0.1091s+0.0379s)
+(10^3144-1)/9-10^2643	CF	has factors: 97
+(10^3144-1)/9-10^2642	CF	has factors: 53
+(10^3144-1)/9-10^2641	C	is composite: RES64: [E17F7DB6F1E760E3] (0.1193s+0.0744s)
+(10^3144-1)/9-10^2640	CF	has factors: 19
+(10^3144-1)/9-10^2639	CF	has factors: 239
+(10^3144-1)/9-10^2638	CF	has factors: 29
+(10^3144-1)/9-10^2637	CF	has factors: 61
+(10^3144-1)/9-10^2636	CF	has factors: 17
+(10^3144-1)/9-10^2635	C	is composite: RES64: [1EE7964D676615B5] (0.1220s+0.0801s)
+(10^3144-1)/9-10^2634	CF	has factors: 971
+(10^3144-1)/9-10^2633	CF	has factors: 107
+(10^3144-1)/9-10^2632	CF	has factors: 239
+(10^3144-1)/9-10^2631	CF	has factors: 75521
+(10^3144-1)/9-10^2630	CF	has factors: 23
+(10^3144-1)/9-10^2629	CF	has factors: 53
+(10^3144-1)/9-10^2628	CF	has factors: 389
+(10^3144-1)/9-10^2627	C	is composite: RES64: [88273C761DA68898] (0.1135s+0.0388s)
+(10^3144-1)/9-10^2626	CF	has factors: 151
+(10^3144-1)/9-10^2625	CF	has factors: 47
+(10^3144-1)/9-10^2624	C	is composite: RES64: [E26DEFA2E56E2552] (0.1180s+0.0338s)
+(10^3144-1)/9-10^2623	C	is composite: RES64: [8929B180F25235E0] (0.1145s+0.0483s)
+(10^3144-1)/9-10^2622	CF	has factors: 19
+(10^3144-1)/9-10^2621	CF	has factors: 293
+(10^3144-1)/9-10^2620	CF	has factors: 17
+(10^3144-1)/9-10^2619	CF	has factors: 43
+(10^3144-1)/9-10^2618	CF	has factors: 239
+(10^3144-1)/9-10^2617	C	is composite: RES64: [4FB5DE61F11F2E34] (0.1077s+0.0519s)
+(10^3144-1)/9-10^2616	CF	has factors: 53
+(10^3144-1)/9-10^2615	CF	has factors: 2999
+(10^3144-1)/9-10^2614	CF	has factors: 1087
+(10^3144-1)/9-10^2613	CF	has factors: 19207
+(10^3144-1)/9-10^2612	C	is composite: RES64: [B5AF3C3B338FB239] (0.1142s+0.0355s)
+(10^3144-1)/9-10^2611	CF	has factors: 239
+(10^3144-1)/9-10^2610	CF	has factors: 29
+(10^3144-1)/9-10^2609	C	is composite: RES64: [8ED5FA6D709B78E4] (0.1105s+0.0382s)
+(10^3144-1)/9-10^2608	CF	has factors: 23
+(10^3144-1)/9-10^2607	CF	has factors: 71
+(10^3144-1)/9-10^2606	C	is composite: RES64: [933991B4B7CBE383] (0.1147s+0.0876s)
+(10^3144-1)/9-10^2605	CF	has factors: 373
+(10^3144-1)/9-10^2604	CF	has factors: 17
+(10^3144-1)/9-10^2603	CF	has factors: 53
+(10^3144-1)/9-10^2602	CF	has factors: 167
+(10^3144-1)/9-10^2601	CF	has factors: 491
+(10^3144-1)/9-10^2600	CF	has factors: 977
+(10^3144-1)/9-10^2599	CF	has factors: 631
+(10^3144-1)/9-10^2598	CF	has factors: 43
+(10^3144-1)/9-10^2597	CF	has factors: 239
+(10^3144-1)/9-10^2596	CF	has factors: 37649
+(10^3144-1)/9-10^2595	CF	has factors: 157
+(10^3144-1)/9-10^2594	CF	has factors: 829
+(10^3144-1)/9-10^2593	C	is composite: RES64: [0B92585953077640] (0.1091s+0.0470s)
+(10^3144-1)/9-10^2592	CF	has factors: 307
+(10^3144-1)/9-10^2591	CF	has factors: 677
+(10^3144-1)/9-10^2590	CF	has factors: 53
+(10^3144-1)/9-10^2589	CF	has factors: 5333
+(10^3144-1)/9-10^2588	CF	has factors: 17
+(10^3144-1)/9-10^2587	C	is composite: RES64: [81EE2CE6E912E2E5] (0.1085s+0.0387s)
+(10^3144-1)/9-10^2586	CF	has factors: 19
+(10^3144-1)/9-10^2585	CF	has factors: 12589
+(10^3144-1)/9-10^2584	C	is composite: RES64: [34835DD01E18C151] (0.1080s+0.0359s)
+(10^3144-1)/9-10^2583	CF	has factors: 239
+(10^3144-1)/9-10^2582	CF	has factors: 29
+(10^3144-1)/9-10^2581	C	is composite: RES64: [83E945BFB6483E98] (0.1322s+0.0411s)
+(10^3144-1)/9-10^2580	CF	has factors: 107
+(10^3144-1)/9-10^2579	CF	has factors: 47
+(10^3144-1)/9-10^2578	C	is composite: RES64: [279E3DA3F808E160] (0.1093s+0.0446s)
+(10^3144-1)/9-10^2577	CF	has factors: 43
+(10^3144-1)/9-10^2576	CF	has factors: 239
+(10^3144-1)/9-10^2575	CF	has factors: 1259
+(10^3144-1)/9-10^2574	CF	has factors: 317
+(10^3144-1)/9-10^2573	C	is composite: RES64: [0AC189DD6D1CE2FB] (0.1108s+0.0478s)
+(10^3144-1)/9-10^2572	CF	has factors: 17^2
+(10^3144-1)/9-10^2571	CF	has factors: 619
+(10^3144-1)/9-10^2570	CF	has factors: 2089
+(10^3144-1)/9-10^2569	CF	has factors: 239
+(10^3144-1)/9-10^2568	CF	has factors: 19^2
+(10^3144-1)/9-10^2567	C	is composite: RES64: [F827E4F254FDB7C2] (0.1104s+0.0335s)
+(10^3144-1)/9-10^2566	CF	has factors: 907
+(10^3144-1)/9-10^2565	C	is composite: RES64: [E2061E0A90DED1C8] (0.1089s+0.0602s)
+(10^3144-1)/9-10^2564	CF	has factors: 23
+(10^3144-1)/9-10^2563	CF	has factors: 967
+(10^3144-1)/9-10^2562	CF	has factors: 239
+(10^3144-1)/9-10^2561	CF	has factors: 113
+(10^3144-1)/9-10^2560	CF	has factors: 241
+(10^3144-1)/9-10^2559	CF	has factors: 109
+(10^3144-1)/9-10^2558	CF	has factors: 199
+(10^3144-1)/9-10^2557	C	is composite: RES64: [2FD240FBB2A49302] (0.1077s+0.0398s)
+(10^3144-1)/9-10^2556	CF	has factors: 17
+(10^3144-1)/9-10^2555	CF	has factors: 239
+(10^3144-1)/9-10^2554	CF	has factors: 29
+(10^3144-1)/9-10^2553	C	is composite: RES64: [AFE18CD05BEAD6CE] (0.1070s+0.0546s)
+(10^3144-1)/9-10^2552	CF	has factors: 227
+(10^3144-1)/9-10^2551	CF	has factors: 53
+(10^3144-1)/9-10^2550	CF	has factors: 19
+(10^3144-1)/9-10^2549	CF	has factors: 14633
+(10^3144-1)/9-10^2548	CF	has factors: 239
+(10^3144-1)/9-10^2547	CF	has factors: 97
+(10^3144-1)/9-10^2546	C	is composite: RES64: [5378657C6071FA48] (0.1076s+0.0695s)
+(10^3144-1)/9-10^2545	CF	has factors: 1277
+(10^3144-1)/9-10^2544	CF	has factors: 6869
+(10^3144-1)/9-10^2543	CF	has factors: 14723
+(10^3144-1)/9-10^2542	CF	has factors: 23
+(10^3144-1)/9-10^2541	CF	has factors: 239
+(10^3144-1)/9-10^2540	CF	has factors: 17
+(10^3144-1)/9-10^2539	CF	has factors: 1759
+(10^3144-1)/9-10^2538	CF	has factors: 53^2
+(10^3144-1)/9-10^2537	CF	has factors: 71
+(10^3144-1)/9-10^2536	C	is composite: RES64: [86F771F10FA79E10] (0.1081s+0.0599s)
+(10^3144-1)/9-10^2535	CF	has factors: 43
+(10^3144-1)/9-10^2534	CF	has factors: 239
+(10^3144-1)/9-10^2533	CF	has factors: 47
+(10^3144-1)/9-10^2532	CF	has factors: 19
+(10^3144-1)/9-10^2531	CF	has factors: 461
+(10^3144-1)/9-10^2530	CF	has factors: 241
+(10^3144-1)/9-10^2529	C	is composite: RES64: [72C6868765E28DD6] (0.1082s+0.0476s)
+(10^3144-1)/9-10^2528	CF	has factors: 131
+(10^3144-1)/9-10^2527	CF	has factors: 107
+(10^3144-1)/9-10^2526	CF	has factors: 29
+(10^3144-1)/9-10^2525	CF	has factors: 53
+(10^3144-1)/9-10^2524	CF	has factors: 17
+(10^3144-1)/9-10^2523	C	is composite: RES64: [5B0652413B5DCCD9] (0.1074s+0.0308s)
+(10^3144-1)/9-10^2522	C	is composite: RES64: [2F378AAC924EFBD9] (0.1084s+0.0496s)
+(10^3144-1)/9-10^2521	CF	has factors: 5431
+(10^3144-1)/9-10^2520	CF	has factors: 23
+(10^3144-1)/9-10^2519	CF	has factors: 12203
+(10^3144-1)/9-10^2518	C	is composite: RES64: [FD5311DA9EA77F40] (0.1084s+0.0749s)
+(10^3144-1)/9-10^2517	CF	has factors: 61
+(10^3144-1)/9-10^2516	CF	has factors: 2441
+(10^3144-1)/9-10^2515	CF	has factors: 32363
+(10^3144-1)/9-10^2514	CF	has factors: 19
+(10^3144-1)/9-10^2513	CF	has factors: 239
+(10^3144-1)/9-10^2512	CF	has factors: 53
+(10^3144-1)/9-10^2511	C	is composite: RES64: [A56D8F68ADAB2696] (0.1139s+0.0302s)
+(10^3144-1)/9-10^2510	C	is composite: RES64: [60981AAEBD61B502] (0.1088s+0.0367s)
+(10^3144-1)/9-10^2509	CF	has factors: 191
+(10^3144-1)/9-10^2508	CF	has factors: 17
+(10^3144-1)/9-10^2507	C	is composite: RES64: [9F1D1FEEC24DAE5A] (0.1135s+0.0327s)
+(10^3144-1)/9-10^2506	CF	has factors: 59
+(10^3144-1)/9-10^2505	C	is composite: RES64: [7FBA88F51AFA54BE] (0.1084s+0.0521s)
+(10^3144-1)/9-10^2504	CF	has factors: 233
+(10^3144-1)/9-10^2503	CF	has factors: 34337
+(10^3144-1)/9-10^2502	CF	has factors: 71
+(10^3144-1)/9-10^2501	C	is composite: RES64: [CD086FCA8D5B3F30] (0.1069s+0.0424s)
+(10^3144-1)/9-10^2500	CF	has factors: 241
+(10^3144-1)/9-10^2499	CF	has factors: 53
+(10^3144-1)/9-10^2498	CF	has factors: 23
+(10^3144-1)/9-10^2497	C	is composite: RES64: [36493C924F294502] (0.1101s+0.0399s)
+(10^3144-1)/9-10^2496	CF	has factors: 19
+(10^3144-1)/9-10^2495	CF	has factors: 317
+(10^3144-1)/9-10^2494	C	is composite: RES64: [20E4B663D1B6B7AC] (0.1073s+0.0395s)
+(10^3144-1)/9-10^2493	CF	has factors: 43
+(10^3144-1)/9-10^2492	CF	has factors: 17
+(10^3144-1)/9-10^2491	CF	has factors: 2593
+(10^3144-1)/9-10^2490	C	is composite: RES64: [5476C0699E7ABA2B] (0.1098s+0.0336s)
+(10^3144-1)/9-10^2489	CF	has factors: 3643
+(10^3144-1)/9-10^2488	C	is composite: RES64: [AD79AA00E4553B34] (0.1220s+0.0716s)
+(10^3144-1)/9-10^2487	CF	has factors: 47
+(10^3144-1)/9-10^2486	CF	has factors: 53
+(10^3144-1)/9-10^2485	CF	has factors: 181
+(10^3144-1)/9-10^2484	CF	has factors: 2579
+(10^3144-1)/9-10^2483	CF	has factors: 523
+(10^3144-1)/9-10^2482	P(FactorDB)	is 3-PRP! (0.1108s+0.0369s)	http://factordb.com/index.php?id=1100000001101412255
+(10^3144-1)/9-10^2481	CF	has factors: 1471
+(10^3144-1)/9-10^2480	C	is composite: RES64: [C38D8E2ED0D2E864] (0.1161s+0.1611s)
+(10^3144-1)/9-10^2479	CF	has factors: 269
+(10^3144-1)/9-10^2478	CF	has factors: 19
+(10^3144-1)/9-10^2477	CF	has factors: 1553
+(10^3144-1)/9-10^2476	CF	has factors: 17
+(10^3144-1)/9-10^2475	CF	has factors: 293
+(10^3144-1)/9-10^2474	CF	has factors: 107
+(10^3144-1)/9-10^2473	CF	has factors: 53
+(10^3144-1)/9-10^2472	CF	has factors: 43
+(10^3144-1)/9-10^2471	CF	has factors: 239
+(10^3144-1)/9-10^2470	CF	has factors: 29
+(10^3144-1)/9-10^2469	CF	has factors: 49019
+(10^3144-1)/9-10^2468	CF	has factors: 797
+(10^3144-1)/9-10^2467	CF	has factors: 71
+(10^3144-1)/9-10^2466	CF	has factors: 8273
+(10^3144-1)/9-10^2465	CF	has factors: 1229
+(10^3144-1)/9-10^2464	CF	has factors: 239
+(10^3144-1)/9-10^2463	CF	has factors: 53597
+(10^3144-1)/9-10^2462	C	is composite: RES64: [3F39049F317BF535] (0.1114s+0.0294s)
+(10^3144-1)/9-10^2461	C	is composite: RES64: [96CAE7BE6EBFC97E] (0.1118s+0.0431s)
+(10^3144-1)/9-10^2460	CF	has factors: 17
+(10^3144-1)/9-10^2459	CF	has factors: 199
+(10^3144-1)/9-10^2458	CF	has factors: 1871
+(10^3144-1)/9-10^2457	CF	has factors: 61
+(10^3144-1)/9-10^2456	C	is composite: RES64: [04CE11C83180453E] (0.1249s+0.0792s)
+(10^3144-1)/9-10^2455	CF	has factors: 179
+(10^3144-1)/9-10^2454	CF	has factors: 23
+(10^3144-1)/9-10^2453	CF	has factors: 3527
+(10^3144-1)/9-10^2452	CF	has factors: 1613
+(10^3144-1)/9-10^2451	CF	has factors: 43
+(10^3144-1)/9-10^2450	CF	has factors: 239
+(10^3144-1)/9-10^2449	CF	has factors: 113
+(10^3144-1)/9-10^2448	CF	has factors: 59
+(10^3144-1)/9-10^2447	CF	has factors: 53
+(10^3144-1)/9-10^2446	C	is composite: RES64: [0A45C8A7E2881992] (0.1086s+0.0567s)
+(10^3144-1)/9-10^2445	CF	has factors: 383
+(10^3144-1)/9-10^2444	CF	has factors: 17
+(10^3144-1)/9-10^2443	CF	has factors: 239
+(10^3144-1)/9-10^2442	CF	has factors: 19
+(10^3144-1)/9-10^2441	CF	has factors: 47
+(10^3144-1)/9-10^2440	CF	has factors: 241
+(10^3144-1)/9-10^2439	CF	has factors: 157
+(10^3144-1)/9-10^2438	C	is composite: RES64: [7531B2784E7B8800] (0.1133s+0.0418s)
+(10^3144-1)/9-10^2437	CF	has factors: 6113
+(10^3144-1)/9-10^2436	CF	has factors: 167
+(10^3144-1)/9-10^2435	C	is composite: RES64: [DFC469C233125F46] (0.1095s+0.0825s)
+(10^3144-1)/9-10^2434	CF	has factors: 53
+(10^3144-1)/9-10^2433	CF	has factors: 11443
+(10^3144-1)/9-10^2432	CF	has factors: 23
+(10^3144-1)/9-10^2431	CF	has factors: 71089
+(10^3144-1)/9-10^2430	CF	has factors: 43
+(10^3144-1)/9-10^2429	CF	has factors: 239
+(10^3144-1)/9-10^2428	CF	has factors: 17
+(10^3144-1)/9-10^2427	C	is composite: RES64: [C481677872FD4392] (0.1077s+0.0294s)
+(10^3144-1)/9-10^2426	C	is composite: RES64: [4A493814D784446E] (0.1078s+0.0391s)
+(10^3144-1)/9-10^2425	CF	has factors: 9539
+(10^3144-1)/9-10^2424	CF	has factors: 19
+(10^3144-1)/9-10^2423	C	is composite: RES64: [B865D146FB9BFF28] (0.1081s+0.0814s)
+(10^3144-1)/9-10^2422	CF	has factors: 239
+(10^3144-1)/9-10^2421	CF	has factors: 53
+(10^3144-1)/9-10^2420	CF	has factors: 647
+(10^3144-1)/9-10^2419	CF	has factors: 347
+(10^3144-1)/9-10^2418	CF	has factors: 37201
+(10^3144-1)/9-10^2417	CF	has factors: 7433
+(10^3144-1)/9-10^2416	CF	has factors: 317
+(10^3144-1)/9-10^2415	CF	has factors: 239
+(10^3144-1)/9-10^2414	CF	has factors: 29
+(10^3144-1)/9-10^2413	CF	has factors: 1019
+(10^3144-1)/9-10^2412	CF	has factors: 17
+(10^3144-1)/9-10^2411	C	is composite: RES64: [EFE037DEA81E76D5] (0.1105s+0.0390s)
+(10^3144-1)/9-10^2410	CF	has factors: 23
+(10^3144-1)/9-10^2409	CF	has factors: 43
+(10^3144-1)/9-10^2408	CF	has factors: 53
+(10^3144-1)/9-10^2407	C	is composite: RES64: [D51F0B0029F3ED80] (0.1078s+0.0360s)
+(10^3144-1)/9-10^2406	CF	has factors: 19
+(10^3144-1)/9-10^2405	C	is composite: RES64: [A252CE8D740DC907] (0.1070s+0.0297s)
+(10^3144-1)/9-10^2404	C	is composite: RES64: [96F7FB4F483B5132] (0.1096s+0.0308s)
+(10^3144-1)/9-10^2403	C	is composite: RES64: [0E7CDB4942914698] (0.1085s+0.0289s)
+(10^3144-1)/9-10^2402	C	is composite: RES64: [56BBB0A38BC8A0AB] (0.1089s+0.0526s)
+(10^3144-1)/9-10^2401	CF	has factors: 151
+(10^3144-1)/9-10^2400	CF	has factors: 44383
+(10^3144-1)/9-10^2399	C	is composite: RES64: [91F4AA1DCFA6918F] (0.1162s+0.0584s)
+(10^3144-1)/9-10^2398	CF	has factors: 131
+(10^3144-1)/9-10^2397	CF	has factors: 61
+(10^3144-1)/9-10^2396	CF	has factors: 17
+(10^3144-1)/9-10^2395	CF	has factors: 47
+(10^3144-1)/9-10^2394	CF	has factors: 239
+(10^3144-1)/9-10^2393	CF	has factors: 1453
+(10^3144-1)/9-10^2392	C	is composite: RES64: [CAD9C521E8D1D11A] (0.1109s+0.0306s)
+(10^3144-1)/9-10^2391	C	is composite: RES64: [555BAE97491FD917] (0.1112s+0.0539s)
+(10^3144-1)/9-10^2390	CF	has factors: 59
+(10^3144-1)/9-10^2389	CF	has factors: 13297
+(10^3144-1)/9-10^2388	CF	has factors: 19
+(10^3144-1)/9-10^2387	CF	has factors: 239
+(10^3144-1)/9-10^2386	CF	has factors: 29
+(10^3144-1)/9-10^2385	C	is composite: RES64: [7DDDC8E6DF9889BF] (0.1098s+0.0302s)
+(10^3144-1)/9-10^2384	C	is composite: RES64: [DC7B359BAAF1CF3F] (0.1075s+0.0357s)
+(10^3144-1)/9-10^2383	CF	has factors: 557
+(10^3144-1)/9-10^2382	CF	has factors: 53
+(10^3144-1)/9-10^2381	C	is composite: RES64: [A696E2A974C60EED] (0.1087s+0.0465s)
+(10^3144-1)/9-10^2380	CF	has factors: 17
+(10^3144-1)/9-10^2379	CF	has factors: 4391
+(10^3144-1)/9-10^2378	C	is composite: RES64: [01C587611F7F1421] (0.1107s+0.0405s)
+(10^3144-1)/9-10^2377	CF	has factors: 149
+(10^3144-1)/9-10^2376	P(FactorDB)	is 3-PRP! (0.1121s+0.0555s)	http://factordb.com/index.php?id=1100000001101412254
+(10^3144-1)/9-10^2375	CF	has factors: 22271
+(10^3144-1)/9-10^2374	CF	has factors: 10867
+(10^3144-1)/9-10^2373	CF	has factors: 239
+(10^3144-1)/9-10^2372	CF	has factors: 3361
+(10^3144-1)/9-10^2371	C	is composite: RES64: [D33494686496BDB2] (0.1094s+0.0608s)
+(10^3144-1)/9-10^2370	CF	has factors: 19
+(10^3144-1)/9-10^2369	CF	has factors: 53
+(10^3144-1)/9-10^2368	CF	has factors: 107
+(10^3144-1)/9-10^2367	CF	has factors: 43
+(10^3144-1)/9-10^2366	CF	has factors: 23
+(10^3144-1)/9-10^2365	CF	has factors: 4583
+(10^3144-1)/9-10^2364	CF	has factors: 17
+(10^3144-1)/9-10^2363	C	is composite: RES64: [F858903209EEFE37] (0.1114s+0.0674s)
+(10^3144-1)/9-10^2362	CF	has factors: 71
+(10^3144-1)/9-10^2361	CF	has factors: 157
+(10^3144-1)/9-10^2360	CF	has factors: 199
+(10^3144-1)/9-10^2359	CF	has factors: 239
+(10^3144-1)/9-10^2358	CF	has factors: 29
+(10^3144-1)/9-10^2357	CF	has factors: 3203
+(10^3144-1)/9-10^2356	CF	has factors: 53
+(10^3144-1)/9-10^2355	CF	has factors: 97
+(10^3144-1)/9-10^2354	CF	has factors: 727
+(10^3144-1)/9-10^2353	C	is composite: RES64: [24DDC58B96116452] (0.1101s+0.0490s)
+(10^3144-1)/9-10^2352	CF	has factors: 19
+(10^3144-1)/9-10^2351	CF	has factors: 359
+(10^3144-1)/9-10^2350	CF	has factors: 241
+(10^3144-1)/9-10^2349	CF	has factors: 47
+(10^3144-1)/9-10^2348	CF	has factors: 17
+(10^3144-1)/9-10^2347	C	is composite: RES64: [8F95CB5C4073F339] (0.1109s+0.0455s)
+(10^3144-1)/9-10^2346	CF	has factors: 43
+(10^3144-1)/9-10^2345	CF	has factors: 239
+(10^3144-1)/9-10^2344	CF	has factors: 23
+(10^3144-1)/9-10^2343	CF	has factors: 53
+(10^3144-1)/9-10^2342	C	is composite: RES64: [6AC63740419761E3] (0.1106s+0.0370s)
+(10^3144-1)/9-10^2341	CF	has factors: 2521
+(10^3144-1)/9-10^2340	CF	has factors: 379
+(10^3144-1)/9-10^2339	C	is composite: RES64: [B06E35500641E025] (0.1085s+0.0579s)
+(10^3144-1)/9-10^2338	CF	has factors: 239
+(10^3144-1)/9-10^2337	CF	has factors: 61
+(10^3144-1)/9-10^2336	CF	has factors: 5839
+(10^3144-1)/9-10^2335	C	is composite: RES64: [D39AF32850EABBA4] (0.1109s+0.0634s)
+(10^3144-1)/9-10^2334	CF	has factors: 19
+(10^3144-1)/9-10^2333	CF	has factors: 30809
+(10^3144-1)/9-10^2332	CF	has factors: 17
+(10^3144-1)/9-10^2331	CF	has factors: 239
+(10^3144-1)/9-10^2330	CF	has factors: 29
+(10^3144-1)/9-10^2329	CF	has factors: 293
+(10^3144-1)/9-10^2328	C	is composite: RES64: [9A2750DA00435A4C] (0.1071s+0.0415s)
+(10^3144-1)/9-10^2327	CF	has factors: 71
+(10^3144-1)/9-10^2326	CF	has factors: 151
+(10^3144-1)/9-10^2325	CF	has factors: 43
+(10^3144-1)/9-10^2324	CF	has factors: 239
+(10^3144-1)/9-10^2323	C	is composite: RES64: [B5B07E730D068E74] (0.1099s+0.0329s)
+(10^3144-1)/9-10^2322	CF	has factors: 23
+(10^3144-1)/9-10^2321	C	is composite: RES64: [A281F36A6D23F4CE] (0.1091s+0.0526s)
+(10^3144-1)/9-10^2320	CF	has factors: 241
+(10^3144-1)/9-10^2319	CF	has factors: 191
+(10^3144-1)/9-10^2318	CF	has factors: 829
+(10^3144-1)/9-10^2317	CF	has factors: 53
+(10^3144-1)/9-10^2316	CF	has factors: 17
+(10^3144-1)/9-10^2315	CF	has factors: 107
+(10^3144-1)/9-10^2314	CF	has factors: 2857
+(10^3144-1)/9-10^2313	C	is composite: RES64: [E750157F36AAEF00] (0.1082s+0.0290s)
+(10^3144-1)/9-10^2312	C	is composite: RES64: [E750548BC3B5049F] (0.1120s+0.0431s)
+(10^3144-1)/9-10^2311	C	is composite: RES64: [B08C6A6918B1B365] (0.1299s+0.0472s)
+(10^3144-1)/9-10^2310	CF	has factors: 197
+(10^3144-1)/9-10^2309	CF	has factors: 3307
+(10^3144-1)/9-10^2308	CF	has factors: 2693
+(10^3144-1)/9-10^2307	CF	has factors: 839
+(10^3144-1)/9-10^2306	C	is composite: RES64: [7CC1A0F76CE0C2EF] (0.1086s+0.0414s)
+(10^3144-1)/9-10^2305	CF	has factors: 181
+(10^3144-1)/9-10^2304	CF	has factors: 43
+(10^3144-1)/9-10^2303	CF	has factors: 47
+(10^3144-1)/9-10^2302	CF	has factors: 29
+(10^3144-1)/9-10^2301	C	is composite: RES64: [873B376036346B6C] (0.1212s+0.0330s)
+(10^3144-1)/9-10^2300	CF	has factors: 17^2
+(10^3144-1)/9-10^2299	C	is composite: RES64: [29D61A1DFA7A3BE2] (0.1182s+0.0575s)
+(10^3144-1)/9-10^2298	CF	has factors: 19
+(10^3144-1)/9-10^2297	CF	has factors: 36653
+(10^3144-1)/9-10^2296	CF	has factors: 239
+(10^3144-1)/9-10^2295	CF	has factors: 313
+(10^3144-1)/9-10^2294	CF	has factors: 2351
+(10^3144-1)/9-10^2293	C	is composite: RES64: [735FC91DF5A4C144] (0.1094s+0.0481s)
+(10^3144-1)/9-10^2292	CF	has factors: 71
+(10^3144-1)/9-10^2291	CF	has factors: 53
+(10^3144-1)/9-10^2290	CF	has factors: 241
+(10^3144-1)/9-10^2289	CF	has factors: 239
+(10^3144-1)/9-10^2288	C	is composite: RES64: [8A10DC1248794D11] (0.1077s+0.0318s)
+(10^3144-1)/9-10^2287	C	is composite: RES64: [701F8C7A5F36F367] (0.1137s+0.0333s)
+(10^3144-1)/9-10^2286	CF	has factors: 307
+(10^3144-1)/9-10^2285	C	is composite: RES64: [3E5EF6BE069EC4DB] (0.1063s+0.0422s)
+(10^3144-1)/9-10^2284	CF	has factors: 17
+(10^3144-1)/9-10^2283	CF	has factors: 43
+(10^3144-1)/9-10^2282	CF	has factors: 239
+(10^3144-1)/9-10^2281	C	is composite: RES64: [BC3EC5531273B273] (0.1045s+0.0323s)
+(10^3144-1)/9-10^2280	CF	has factors: 19
+(10^3144-1)/9-10^2279	C	is composite: RES64: [43456BAF682A9F31] (0.1058s+0.0367s)
+(10^3144-1)/9-10^2278	CF	has factors: 23
+(10^3144-1)/9-10^2277	CF	has factors: 61
+(10^3144-1)/9-10^2276	C	is composite: RES64: [CFC9B15B3065AC30] (0.1067s+0.0367s)
+(10^3144-1)/9-10^2275	CF	has factors: 239
+(10^3144-1)/9-10^2274	CF	has factors: 29
+(10^3144-1)/9-10^2273	C	is composite: RES64: [9557C42011A6A040] (0.1127s+0.0317s)
+(10^3144-1)/9-10^2272	CF	has factors: 233
+(10^3144-1)/9-10^2271	C	is composite: RES64: [7AED153194CEC629] (0.1078s+0.0410s)
+(10^3144-1)/9-10^2270	CF	has factors: 167
+(10^3144-1)/9-10^2269	CF	has factors: 797
+(10^3144-1)/9-10^2268	CF	has factors: 17
+(10^3144-1)/9-10^2267	C	is composite: RES64: [10B92F39748BD524] (0.1082s+0.1074s)
+(10^3144-1)/9-10^2266	CF	has factors: 1373
+(10^3144-1)/9-10^2265	CF	has factors: 53
+(10^3144-1)/9-10^2264	CF	has factors: 907
+(10^3144-1)/9-10^2263	CF	has factors: 1361
+(10^3144-1)/9-10^2262	CF	has factors: 19
+(10^3144-1)/9-10^2261	CF	has factors: 199
+(10^3144-1)/9-10^2260	CF	has factors: 241
+(10^3144-1)/9-10^2259	CF	has factors: 97
+(10^3144-1)/9-10^2258	CF	has factors: 317
+(10^3144-1)/9-10^2257	CF	has factors: 47
+(10^3144-1)/9-10^2256	CF	has factors: 23
+(10^3144-1)/9-10^2255	CF	has factors: 54673
+(10^3144-1)/9-10^2254	CF	has factors: 239
+(10^3144-1)/9-10^2253	CF	has factors: 677
+(10^3144-1)/9-10^2252	CF	has factors: 17
+(10^3144-1)/9-10^2251	CF	has factors: 151
+(10^3144-1)/9-10^2250	C	is composite: RES64: [26465F9460D59CF1] (0.1071s+0.0331s)
+(10^3144-1)/9-10^2249	CF	has factors: 1171
+(10^3144-1)/9-10^2248	C	is composite: RES64: [FF23281459791B1B] (0.1057s+0.0491s)
+(10^3144-1)/9-10^2247	CF	has factors: 239
+(10^3144-1)/9-10^2246	CF	has factors: 29^2
+(10^3144-1)/9-10^2245	CF	has factors: 14369
+(10^3144-1)/9-10^2244	CF	has factors: 19
+(10^3144-1)/9-10^2243	C	is composite: RES64: [614404448456EF41] (0.1072s+0.0308s)
+(10^3144-1)/9-10^2242	C	is composite: RES64: [0904AD0040F72351] (0.1178s+0.0534s)
+(10^3144-1)/9-10^2241	CF	has factors: 43
+(10^3144-1)/9-10^2240	CF	has factors: 239
+(10^3144-1)/9-10^2239	CF	has factors: 53
+(10^3144-1)/9-10^2238	CF	has factors: 3581
+(10^3144-1)/9-10^2237	C	is composite: RES64: [4054176BEA3FFB74] (0.1065s+0.0452s)
+(10^3144-1)/9-10^2236	CF	has factors: 17
+(10^3144-1)/9-10^2235	CF	has factors: 109
+(10^3144-1)/9-10^2234	CF	has factors: 23
+(10^3144-1)/9-10^2233	CF	has factors: 239
+(10^3144-1)/9-10^2232	CF	has factors: 1319
+(10^3144-1)/9-10^2231	C	is composite: RES64: [2A3F09817E9430F5] (0.1076s+0.1253s)
+(10^3144-1)/9-10^2230	CF	has factors: 241
+(10^3144-1)/9-10^2229	CF	has factors: 149
+(10^3144-1)/9-10^2228	CF	has factors: 571
+(10^3144-1)/9-10^2227	CF	has factors: 18749
+(10^3144-1)/9-10^2226	CF	has factors: 19^2
+(10^3144-1)/9-10^2225	CF	has factors: 113
+(10^3144-1)/9-10^2224	CF	has factors: 191
+(10^3144-1)/9-10^2223	CF	has factors: 337
+(10^3144-1)/9-10^2222	CF	has factors: 71
+(10^3144-1)/9-10^2221	CF	has factors: 853
+(10^3144-1)/9-10^2220	CF	has factors: 17
+(10^3144-1)/9-10^2219	CF	has factors: 239
+(10^3144-1)/9-10^2218	CF	has factors: 29
+(10^3144-1)/9-10^2217	CF	has factors: 61
+(10^3144-1)/9-10^2216	CF	has factors: 59
+(10^3144-1)/9-10^2215	CF	has factors: 2087
+(10^3144-1)/9-10^2214	CF	has factors: 3511
+(10^3144-1)/9-10^2213	CF	has factors: 53
+(10^3144-1)/9-10^2212	CF	has factors: 23
+(10^3144-1)/9-10^2211	CF	has factors: 47
+(10^3144-1)/9-10^2210	CF	has factors: 439
+(10^3144-1)/9-10^2209	CF	has factors: 107
+(10^3144-1)/9-10^2208	CF	has factors: 19
+(10^3144-1)/9-10^2207	CF	has factors: 33739
+(10^3144-1)/9-10^2206	C	is composite: RES64: [C63FB6BEB04BB63E] (0.1056s+0.0596s)
+(10^3144-1)/9-10^2205	CF	has factors: 157
+(10^3144-1)/9-10^2204	CF	has factors: 17
+(10^3144-1)/9-10^2203	CF	has factors: 47917
+(10^3144-1)/9-10^2202	CF	has factors: 2153
+(10^3144-1)/9-10^2201	C	is composite: RES64: [7DB58BC14B97576F] (0.1056s+0.0415s)
+(10^3144-1)/9-10^2200	CF	has factors: 53
+(10^3144-1)/9-10^2199	CF	has factors: 43
+(10^3144-1)/9-10^2198	CF	has factors: 239
+(10^3144-1)/9-10^2197	CF	has factors: 283
+(10^3144-1)/9-10^2196	C	is composite: RES64: [023CBCAD64735A67] (0.1057s+0.0289s)
+(10^3144-1)/9-10^2195	C	is composite: RES64: [195B31767417799F] (0.1062s+0.0290s)
+(10^3144-1)/9-10^2194	C	is composite: RES64: [F28E2A261595EBE1] (0.1105s+0.0291s)
+(10^3144-1)/9-10^2193	C	is composite: RES64: [81F1DB90B3C8BA4F] (0.1063s+0.0518s)
+(10^3144-1)/9-10^2192	CF	has factors: 887
+(10^3144-1)/9-10^2191	CF	has factors: 239^2
+(10^3144-1)/9-10^2190	CF	has factors: 19
+(10^3144-1)/9-10^2189	CF	has factors: 941
+(10^3144-1)/9-10^2188	CF	has factors: 17
+(10^3144-1)/9-10^2187	CF	has factors: 53
+(10^3144-1)/9-10^2186	C	is composite: RES64: [C98DC0A438F5D7C5] (0.1079s+0.0301s)
+(10^3144-1)/9-10^2185	C	is composite: RES64: [BDAC281EFB122C54] (0.1058s+0.0352s)
+(10^3144-1)/9-10^2184	CF	has factors: 239
+(10^3144-1)/9-10^2183	CF	has factors: 293
+(10^3144-1)/9-10^2182	C	is composite: RES64: [76AFDA0C151C4C98] (0.1249s+0.0580s)
+(10^3144-1)/9-10^2181	CF	has factors: 2417
+(10^3144-1)/9-10^2180	CF	has factors: 4969
+(10^3144-1)/9-10^2179	CF	has factors: 317
+(10^3144-1)/9-10^2178	CF	has factors: 43
+(10^3144-1)/9-10^2177	CF	has factors: 239
+(10^3144-1)/9-10^2176	CF	has factors: 151
+(10^3144-1)/9-10^2175	CF	has factors: 2069
+(10^3144-1)/9-10^2174	CF	has factors: 53
+(10^3144-1)/9-10^2173	C	is composite: RES64: [85C590D628216341] (0.1060s+0.0492s)
+(10^3144-1)/9-10^2172	CF	has factors: 17
+(10^3144-1)/9-10^2171	CF	has factors: 12227
+(10^3144-1)/9-10^2170	CF	has factors: 239
+(10^3144-1)/9-10^2169	CF	has factors: 229
+(10^3144-1)/9-10^2168	CF	has factors: 23
+(10^3144-1)/9-10^2167	C	is composite: RES64: [520340454CC4D1F4] (0.1103s+0.0287s)
+(10^3144-1)/9-10^2166	C	is composite: RES64: [C5A674BAFA3E23EE] (0.1072s+0.0321s)
+(10^3144-1)/9-10^2165	CF	has factors: 47
+(10^3144-1)/9-10^2164	C	is composite: RES64: [13181D6AB6FDE57C] (0.1214s+0.0494s)
+(10^3144-1)/9-10^2163	CF	has factors: 97
+(10^3144-1)/9-10^2162	CF	has factors: 29
+(10^3144-1)/9-10^2161	CF	has factors: 53
+(10^3144-1)/9-10^2160	CF	has factors: 7451
+(10^3144-1)/9-10^2159	C	is composite: RES64: [60CCF62DC6A9ADEF] (0.1216s+0.0441s)
+(10^3144-1)/9-10^2158	CF	has factors: 59
+(10^3144-1)/9-10^2157	CF	has factors: 43
+(10^3144-1)/9-10^2156	CF	has factors: 17
+(10^3144-1)/9-10^2155	C	is composite: RES64: [69235A094D3CED52] (0.1149s+0.0749s)
+(10^3144-1)/9-10^2154	CF	has factors: 19
+(10^3144-1)/9-10^2153	CF	has factors: 1657
+(10^3144-1)/9-10^2152	CF	has factors: 71
+(10^3144-1)/9-10^2151	CF	has factors: 41233
+(10^3144-1)/9-10^2150	CF	has factors: 433
+(10^3144-1)/9-10^2149	CF	has factors: 239
+(10^3144-1)/9-10^2148	CF	has factors: 53
+(10^3144-1)/9-10^2147	C	is composite: RES64: [B42B1E510E543214] (0.1175s+0.0415s)
+(10^3144-1)/9-10^2146	CF	has factors: 23
+(10^3144-1)/9-10^2145	C	is composite: RES64: [A448FDED29513694] (0.1253s+0.0327s)
+(10^3144-1)/9-10^2144	C	is composite: RES64: [C7EF295D91CDFD63] (0.1112s+0.0290s)
+(10^3144-1)/9-10^2143	C	is composite: RES64: [AE0B37030675CCD9] (0.1285s+0.0426s)
+(10^3144-1)/9-10^2142	CF	has factors: 239
+(10^3144-1)/9-10^2141	CF	has factors: 4967
+(10^3144-1)/9-10^2140	CF	has factors: 17
+(10^3144-1)/9-10^2139	C	is composite: RES64: [6AD78AF075E3E1A2] (0.1161s+0.0327s)
+(10^3144-1)/9-10^2138	CF	has factors: 131
+(10^3144-1)/9-10^2137	C	is composite: RES64: [682ED2A98FE6E9AD] (0.1064s+0.0631s)
+(10^3144-1)/9-10^2136	CF	has factors: 19
+(10^3144-1)/9-10^2135	CF	has factors: 53
+(10^3144-1)/9-10^2134	CF	has factors: 29
+(10^3144-1)/9-10^2133	CF	has factors: 307
+(10^3144-1)/9-10^2132	CF	has factors: 53281
+(10^3144-1)/9-10^2131	C	is composite: RES64: [0D0617A24F107875] (0.1068s+0.0548s)
+(10^3144-1)/9-10^2130	CF	has factors: 193
+(10^3144-1)/9-10^2129	CF	has factors: 191
+(10^3144-1)/9-10^2128	CF	has factors: 239
+(10^3144-1)/9-10^2127	CF	has factors: 109
+(10^3144-1)/9-10^2126	CF	has factors: 1039
+(10^3144-1)/9-10^2125	CF	has factors: 181
+(10^3144-1)/9-10^2124	CF	has factors: 17
+(10^3144-1)/9-10^2123	C	is composite: RES64: [F4CBC8A1FA3B2003] (0.1064s+0.0356s)
+(10^3144-1)/9-10^2122	CF	has factors: 53
+(10^3144-1)/9-10^2121	CF	has factors: 239
+(10^3144-1)/9-10^2120	C	is composite: RES64: [56429094D841074E] (0.1058s+0.0557s)
+(10^3144-1)/9-10^2119	CF	has factors: 47
+(10^3144-1)/9-10^2118	CF	has factors: 19
+(10^3144-1)/9-10^2117	CF	has factors: 71
+(10^3144-1)/9-10^2116	CF	has factors: 8747
+(10^3144-1)/9-10^2115	CF	has factors: 43
+(10^3144-1)/9-10^2114	CF	has factors: 197
+(10^3144-1)/9-10^2113	CF	has factors: 113
+(10^3144-1)/9-10^2112	C	is composite: RES64: [90050E9DD089B71E] (0.1062s+0.0770s)
+(10^3144-1)/9-10^2111	CF	has factors: 491
+(10^3144-1)/9-10^2110	CF	has factors: 241
+(10^3144-1)/9-10^2109	CF	has factors: 53
+(10^3144-1)/9-10^2108	CF	has factors: 17
+(10^3144-1)/9-10^2107	CF	has factors: 239
+(10^3144-1)/9-10^2106	CF	has factors: 29
+(10^3144-1)/9-10^2105	CF	has factors: 557
+(10^3144-1)/9-10^2104	CF	has factors: 167
+(10^3144-1)/9-10^2103	CF	has factors: 107
+(10^3144-1)/9-10^2102	CF	has factors: 23
+(10^3144-1)/9-10^2101	CF	has factors: 151
+(10^3144-1)/9-10^2100	CF	has factors: 19
+(10^3144-1)/9-10^2099	CF	has factors: 179
+(10^3144-1)/9-10^2098	C	is composite: RES64: [8FC749A376B2D621] (0.1062s+0.0651s)
+(10^3144-1)/9-10^2097	CF	has factors: 61^2
+(10^3144-1)/9-10^2096	CF	has factors: 53
+(10^3144-1)/9-10^2095	CF	has factors: 19609
+(10^3144-1)/9-10^2094	CF	has factors: 43
+(10^3144-1)/9-10^2093	CF	has factors: 239
+(10^3144-1)/9-10^2092	CF	has factors: 17
+(10^3144-1)/9-10^2091	CF	has factors: 27091
+(10^3144-1)/9-10^2090	C	is composite: RES64: [9F798A5D64650C62] (0.1051s+0.0351s)
+(10^3144-1)/9-10^2089	CF	has factors: 11087
+(10^3144-1)/9-10^2088	C	is composite: RES64: [F6FE129689DB3480] (0.1054s+0.0285s)
+(10^3144-1)/9-10^2087	C	is composite: RES64: [0636AB5E0FF1BDFC] (0.1085s+0.0320s)
+(10^3144-1)/9-10^2086	CF	has factors: 239
+(10^3144-1)/9-10^2085	C	is composite: RES64: [B00706031569223E] (0.1064s+0.0286s)
+(10^3144-1)/9-10^2084	C	is composite: RES64: [ADD6AA6CFCED0702] (0.1054s+0.1168s)
+(10^3144-1)/9-10^2083	CF	has factors: 53
+(10^3144-1)/9-10^2082	CF	has factors: 19
+(10^3144-1)/9-10^2081	CF	has factors: 149
+(10^3144-1)/9-10^2080	CF	has factors: 23
+(10^3144-1)/9-10^2079	CF	has factors: 239
+(10^3144-1)/9-10^2078	CF	has factors: 29
+(10^3144-1)/9-10^2077	CF	has factors: 30941
+(10^3144-1)/9-10^2076	CF	has factors: 17
+(10^3144-1)/9-10^2075	CF	has factors: 1163
+(10^3144-1)/9-10^2074	CF	has factors: 8011
+(10^3144-1)/9-10^2073	CF	has factors: 43
+(10^3144-1)/9-10^2072	CF	has factors: 239
+(10^3144-1)/9-10^2071	CF	has factors: 461
+(10^3144-1)/9-10^2070	CF	has factors: 53
+(10^3144-1)/9-10^2069	CF	has factors: 65309
+(10^3144-1)/9-10^2068	C	is composite: RES64: [01E0F0F1F839EF70] (0.1068s+0.0515s)
+(10^3144-1)/9-10^2067	CF	has factors: 97
+(10^3144-1)/9-10^2066	CF	has factors: 1877
+(10^3144-1)/9-10^2065	CF	has factors: 239
+(10^3144-1)/9-10^2064	CF	has factors: 19
+(10^3144-1)/9-10^2063	CF	has factors: 199
+(10^3144-1)/9-10^2062	CF	has factors: 4231
+(10^3144-1)/9-10^2061	C	is composite: RES64: [284A69C8410D91FC] (0.1071s+0.0317s)
+(10^3144-1)/9-10^2060	CF	has factors: 17
+(10^3144-1)/9-10^2059	C	is composite: RES64: [97074E9BA10D7D61] (0.1053s+0.0392s)
+(10^3144-1)/9-10^2058	CF	has factors: 23
+(10^3144-1)/9-10^2057	CF	has factors: 53
+(10^3144-1)/9-10^2056	CF	has factors: 283
+(10^3144-1)/9-10^2055	C	is composite: RES64: [1E1D23DE6D33ED83] (0.1050s+0.0351s)
+(10^3144-1)/9-10^2054	CF	has factors: 4127
+(10^3144-1)/9-10^2053	C	is composite: RES64: [0B80A2F3D7781F8B] (0.1056s+0.0423s)
+(10^3144-1)/9-10^2052	CF	has factors: 43
+(10^3144-1)/9-10^2051	CF	has factors: 239
+(10^3144-1)/9-10^2050	CF	has factors: 29
+(10^3144-1)/9-10^2049	CF	has factors: 157
+(10^3144-1)/9-10^2048	C	is composite: RES64: [E40E9A623C6C94CB] (0.1069s+0.0367s)
+(10^3144-1)/9-10^2047	CF	has factors: 71
+(10^3144-1)/9-10^2046	CF	has factors: 19
+(10^3144-1)/9-10^2045	C	is composite: RES64: [3624FFD128749396] (0.1063s+0.0320s)
+(10^3144-1)/9-10^2044	CF	has factors: 17
+(10^3144-1)/9-10^2043	C	is composite: RES64: [4241AAC9EB7EAC1A] (0.1090s+0.0324s)
+(10^3144-1)/9-10^2042	CF	has factors: 59
+(10^3144-1)/9-10^2041	C	is composite: RES64: [34933998EB1066F5] (0.1066s+0.0428s)
+(10^3144-1)/9-10^2040	CF	has factors: 233
+(10^3144-1)/9-10^2039	CF	has factors: 23029
+(10^3144-1)/9-10^2038	C	is composite: RES64: [0300444A60831326] (0.1065s+0.0450s)
+(10^3144-1)/9-10^2037	CF	has factors: 61
+(10^3144-1)/9-10^2036	CF	has factors: 23
+(10^3144-1)/9-10^2035	CF	has factors: 6301
+(10^3144-1)/9-10^2034	CF	has factors: 191
+(10^3144-1)/9-10^2033	C	is composite: RES64: [7F0DFBF938829756] (0.1074s+0.0314s)
+(10^3144-1)/9-10^2032	C	is composite: RES64: [151193C8B0DA2280] (0.1068s+0.0643s)
+(10^3144-1)/9-10^2031	CF	has factors: 43
+(10^3144-1)/9-10^2030	CF	has factors: 239
+(10^3144-1)/9-10^2029	CF	has factors: 32309
+(10^3144-1)/9-10^2028	CF	has factors: 17^2
+(10^3144-1)/9-10^2027	CF	has factors: 47
+(10^3144-1)/9-10^2026	CF	has factors: 151
+(10^3144-1)/9-10^2025	C	is composite: RES64: [6F90C6432245F2C0] (0.1062s+0.0290s)
+(10^3144-1)/9-10^2024	C	is composite: RES64: [E0FDF182B6A278CC] (0.1070s+0.0510s)
+(10^3144-1)/9-10^2023	CF	has factors: 239
+(10^3144-1)/9-10^2022	CF	has factors: 29
+(10^3144-1)/9-10^2021	CF	has factors: 317
+(10^3144-1)/9-10^2020	CF	has factors: 241
+(10^3144-1)/9-10^2019	CF	has factors: 109
+(10^3144-1)/9-10^2018	CF	has factors: 53
+(10^3144-1)/9-10^2017	C	is composite: RES64: [5444C37436A30F51] (0.1047s+0.0444s)
+(10^3144-1)/9-10^2016	CF	has factors: 197
+(10^3144-1)/9-10^2015	CF	has factors: 19429
+(10^3144-1)/9-10^2014	CF	has factors: 23
+(10^3144-1)/9-10^2013	C	is composite: RES64: [FEBED81B29AA5227] (0.1058s+0.0838s)
+(10^3144-1)/9-10^2012	CF	has factors: 17
+(10^3144-1)/9-10^2011	CF	has factors: 38239
+(10^3144-1)/9-10^2010	CF	has factors: 19
+(10^3144-1)/9-10^2009	CF	has factors: 239
+(10^3144-1)/9-10^2008	CF	has factors: 131
+(10^3144-1)/9-10^2007	CF	has factors: 28657
+(10^3144-1)/9-10^2006	CF	has factors: 569
+(10^3144-1)/9-10^2005	CF	has factors: 53
+(10^3144-1)/9-10^2004	CF	has factors: 11903
+(10^3144-1)/9-10^2003	C	is composite: RES64: [71E3F39EF2435C8B] (0.1078s+0.0387s)
+(10^3144-1)/9-10^2002	CF	has factors: 239
+(10^3144-1)/9-10^2001	CF	has factors: 113
+(10^3144-1)/9-10^2000	CF	has factors: 257
+(10^3144-1)/9-10^1999	C	is composite: RES64: [04143AD5D763A850] (0.1070s+0.0768s)
+(10^3144-1)/9-10^1998	CF	has factors: 3067
+(10^3144-1)/9-10^1997	CF	has factors: 107
+(10^3144-1)/9-10^1996	CF	has factors: 17
+(10^3144-1)/9-10^1995	CF	has factors: 239
+(10^3144-1)/9-10^1994	CF	has factors: 29
+(10^3144-1)/9-10^1993	CF	has factors: 359
+(10^3144-1)/9-10^1992	CF	has factors: 19
+(10^3144-1)/9-10^1991	CF	has factors: 439
+(10^3144-1)/9-10^1990	CF	has factors: 241
+(10^3144-1)/9-10^1989	CF	has factors: 43
+(10^3144-1)/9-10^1988	CF	has factors: 239
+(10^3144-1)/9-10^1987	CF	has factors: 227
+(10^3144-1)/9-10^1986	CF	has factors: 577
+(10^3144-1)/9-10^1985	C	is composite: RES64: [B14D3AE04F27F2F7] (0.1165s+0.0454s)
+(10^3144-1)/9-10^1984	CF	has factors: 59
+(10^3144-1)/9-10^1983	CF	has factors: 313
+(10^3144-1)/9-10^1982	C	is composite: RES64: [C57121749CDBCFCB] (0.1117s+0.0615s)
+(10^3144-1)/9-10^1981	CF	has factors: 47
+(10^3144-1)/9-10^1980	CF	has factors: 17
+(10^3144-1)/9-10^1979	CF	has factors: 53
+(10^3144-1)/9-10^1978	CF	has factors: 1193
+(10^3144-1)/9-10^1977	CF	has factors: 61
+(10^3144-1)/9-10^1976	CF	has factors: 683
+(10^3144-1)/9-10^1975	C	is composite: RES64: [0276BBB3BC32999A] (0.1170s+0.1135s)
+(10^3144-1)/9-10^1974	CF	has factors: 19
+(10^3144-1)/9-10^1973	CF	has factors: 6883
+(10^3144-1)/9-10^1972	CF	has factors: 541
+(10^3144-1)/9-10^1971	CF	has factors: 97
+(10^3144-1)/9-10^1970	CF	has factors: 23
+(10^3144-1)/9-10^1969	CF	has factors: 631
+(10^3144-1)/9-10^1968	CF	has factors: 43
+(10^3144-1)/9-10^1967	CF	has factors: 239
+(10^3144-1)/9-10^1966	CF	has factors: 29
+(10^3144-1)/9-10^1965	CF	has factors: 52673
+(10^3144-1)/9-10^1964	CF	has factors: 17
+(10^3144-1)/9-10^1963	C	is composite: RES64: [406E74A39F6EEABC] (0.1128s+0.0438s)
+(10^3144-1)/9-10^1962	CF	has factors: 379
+(10^3144-1)/9-10^1961	CF	has factors: 523
+(10^3144-1)/9-10^1960	CF	has factors: 239
+(10^3144-1)/9-10^1959	CF	has factors: 4177
+(10^3144-1)/9-10^1958	C	is composite: RES64: [B0C21CC1F5E7CF0A] (0.1103s+0.0331s)
+(10^3144-1)/9-10^1957	C	is composite: RES64: [7E2CE8A5932C8A0A] (0.1305s+0.0685s)
+(10^3144-1)/9-10^1956	CF	has factors: 19
+(10^3144-1)/9-10^1955	CF	has factors: 24749
+(10^3144-1)/9-10^1954	CF	has factors: 827
+(10^3144-1)/9-10^1953	CF	has factors: 53
+(10^3144-1)/9-10^1952	CF	has factors: 509
+(10^3144-1)/9-10^1951	CF	has factors: 151
+(10^3144-1)/9-10^1950	C	is composite: RES64: [5BF3144D1AD4C23A] (0.1061s+0.0294s)
+(10^3144-1)/9-10^1949	C	is composite: RES64: [59A002DF28775CA0] (0.1086s+0.0666s)
+(10^3144-1)/9-10^1948	CF	has factors: 17
+(10^3144-1)/9-10^1947	CF	has factors: 43
+(10^3144-1)/9-10^1946	CF	has factors: 239
+(10^3144-1)/9-10^1945	CF	has factors: 181
+(10^3144-1)/9-10^1944	CF	has factors: 107^2
+(10^3144-1)/9-10^1943	CF	has factors: 269
+(10^3144-1)/9-10^1942	CF	has factors: 71
+(10^3144-1)/9-10^1941	CF	has factors: 229
+(10^3144-1)/9-10^1940	CF	has factors: 53
+(10^3144-1)/9-10^1939	CF	has factors: 191
+(10^3144-1)/9-10^1938	CF	has factors: 19
+(10^3144-1)/9-10^1937	C	is composite: RES64: [28958FA5AC43F81E] (0.1065s+0.0364s)
+(10^3144-1)/9-10^1936	P(FactorDB)	is 3-PRP! (0.1045s+0.0323s)	http://factordb.com/index.php?id=1100000001101412253
+(10^3144-1)/9-10^1935	CF	has factors: 47
+(10^3144-1)/9-10^1934	C	is composite: RES64: [22BC7CAFAA276CA1] (0.1052s+0.0349s)
+(10^3144-1)/9-10^1933	CF	has factors: 149
+(10^3144-1)/9-10^1932	CF	has factors: 17
+(10^3144-1)/9-10^1931	C	is composite: RES64: [7BF9FFC636557263] (0.1063s+0.0313s)
+(10^3144-1)/9-10^1930	CF	has factors: 241
+(10^3144-1)/9-10^1929	C	is composite: RES64: [40D26D60ED81EA0F] (0.1052s+0.0283s)
+(10^3144-1)/9-10^1928	C	is composite: RES64: [72F1089746A5AF59] (0.1064s+0.0393s)
+(10^3144-1)/9-10^1927	CF	has factors: 53
+(10^3144-1)/9-10^1926	CF	has factors: 23
+(10^3144-1)/9-10^1925	CF	has factors: 239
+(10^3144-1)/9-10^1924	C	is composite: RES64: [79502C53A75C0816] (0.1089s+0.0448s)
+(10^3144-1)/9-10^1923	CF	has factors: 41263
+(10^3144-1)/9-10^1922	C	is composite: RES64: [9865798F649F1FE9] (0.1064s+0.0552s)
+(10^3144-1)/9-10^1921	CF	has factors: 179
+(10^3144-1)/9-10^1920	CF	has factors: 19
+(10^3144-1)/9-10^1919	CF	has factors: 967
+(10^3144-1)/9-10^1918	CF	has factors: 197
+(10^3144-1)/9-10^1917	CF	has factors: 61
+(10^3144-1)/9-10^1916	CF	has factors: 17
+(10^3144-1)/9-10^1915	CF	has factors: 283
+(10^3144-1)/9-10^1914	CF	has factors: 53
+(10^3144-1)/9-10^1913	C	is composite: RES64: [19AC954DC1B33878] (0.1072s+0.0288s)
+(10^3144-1)/9-10^1912	C	is composite: RES64: [36D2114CF57E63B5] (0.1060s+0.0349s)
+(10^3144-1)/9-10^1911	CF	has factors: 109
+(10^3144-1)/9-10^1910	CF	has factors: 29
+(10^3144-1)/9-10^1909	C	is composite: RES64: [B70915F4E7D9639C] (0.1086s+0.0292s)
+(10^3144-1)/9-10^1908	C	is composite: RES64: [17AD2464AAF0E1B0] (0.1061s+0.0444s)
+(10^3144-1)/9-10^1907	CF	has factors: 71
+(10^3144-1)/9-10^1906	CF	has factors: 2441
+(10^3144-1)/9-10^1905	CF	has factors: 43
+(10^3144-1)/9-10^1904	CF	has factors: 23
+(10^3144-1)/9-10^1903	C	is composite: RES64: [6489599A3B39A9D2] (0.1064s+0.0393s)
+(10^3144-1)/9-10^1902	CF	has factors: 19
+(10^3144-1)/9-10^1901	CF	has factors: 53
+(10^3144-1)/9-10^1900	CF	has factors: 17
+(10^3144-1)/9-10^1899	C	is composite: RES64: [788BBA1BEC12E151] (0.1062s+0.0284s)
+(10^3144-1)/9-10^1898	C	is composite: RES64: [D97F5E2C23510EB9] (0.1060s+0.0323s)
+(10^3144-1)/9-10^1897	CF	has factors: 239
+(10^3144-1)/9-10^1896	C	is composite: RES64: [36CBDEA5C744DA25] (0.1066s+0.0463s)
+(10^3144-1)/9-10^1895	CF	has factors: 46051
+(10^3144-1)/9-10^1894	C	is composite: RES64: [A302FC52C6CF2D8D] (0.1055s+0.0595s)
+(10^3144-1)/9-10^1893	CF	has factors: 157
+(10^3144-1)/9-10^1892	CF	has factors: 12821
+(10^3144-1)/9-10^1891	CF	has factors: 107
+(10^3144-1)/9-10^1890	CF	has factors: 239
+(10^3144-1)/9-10^1889	CF	has factors: 47^2
+(10^3144-1)/9-10^1888	CF	has factors: 53
+(10^3144-1)/9-10^1887	CF	has factors: 337
+(10^3144-1)/9-10^1886	CF	has factors: 3469
+(10^3144-1)/9-10^1885	C	is composite: RES64: [E65DF7FB728427FD] (0.1055s+0.0400s)
+(10^3144-1)/9-10^1884	CF	has factors: 17
+(10^3144-1)/9-10^1883	CF	has factors: 239
+(10^3144-1)/9-10^1882	CF	has factors: 23
+(10^3144-1)/9-10^1881	C	is composite: RES64: [33DBC3169754BC4D] (0.1077s+0.0284s)
+(10^3144-1)/9-10^1880	C	is composite: RES64: [7ADF40DDE5B92B39] (0.1063s+0.0397s)
+(10^3144-1)/9-10^1879	CF	has factors: 8839
+(10^3144-1)/9-10^1878	CF	has factors: 131
+(10^3144-1)/9-10^1877	C	is composite: RES64: [442EFF7CBE8ED278] (0.1073s+0.0625s)
+(10^3144-1)/9-10^1876	CF	has factors: 151
+(10^3144-1)/9-10^1875	CF	has factors: 53
+(10^3144-1)/9-10^1874	CF	has factors: 227
+(10^3144-1)/9-10^1873	CF	has factors: 15073
+(10^3144-1)/9-10^1872	CF	has factors: 71
+(10^3144-1)/9-10^1871	CF	has factors: 797
+(10^3144-1)/9-10^1870	CF	has factors: 241
+(10^3144-1)/9-10^1869	CF	has factors: 239
+(10^3144-1)/9-10^1868	CF	has factors: 17
+(10^3144-1)/9-10^1867	C	is composite: RES64: [7D2E2E9B72CB26B1] (0.1084s+0.0347s)
+(10^3144-1)/9-10^1866	CF	has factors: 19
+(10^3144-1)/9-10^1865	CF	has factors: 199
+(10^3144-1)/9-10^1864	C	is composite: RES64: [4063A6D7F949B532] (0.1077s+0.0427s)
+(10^3144-1)/9-10^1863	CF	has factors: 43
+(10^3144-1)/9-10^1862	CF	has factors: 53
+(10^3144-1)/9-10^1861	CF	has factors: 223
+(10^3144-1)/9-10^1860	CF	has factors: 23
+(10^3144-1)/9-10^1859	C	is composite: RES64: [061351EE9A8FBDA9] (0.1059s+0.0438s)
+(10^3144-1)/9-10^1858	CF	has factors: 29311
+(10^3144-1)/9-10^1857	CF	has factors: 61
+(10^3144-1)/9-10^1856	C	is composite: RES64: [89BF28E6AE8B5C8A] (0.1060s+0.0453s)
+(10^3144-1)/9-10^1855	CF	has factors: 239
+(10^3144-1)/9-10^1854	CF	has factors: 29
+(10^3144-1)/9-10^1853	CF	has factors: 9587
+(10^3144-1)/9-10^1852	CF	has factors: 17
+(10^3144-1)/9-10^1851	C	is composite: RES64: [279E53BC5305EF10] (0.1071s+0.0520s)
+(10^3144-1)/9-10^1850	CF	has factors: 4451
+(10^3144-1)/9-10^1849	CF	has factors: 53^2
+(10^3144-1)/9-10^1848	CF	has factors: 19
+(10^3144-1)/9-10^1847	CF	has factors: 19031
+(10^3144-1)/9-10^1846	CF	has factors: 823
+(10^3144-1)/9-10^1845	C	is composite: RES64: [1F182D6B702F32EE] (0.1119s+0.0484s)
+(10^3144-1)/9-10^1844	CF	has factors: 191
+(10^3144-1)/9-10^1843	CF	has factors: 47
+(10^3144-1)/9-10^1842	CF	has factors: 43^2
+(10^3144-1)/9-10^1841	CF	has factors: 239
+(10^3144-1)/9-10^1840	CF	has factors: 241
+(10^3144-1)/9-10^1839	C	is composite: RES64: [04B2E047A34E6635] (0.1072s+0.0448s)
+(10^3144-1)/9-10^1838	CF	has factors: 23
+(10^3144-1)/9-10^1837	CF	has factors: 71
+(10^3144-1)/9-10^1836	CF	has factors: 17
+(10^3144-1)/9-10^1835	CF	has factors: 1627
+(10^3144-1)/9-10^1834	CF	has factors: 239
+(10^3144-1)/9-10^1833	C	is composite: RES64: [030743E13680431A] (0.1124s+0.0297s)
+(10^3144-1)/9-10^1832	C	is composite: RES64: [795F555BABF7DA9B] (0.1075s+0.0291s)
+(10^3144-1)/9-10^1831	C	is composite: RES64: [B0CE4BFA41BC86BF] (0.1078s+0.0336s)
+(10^3144-1)/9-10^1830	CF	has factors: 19
+(10^3144-1)/9-10^1829	C	is composite: RES64: [30FD3C9AB87CDB67] (0.1159s+0.0695s)
+(10^3144-1)/9-10^1828	CF	has factors: 6037
+(10^3144-1)/9-10^1827	CF	has factors: 239
+(10^3144-1)/9-10^1826	CF	has factors: 29
+(10^3144-1)/9-10^1825	CF	has factors: 18367
+(10^3144-1)/9-10^1824	CF	has factors: 6971
+(10^3144-1)/9-10^1823	CF	has factors: 53
+(10^3144-1)/9-10^1822	C	is composite: RES64: [F13E16FA5BF206DC] (0.1227s+0.0354s)
+(10^3144-1)/9-10^1821	CF	has factors: 43
+(10^3144-1)/9-10^1820	CF	has factors: 17
+(10^3144-1)/9-10^1819	C	is composite: RES64: [86E49015E8F7DCD9] (0.1107s+0.0294s)
+(10^3144-1)/9-10^1818	C	is composite: RES64: [A15E0BF83B5268D0] (0.1251s+0.0673s)
+(10^3144-1)/9-10^1817	CF	has factors: 2447
+(10^3144-1)/9-10^1816	CF	has factors: 23
+(10^3144-1)/9-10^1815	CF	has factors: 157
+(10^3144-1)/9-10^1814	CF	has factors: 359
+(10^3144-1)/9-10^1813	CF	has factors: 239
+(10^3144-1)/9-10^1812	CF	has factors: 19
+(10^3144-1)/9-10^1811	CF	has factors: 907
+(10^3144-1)/9-10^1810	CF	has factors: 53
+(10^3144-1)/9-10^1809	C	is composite: RES64: [698546B83AF32464] (0.1137s+0.0426s)
+(10^3144-1)/9-10^1808	CF	has factors: 233
+(10^3144-1)/9-10^1807	CF	has factors: 1801
+(10^3144-1)/9-10^1806	CF	has factors: 239
+(10^3144-1)/9-10^1805	C	is composite: RES64: [BB19014907D8B9CF] (0.1093s+0.0957s)
+(10^3144-1)/9-10^1804	CF	has factors: 17
+(10^3144-1)/9-10^1803	CF	has factors: 109
+(10^3144-1)/9-10^1802	CF	has factors: 71
+(10^3144-1)/9-10^1801	CF	has factors: 151
+(10^3144-1)/9-10^1800	CF	has factors: 43
+(10^3144-1)/9-10^1799	CF	has factors: 239
+(10^3144-1)/9-10^1798	CF	has factors: 29
+(10^3144-1)/9-10^1797	CF	has factors: 47
+(10^3144-1)/9-10^1796	CF	has factors: 14369
+(10^3144-1)/9-10^1795	CF	has factors: 853
+(10^3144-1)/9-10^1794	CF	has factors: 19
+(10^3144-1)/9-10^1793	CF	has factors: 47149
+(10^3144-1)/9-10^1792	CF	has factors: 239
+(10^3144-1)/9-10^1791	C	is composite: RES64: [935338CA83154CF6] (0.1079s+0.0293s)
+(10^3144-1)/9-10^1790	C	is composite: RES64: [008E1AFEAAB42D56] (0.1095s+0.0398s)
+(10^3144-1)/9-10^1789	CF	has factors: 9281
+(10^3144-1)/9-10^1788	CF	has factors: 17
+(10^3144-1)/9-10^1787	C	is composite: RES64: [59103FB658884006] (0.1131s+0.0289s)
+(10^3144-1)/9-10^1786	C	is composite: RES64: [5F8A4C52473FFF9F] (0.1084s+0.0662s)
+(10^3144-1)/9-10^1785	CF	has factors: 107
+(10^3144-1)/9-10^1784	CF	has factors: 53
+(10^3144-1)/9-10^1783	CF	has factors: 877
+(10^3144-1)/9-10^1782	CF	has factors: 4643
+(10^3144-1)/9-10^1781	CF	has factors: 947
+(10^3144-1)/9-10^1780	CF	has factors: 241
+(10^3144-1)/9-10^1779	CF	has factors: 43
+(10^3144-1)/9-10^1778	CF	has factors: 239
+(10^3144-1)/9-10^1777	CF	has factors: 113
+(10^3144-1)/9-10^1776	CF	has factors: 19
+(10^3144-1)/9-10^1775	C	is composite: RES64: [ABBE9C9E26F8E96B] (0.1076s+0.0471s)
+(10^3144-1)/9-10^1774	CF	has factors: 283
+(10^3144-1)/9-10^1773	CF	has factors: 3089
+(10^3144-1)/9-10^1772	CF	has factors: 17
+(10^3144-1)/9-10^1771	CF	has factors: 53
+(10^3144-1)/9-10^1770	CF	has factors: 29
+(10^3144-1)/9-10^1769	C	is composite: RES64: [ABB135E15912B60C] (0.1067s+0.1032s)
+(10^3144-1)/9-10^1768	CF	has factors: 25309
+(10^3144-1)/9-10^1767	CF	has factors: 71
+(10^3144-1)/9-10^1766	CF	has factors: 199
+(10^3144-1)/9-10^1765	CF	has factors: 181
+(10^3144-1)/9-10^1764	CF	has factors: 239
+(10^3144-1)/9-10^1763	CF	has factors: 8087
+(10^3144-1)/9-10^1762	CF	has factors: 48311
+(10^3144-1)/9-10^1761	CF	has factors: 227
+(10^3144-1)/9-10^1760	CF	has factors: 47147
+(10^3144-1)/9-10^1759	C	is composite: RES64: [B9065CE8AFE0C804] (0.1067s+0.0441s)
+(10^3144-1)/9-10^1758	CF	has factors: 19
+(10^3144-1)/9-10^1757	CF	has factors: 239
+(10^3144-1)/9-10^1756	CF	has factors: 17^2
+(10^3144-1)/9-10^1755	CF	has factors: 4663
+(10^3144-1)/9-10^1754	C	is composite: RES64: [8BE8B12ED2BEC742] (0.1095s+0.0281s)
+(10^3144-1)/9-10^1753	C	is composite: RES64: [5E0BD67FD4A772BE] (0.1114s+0.0932s)
+(10^3144-1)/9-10^1752	CF	has factors: 59
+(10^3144-1)/9-10^1751	CF	has factors: 47
+(10^3144-1)/9-10^1750	CF	has factors: 23
+(10^3144-1)/9-10^1749	CF	has factors: 191
+(10^3144-1)/9-10^1748	CF	has factors: 131
+(10^3144-1)/9-10^1747	CF	has factors: 74203
+(10^3144-1)/9-10^1746	CF	has factors: 193
+(10^3144-1)/9-10^1745	CF	has factors: 53
+(10^3144-1)/9-10^1744	CF	has factors: 257
+(10^3144-1)/9-10^1743	CF	has factors: 179
+(10^3144-1)/9-10^1742	CF	has factors: 29
+(10^3144-1)/9-10^1741	C	is composite: RES64: [E0E802B581FC1A7D] (0.1103s+0.0424s)
+(10^3144-1)/9-10^1740	CF	has factors: 17
+(10^3144-1)/9-10^1739	CF	has factors: 23747
+(10^3144-1)/9-10^1738	C	is composite: RES64: [E763B3971F49C75D] (0.1086s+0.0369s)
+(10^3144-1)/9-10^1737	CF	has factors: 43
+(10^3144-1)/9-10^1736	CF	has factors: 239
+(10^3144-1)/9-10^1735	C	is composite: RES64: [5E523C9BBD34A886] (0.1078s+0.0427s)
+(10^3144-1)/9-10^1734	CF	has factors: 31607
+(10^3144-1)/9-10^1733	C	is composite: RES64: [87B8660D020577EB] (0.1101s+0.0329s)
+(10^3144-1)/9-10^1732	CF	has factors: 53
+(10^3144-1)/9-10^1731	C	is composite: RES64: [D450EB06115333BE] (0.1108s+0.0284s)
+(10^3144-1)/9-10^1730	C	is composite: RES64: [D320C361D4031AB7] (0.1068s+0.0721s)
+(10^3144-1)/9-10^1729	CF	has factors: 239
+(10^3144-1)/9-10^1728	CF	has factors: 23
+(10^3144-1)/9-10^1727	CF	has factors: 347
+(10^3144-1)/9-10^1726	CF	has factors: 151
+(10^3144-1)/9-10^1725	CF	has factors: 54877
+(10^3144-1)/9-10^1724	CF	has factors: 17
+(10^3144-1)/9-10^1723	C	is composite: RES64: [9E27A6B7311B0985] (0.1066s+0.0484s)
+(10^3144-1)/9-10^1722	CF	has factors: 19
+(10^3144-1)/9-10^1721	CF	has factors: 9463
+(10^3144-1)/9-10^1720	CF	has factors: 241
+(10^3144-1)/9-10^1719	CF	has factors: 53
+(10^3144-1)/9-10^1718	CF	has factors: 433
+(10^3144-1)/9-10^1717	C	is composite: RES64: [9FBE95F7664CEFBA] (0.1073s+0.0418s)
+(10^3144-1)/9-10^1716	CF	has factors: 43
+(10^3144-1)/9-10^1715	CF	has factors: 239
+(10^3144-1)/9-10^1714	CF	has factors: 29
+(10^3144-1)/9-10^1713	CF	has factors: 229
+(10^3144-1)/9-10^1712	C	is composite: RES64: [445840F91FD8C40D] (0.1093s+0.0336s)
+(10^3144-1)/9-10^1711	CF	has factors: 2521
+(10^3144-1)/9-10^1710	C	is composite: RES64: [87909F4DBDE7586D] (0.1082s+0.0284s)
+(10^3144-1)/9-10^1709	C	is composite: RES64: [F7ABC24E261BFE8C] (0.1092s+0.0331s)
+(10^3144-1)/9-10^1708	CF	has factors: 17
+(10^3144-1)/9-10^1707	C	is composite: RES64: [01A679FD3C4C71CF] (0.1072s+0.0397s)
+(10^3144-1)/9-10^1706	CF	has factors: 23
+(10^3144-1)/9-10^1705	CF	has factors: 47
+(10^3144-1)/9-10^1704	CF	has factors: 19
+(10^3144-1)/9-10^1703	C	is composite: RES64: [512A6C4C9918E870] (0.1131s+0.0293s)
+(10^3144-1)/9-10^1702	C	is composite: RES64: [232D9BDA41571B29] (0.1073s+0.0484s)
+(10^3144-1)/9-10^1701	CF	has factors: 239
+(10^3144-1)/9-10^1700	CF	has factors: 523
+(10^3144-1)/9-10^1699	CF	has factors: 30817
+(10^3144-1)/9-10^1698	C	is composite: RES64: [2C48BB78620653E7] (0.1087s+0.0335s)
+(10^3144-1)/9-10^1697	CF	has factors: 71
+(10^3144-1)/9-10^1696	C	is composite: RES64: [C29E00E248F21179] (0.1066s+0.0433s)
+(10^3144-1)/9-10^1695	CF	has factors: 43
+(10^3144-1)/9-10^1694	CF	has factors: 59
+(10^3144-1)/9-10^1693	CF	has factors: 53
+(10^3144-1)/9-10^1692	CF	has factors: 17
+(10^3144-1)/9-10^1691	C	is composite: RES64: [5ECE1038B00D1538] (0.1075s+0.0330s)
+(10^3144-1)/9-10^1690	CF	has factors: 241
+(10^3144-1)/9-10^1689	C	is composite: RES64: [BAB435DAF2212638] (0.1462s+0.0290s)
+(10^3144-1)/9-10^1688	C	is composite: RES64: [3223E3EF14C9A42C] (0.1082s+0.0472s)
+(10^3144-1)/9-10^1687	CF	has factors: 239
+(10^3144-1)/9-10^1686	CF	has factors: 19
+(10^3144-1)/9-10^1685	C	is composite: RES64: [4DF7C75FBEA28E13] (0.1259s+0.1116s)
+(10^3144-1)/9-10^1684	CF	has factors: 23
+(10^3144-1)/9-10^1683	CF	has factors: 97
+(10^3144-1)/9-10^1682	CF	has factors: 3049
+(10^3144-1)/9-10^1681	CF	has factors: 383
+(10^3144-1)/9-10^1680	CF	has factors: 53
+(10^3144-1)/9-10^1679	CF	has factors: 107
+(10^3144-1)/9-10^1678	CF	has factors: 22367
+(10^3144-1)/9-10^1677	CF	has factors: 61
+(10^3144-1)/9-10^1676	CF	has factors: 17
+(10^3144-1)/9-10^1675	CF	has factors: 269
+(10^3144-1)/9-10^1674	CF	has factors: 43
+(10^3144-1)/9-10^1673	CF	has factors: 239
+(10^3144-1)/9-10^1672	CF	has factors: 797
+(10^3144-1)/9-10^1671	CF	has factors: 313
+(10^3144-1)/9-10^1670	CF	has factors: 44029
+(10^3144-1)/9-10^1669	C	is composite: RES64: [D6E8E7BB8D0600D6] (0.1100s+0.0505s)
+(10^3144-1)/9-10^1668	CF	has factors: 19
+(10^3144-1)/9-10^1667	CF	has factors: 53
+(10^3144-1)/9-10^1666	CF	has factors: 239
+(10^3144-1)/9-10^1665	CF	has factors: 113
+(10^3144-1)/9-10^1664	CF	has factors: 971
+(10^3144-1)/9-10^1663	C	is composite: RES64: [9EC21D3FDC92DD54] (0.1264s+0.0342s)
+(10^3144-1)/9-10^1662	CF	has factors: 23
+(10^3144-1)/9-10^1661	C	is composite: RES64: [6A5FDF041B70D4E8] (0.1180s+0.0665s)
+(10^3144-1)/9-10^1660	CF	has factors: 17
+(10^3144-1)/9-10^1659	CF	has factors: 47
+(10^3144-1)/9-10^1658	CF	has factors: 29
+(10^3144-1)/9-10^1657	CF	has factors: 63521
+(10^3144-1)/9-10^1656	C	is composite: RES64: [1D8F1A56E0E38024] (0.1255s+0.0630s)
+(10^3144-1)/9-10^1655	CF	has factors: 5869
+(10^3144-1)/9-10^1654	CF	has factors: 53
+(10^3144-1)/9-10^1653	CF	has factors: 43
+(10^3144-1)/9-10^1652	CF	has factors: 239
+(10^3144-1)/9-10^1651	CF	has factors: 151
+(10^3144-1)/9-10^1650	CF	has factors: 19
+(10^3144-1)/9-10^1649	C	is composite: RES64: [2F6195D89E04F5AD] (0.1234s+0.0322s)
+(10^3144-1)/9-10^1648	CF	has factors: 227
+(10^3144-1)/9-10^1647	C	is composite: RES64: [622EDACD0FC3EE60] (0.1091s+0.0467s)
+(10^3144-1)/9-10^1646	CF	has factors: 1613
+(10^3144-1)/9-10^1645	CF	has factors: 239
+(10^3144-1)/9-10^1644	CF	has factors: 17
+(10^3144-1)/9-10^1643	CF	has factors: 8707
+(10^3144-1)/9-10^1642	C	is composite: RES64: [3664DA2225389110] (0.1101s+0.0535s)
+(10^3144-1)/9-10^1641	CF	has factors: 53
+(10^3144-1)/9-10^1640	CF	has factors: 23
+(10^3144-1)/9-10^1639	CF	has factors: 223
+(10^3144-1)/9-10^1638	CF	has factors: 239
+(10^3144-1)/9-10^1637	CF	has factors: 149
+(10^3144-1)/9-10^1636	CF	has factors: 59
+(10^3144-1)/9-10^1635	CF	has factors: 359
+(10^3144-1)/9-10^1634	C	is composite: RES64: [7E32880E269ED8F5] (0.1077s+0.0419s)
+(10^3144-1)/9-10^1633	CF	has factors: 283
+(10^3144-1)/9-10^1632	CF	has factors: 19
+(10^3144-1)/9-10^1631	CF	has factors: 239
+(10^3144-1)/9-10^1630	CF	has factors: 29
+(10^3144-1)/9-10^1629	C	is composite: RES64: [BB3A28F98589888C] (0.1125s+0.0519s)
+(10^3144-1)/9-10^1628	CF	has factors: 17
+(10^3144-1)/9-10^1627	CF	has factors: 71
+(10^3144-1)/9-10^1626	CF	has factors: 107
+(10^3144-1)/9-10^1625	CF	has factors: 1789
+(10^3144-1)/9-10^1624	CF	has factors: 197
+(10^3144-1)/9-10^1623	CF	has factors: 1997
+(10^3144-1)/9-10^1622	C	is composite: RES64: [CFD3C144A8D87846] (0.1114s+0.0467s)
+(10^3144-1)/9-10^1621	CF	has factors: 491
+(10^3144-1)/9-10^1620	CF	has factors: 1733
+(10^3144-1)/9-10^1619	CF	has factors: 1051
+(10^3144-1)/9-10^1618	CF	has factors: 23
+(10^3144-1)/9-10^1617	CF	has factors: 61
+(10^3144-1)/9-10^1616	C	is composite: RES64: [36C9209B74F89A89] (0.1081s+0.0509s)
+(10^3144-1)/9-10^1615	CF	has factors: 53
+(10^3144-1)/9-10^1614	CF	has factors: 19
+(10^3144-1)/9-10^1613	CF	has factors: 47
+(10^3144-1)/9-10^1612	CF	has factors: 17
+(10^3144-1)/9-10^1611	CF	has factors: 43
+(10^3144-1)/9-10^1610	CF	has factors: 239
+(10^3144-1)/9-10^1609	C	is composite: RES64: [C6FBCD4E0C6FAF30] (0.1097s+0.0292s)
+(10^3144-1)/9-10^1608	C	is composite: RES64: [56D7E0C091FE1D6B] (0.1080s+0.0358s)
+(10^3144-1)/9-10^1607	CF	has factors: 1039
+(10^3144-1)/9-10^1606	CF	has factors: 167
+(10^3144-1)/9-10^1605	C	is composite: RES64: [BD96394A419C60FD] (0.1070s+0.0526s)
+(10^3144-1)/9-10^1604	CF	has factors: 2269
+(10^3144-1)/9-10^1603	CF	has factors: 239
+(10^3144-1)/9-10^1602	CF	has factors: 29
+(10^3144-1)/9-10^1601	CF	has factors: 1657
+(10^3144-1)/9-10^1600	CF	has factors: 241
+(10^3144-1)/9-10^1599	CF	has factors: 293
+(10^3144-1)/9-10^1598	C	is composite: RES64: [EEE6D56885080A7B] (0.1067s+0.0404s)
+(10^3144-1)/9-10^1597	CF	has factors: 967
+(10^3144-1)/9-10^1596	CF	has factors: 17
+(10^3144-1)/9-10^1595	C	is composite: RES64: [0CFE37077D6EB156] (0.1102s+0.0464s)
+(10^3144-1)/9-10^1594	CF	has factors: 4423
+(10^3144-1)/9-10^1593	CF	has factors: 10513
+(10^3144-1)/9-10^1592	CF	has factors: 71
+(10^3144-1)/9-10^1591	C	is composite: RES64: [D99BF3353BFB6BB8] (0.1114s+0.0688s)
+(10^3144-1)/9-10^1590	CF	has factors: 43
+(10^3144-1)/9-10^1589	CF	has factors: 53
+(10^3144-1)/9-10^1588	CF	has factors: 3691
+(10^3144-1)/9-10^1587	CF	has factors: 97
+(10^3144-1)/9-10^1586	CF	has factors: 1109
+(10^3144-1)/9-10^1585	CF	has factors: 181
+(10^3144-1)/9-10^1584	CF	has factors: 379
+(10^3144-1)/9-10^1583	CF	has factors: 1361
+(10^3144-1)/9-10^1582	CF	has factors: 239
+(10^3144-1)/9-10^1581	CF	has factors: 157
+(10^3144-1)/9-10^1580	CF	has factors: 17
+(10^3144-1)/9-10^1579	C	is composite: RES64: [953862853CF85CBF] (0.1114s+0.0545s)
+(10^3144-1)/9-10^1578	CF	has factors: 19
+(10^3144-1)/9-10^1577	CF	has factors: 677
+(10^3144-1)/9-10^1576	CF	has factors: 53
+(10^3144-1)/9-10^1575	CF	has factors: 239
+(10^3144-1)/9-10^1574	CF	has factors: 23
+(10^3144-1)/9-10^1573	CF	has factors: 107
+(10^3144-1)/9-10^1572	CF	has factors: 367
+(10^3144-1)/9-10^1571	C	is composite: RES64: [90AC335D010B3076] (0.1084s+0.0755s)
+(10^3144-1)/9-10^1570	CF	has factors: 241
+(10^3144-1)/9-10^1569	CF	has factors: 43
+(10^3144-1)/9-10^1568	CF	has factors: 199
+(10^3144-1)/9-10^1567	CF	has factors: 47
+(10^3144-1)/9-10^1566	CF	has factors: 56467
+(10^3144-1)/9-10^1565	CF	has factors: 179
+(10^3144-1)/9-10^1564	CF	has factors: 17
+(10^3144-1)/9-10^1563	CF	has factors: 53
+(10^3144-1)/9-10^1562	C	is composite: RES64: [56CBA696649163DC] (0.1078s+0.0398s)
+(10^3144-1)/9-10^1561	CF	has factors: 239
+(10^3144-1)/9-10^1560	CF	has factors: 19
+(10^3144-1)/9-10^1559	CF	has factors: 191
+(10^3144-1)/9-10^1558	C	is composite: RES64: [FD9A7F06D57F4E41] (0.1085s+0.0372s)
+(10^3144-1)/9-10^1557	CF	has factors: 61
+(10^3144-1)/9-10^1556	CF	has factors: 5711
+(10^3144-1)/9-10^1555	C	is composite: RES64: [8D1EC7427330E2BB] (0.1069s+0.0701s)
+(10^3144-1)/9-10^1554	CF	has factors: 193
+(10^3144-1)/9-10^1553	CF	has factors: 113
+(10^3144-1)/9-10^1552	CF	has factors: 23
+(10^3144-1)/9-10^1551	CF	has factors: 337
+(10^3144-1)/9-10^1550	CF	has factors: 53
+(10^3144-1)/9-10^1549	CF	has factors: 557
+(10^3144-1)/9-10^1548	CF	has factors: 17
+(10^3144-1)/9-10^1547	CF	has factors: 239
+(10^3144-1)/9-10^1546	CF	has factors: 29
+(10^3144-1)/9-10^1545	CF	has factors: 2713
+(10^3144-1)/9-10^1544	CF	has factors: 3931
+(10^3144-1)/9-10^1543	C	is composite: RES64: [B94B4F2067AADAB7] (0.1084s+0.0407s)
+(10^3144-1)/9-10^1542	CF	has factors: 19^2
+(10^3144-1)/9-10^1541	CF	has factors: 827
+(10^3144-1)/9-10^1540	CF	has factors: 239
+(10^3144-1)/9-10^1539	C	is composite: RES64: [1BB16909A47A00C8] (0.1125s+0.0487s)
+(10^3144-1)/9-10^1538	CF	has factors: 8243
+(10^3144-1)/9-10^1537	CF	has factors: 53
+(10^3144-1)/9-10^1536	CF	has factors: 7643
+(10^3144-1)/9-10^1535	CF	has factors: 227
+(10^3144-1)/9-10^1534	C	is composite: RES64: [0C4DEBC6CC3F70B1] (0.1084s+0.0352s)
+(10^3144-1)/9-10^1533	CF	has factors: 239
+(10^3144-1)/9-10^1532	CF	has factors: 17
+(10^3144-1)/9-10^1531	C	is composite: RES64: [8B9E6092582F3C3D] (0.1071s+0.0329s)
+(10^3144-1)/9-10^1530	CF	has factors: 23
+(10^3144-1)/9-10^1529	C	is composite: RES64: [4505852B8CA5B4C6] (0.1083s+0.0790s)
+(10^3144-1)/9-10^1528	CF	has factors: 1087
+(10^3144-1)/9-10^1527	CF	has factors: 43
+(10^3144-1)/9-10^1526	CF	has factors: 197
+(10^3144-1)/9-10^1525	CF	has factors: 5519
+(10^3144-1)/9-10^1524	CF	has factors: 19
+(10^3144-1)/9-10^1523	CF	has factors: 1871
+(10^3144-1)/9-10^1522	CF	has factors: 71
+(10^3144-1)/9-10^1521	CF	has factors: 47
+(10^3144-1)/9-10^1520	CF	has factors: 59
+(10^3144-1)/9-10^1519	CF	has factors: 239
+(10^3144-1)/9-10^1518	CF	has factors: 29
+(10^3144-1)/9-10^1517	CF	has factors: 4703
+(10^3144-1)/9-10^1516	CF	has factors: 17
+(10^3144-1)/9-10^1515	C	is composite: RES64: [63A7D856354CC09C] (0.1090s+0.0293s)
+(10^3144-1)/9-10^1514	C	is composite: RES64: [70F7E6768E51B43E] (0.1127s+0.0696s)
+(10^3144-1)/9-10^1513	CF	has factors: 56299
+(10^3144-1)/9-10^1512	CF	has factors: 239
+(10^3144-1)/9-10^1511	CF	has factors: 53
+(10^3144-1)/9-10^1510	CF	has factors: 241
+(10^3144-1)/9-10^1509	CF	has factors: 907
+(10^3144-1)/9-10^1508	CF	has factors: 23
+(10^3144-1)/9-10^1507	C	is composite: RES64: [A0558283FA1C574D] (0.1081s+0.0613s)
+(10^3144-1)/9-10^1506	CF	has factors: 19
+(10^3144-1)/9-10^1505	CF	has factors: 239
+(10^3144-1)/9-10^1504	CF	has factors: 929^2
+(10^3144-1)/9-10^1503	CF	has factors: 157
+(10^3144-1)/9-10^1502	CF	has factors: 11717
+(10^3144-1)/9-10^1501	CF	has factors: 151
+(10^3144-1)/9-10^1500	CF	has factors: 17
+(10^3144-1)/9-10^1499	C	is composite: RES64: [DDEA6C109251759B] (0.1074s+0.0350s)
+(10^3144-1)/9-10^1498	CF	has factors: 53
+(10^3144-1)/9-10^1497	CF	has factors: 61
+(10^3144-1)/9-10^1496	C	is composite: RES64: [FC5681CD9209C3C0] (0.1070s+0.0294s)
+(10^3144-1)/9-10^1495	C	is composite: RES64: [465DCAA421B81362] (0.1113s+0.0698s)
+(10^3144-1)/9-10^1494	CF	has factors: 1163
+(10^3144-1)/9-10^1493	CF	has factors: 12527
+(10^3144-1)/9-10^1492	CF	has factors: 283
+(10^3144-1)/9-10^1491	CF	has factors: 97
+(10^3144-1)/9-10^1490	CF	has factors: 29
+(10^3144-1)/9-10^1489	CF	has factors: 149
+(10^3144-1)/9-10^1488	CF	has factors: 19
+(10^3144-1)/9-10^1487	CF	has factors: 71
+(10^3144-1)/9-10^1486	CF	has factors: 23
+(10^3144-1)/9-10^1485	CF	has factors: 43
+(10^3144-1)/9-10^1484	CF	has factors: 17^2
+(10^3144-1)/9-10^1483	C	is composite: RES64: [9887615BA74C1D6E] (0.1087s+0.0474s)
+(10^3144-1)/9-10^1482	CF	has factors: 45599
+(10^3144-1)/9-10^1481	C	is composite: RES64: [00D973CFB8924B68] (0.1066s+0.0509s)
+(10^3144-1)/9-10^1480	CF	has factors: 241
+(10^3144-1)/9-10^1479	CF	has factors: 109
+(10^3144-1)/9-10^1478	CF	has factors: 20441
+(10^3144-1)/9-10^1477	CF	has factors: 239
+(10^3144-1)/9-10^1476	C	is composite: RES64: [0E5F1C4311B88B9A] (0.1119s+0.0366s)
+(10^3144-1)/9-10^1475	CF	has factors: 47
+(10^3144-1)/9-10^1474	C	is composite: RES64: [2C09EFB7C4907FBD] (0.1397s+0.0390s)
+(10^3144-1)/9-10^1473	CF	has factors: 797
+(10^3144-1)/9-10^1472	CF	has factors: 53
+(10^3144-1)/9-10^1471	C	is composite: RES64: [2ECDB4AE48AF11A4] (0.1150s+0.0427s)
+(10^3144-1)/9-10^1470	CF	has factors: 19
+(10^3144-1)/9-10^1469	CF	has factors: 199
+(10^3144-1)/9-10^1468	CF	has factors: 17
+(10^3144-1)/9-10^1467	CF	has factors: 107
+(10^3144-1)/9-10^1466	C	is composite: RES64: [3A9928A8457E8072] (0.1251s+0.0489s)
+(10^3144-1)/9-10^1465	CF	has factors: 3851
+(10^3144-1)/9-10^1464	CF	has factors: 23
+(10^3144-1)/9-10^1463	CF	has factors: 239
+(10^3144-1)/9-10^1462	CF	has factors: 29
+(10^3144-1)/9-10^1461	C	is composite: RES64: [F7B2F9DC1B676A82] (0.1124s+0.0531s)
+(10^3144-1)/9-10^1460	CF	has factors: 1847
+(10^3144-1)/9-10^1459	CF	has factors: 53
+(10^3144-1)/9-10^1458	CF	has factors: 2027
+(10^3144-1)/9-10^1457	CF	has factors: 7673
+(10^3144-1)/9-10^1456	CF	has factors: 239
+(10^3144-1)/9-10^1455	CF	has factors: 743
+(10^3144-1)/9-10^1454	C	is composite: RES64: [8F242F8E6EC8A079] (0.1077s+0.0370s)
+(10^3144-1)/9-10^1453	CF	has factors: 293
+(10^3144-1)/9-10^1452	CF	has factors: 17
+(10^3144-1)/9-10^1451	C	is composite: RES64: [E4C48E347DB6591E] (0.1066s+0.0377s)
+(10^3144-1)/9-10^1450	CF	has factors: 241
+(10^3144-1)/9-10^1449	CF	has factors: 239
+(10^3144-1)/9-10^1448	C	is composite: RES64: [505567E4D3B59626] (0.1098s+0.0293s)
+(10^3144-1)/9-10^1447	C	is composite: RES64: [190375EDF9515838] (0.1073s+0.0325s)
+(10^3144-1)/9-10^1446	CF	has factors: 53
+(10^3144-1)/9-10^1445	C	is composite: RES64: [A017FC9447F427C4] (0.1082s+0.0976s)
+(10^3144-1)/9-10^1444	CF	has factors: 509
+(10^3144-1)/9-10^1443	CF	has factors: 43
+(10^3144-1)/9-10^1442	CF	has factors: 23
+(10^3144-1)/9-10^1441	CF	has factors: 113
+(10^3144-1)/9-10^1440	CF	has factors: 167
+(10^3144-1)/9-10^1439	CF	has factors: 523
+(10^3144-1)/9-10^1438	CF	has factors: 569
+(10^3144-1)/9-10^1437	CF	has factors: 61
+(10^3144-1)/9-10^1436	CF	has factors: 17
+(10^3144-1)/9-10^1435	CF	has factors: 239
+(10^3144-1)/9-10^1434	CF	has factors: 19
+(10^3144-1)/9-10^1433	CF	has factors: 53
+(10^3144-1)/9-10^1432	CF	has factors: 541
+(10^3144-1)/9-10^1431	CF	has factors: 20707
+(10^3144-1)/9-10^1430	CF	has factors: 13751
+(10^3144-1)/9-10^1429	CF	has factors: 47
+(10^3144-1)/9-10^1428	CF	has factors: 197
+(10^3144-1)/9-10^1427	C	is composite: RES64: [392511E4CF0360B6] (0.1071s+0.0354s)
+(10^3144-1)/9-10^1426	CF	has factors: 151
+(10^3144-1)/9-10^1425	CF	has factors: 157
+(10^3144-1)/9-10^1424	C	is composite: RES64: [060ACADA48ED3057] (0.1087s+0.0296s)
+(10^3144-1)/9-10^1423	C	is composite: RES64: [62E6159733D20448] (0.1075s+0.0384s)
+(10^3144-1)/9-10^1422	CF	has factors: 43
+(10^3144-1)/9-10^1421	CF	has factors: 239
+(10^3144-1)/9-10^1420	CF	has factors: 17
+(10^3144-1)/9-10^1419	C	is composite: RES64: [24C9EDC6C2557FBF] (0.1064s+0.0287s)
+(10^3144-1)/9-10^1418	C	is composite: RES64: [C08B718C74E53E1A] (0.1099s+0.0464s)
+(10^3144-1)/9-10^1417	CF	has factors: 71
+(10^3144-1)/9-10^1416	CF	has factors: 19
+(10^3144-1)/9-10^1415	CF	has factors: 1907
+(10^3144-1)/9-10^1414	CF	has factors: 107
+(10^3144-1)/9-10^1413	C	is composite: RES64: [A820113F7F04B750] (0.1073s+0.0287s)
+(10^3144-1)/9-10^1412	C	is composite: RES64: [7240E18872F77478] (0.1087s+0.0292s)
+(10^3144-1)/9-10^1411	C	is composite: RES64: [EA323CD6D2E51E3D] (0.1084s+0.0321s)
+(10^3144-1)/9-10^1410	CF	has factors: 577
+(10^3144-1)/9-10^1409	C	is composite: RES64: [CCBF7204BA20F06D] (0.1084s+0.0297s)
+(10^3144-1)/9-10^1408	C	is composite: RES64: [6E1E807D5099BE61] (0.1127s+0.0781s)
+(10^3144-1)/9-10^1407	CF	has factors: 53
+(10^3144-1)/9-10^1406	CF	has factors: 29
+(10^3144-1)/9-10^1405	CF	has factors: 181
+(10^3144-1)/9-10^1404	CF	has factors: 17
+(10^3144-1)/9-10^1403	CF	has factors: 9157
+(10^3144-1)/9-10^1402	CF	has factors: 59611
+(10^3144-1)/9-10^1401	CF	has factors: 43
+(10^3144-1)/9-10^1400	CF	has factors: 239
+(10^3144-1)/9-10^1399	C	is composite: RES64: [63E975D9ADA60874] (0.1082s+0.0373s)
+(10^3144-1)/9-10^1398	CF	has factors: 19
+(10^3144-1)/9-10^1397	CF	has factors: 4057
+(10^3144-1)/9-10^1396	C	is composite: RES64: [A7691D67A31E49A8] (0.1100s+0.0400s)
+(10^3144-1)/9-10^1395	CF	has factors: 97
+(10^3144-1)/9-10^1394	CF	has factors: 53
+(10^3144-1)/9-10^1393	CF	has factors: 239
+(10^3144-1)/9-10^1392	C	is composite: RES64: [D912E1B1470C1A69] (0.1065s+0.0289s)
+(10^3144-1)/9-10^1391	C	is composite: RES64: [6306E592091DA9EB] (0.1192s+0.0459s)
+(10^3144-1)/9-10^1390	CF	has factors: 241
+(10^3144-1)/9-10^1389	CF	has factors: 317
+(10^3144-1)/9-10^1388	CF	has factors: 17
+(10^3144-1)/9-10^1387	CF	has factors: 179
+(10^3144-1)/9-10^1386	CF	has factors: 239
+(10^3144-1)/9-10^1385	C	is composite: RES64: [F99B3BD99D54B990] (0.1064s+0.0286s)
+(10^3144-1)/9-10^1384	C	is composite: RES64: [1659BD5D562FCE1F] (0.1083s+0.0615s)
+(10^3144-1)/9-10^1383	CF	has factors: 47
+(10^3144-1)/9-10^1382	CF	has factors: 71
+(10^3144-1)/9-10^1381	CF	has factors: 53
+(10^3144-1)/9-10^1380	CF	has factors: 19
+(10^3144-1)/9-10^1379	CF	has factors: 239
+(10^3144-1)/9-10^1378	CF	has factors: 29
+(10^3144-1)/9-10^1377	CF	has factors: 61
+(10^3144-1)/9-10^1376	CF	has factors: 23
+(10^3144-1)/9-10^1375	C	is composite: RES64: [58C865CA61DB6E74] (0.1089s+0.0293s)
+(10^3144-1)/9-10^1374	C	is composite: RES64: [E307F05E6C938C7B] (0.1087s+0.0579s)
+(10^3144-1)/9-10^1373	CF	has factors: 10501
+(10^3144-1)/9-10^1372	CF	has factors: 17
+(10^3144-1)/9-10^1371	CF	has factors: 109
+(10^3144-1)/9-10^1370	CF	has factors: 199
+(10^3144-1)/9-10^1369	CF	has factors: 191
+(10^3144-1)/9-10^1368	CF	has factors: 53
+(10^3144-1)/9-10^1367	CF	has factors: 2143
+(10^3144-1)/9-10^1366	C	is composite: RES64: [9711647375E22001] (0.1074s+0.1099s)
+(10^3144-1)/9-10^1365	CF	has factors: 239
+(10^3144-1)/9-10^1364	CF	has factors: 55949
+(10^3144-1)/9-10^1363	CF	has factors: 6379
+(10^3144-1)/9-10^1362	CF	has factors: 19
+(10^3144-1)/9-10^1361	CF	has factors: 107
+(10^3144-1)/9-10^1360	CF	has factors: 241
+(10^3144-1)/9-10^1359	CF	has factors: 43
+(10^3144-1)/9-10^1358	CF	has factors: 131
+(10^3144-1)/9-10^1357	CF	has factors: 5507
+(10^3144-1)/9-10^1356	CF	has factors: 17
+(10^3144-1)/9-10^1355	CF	has factors: 53
+(10^3144-1)/9-10^1354	CF	has factors: 23
+(10^3144-1)/9-10^1353	CF	has factors: 4793
+(10^3144-1)/9-10^1352	CF	has factors: 4969
+(10^3144-1)/9-10^1351	CF	has factors: 151
+(10^3144-1)/9-10^1350	CF	has factors: 29
+(10^3144-1)/9-10^1349	C	is composite: RES64: [4635EE288FF73E7B] (0.1098s+0.0295s)
+(10^3144-1)/9-10^1348	C	is composite: RES64: [AB73C5EBE1E26F5D] (0.1072s+0.0665s)
+(10^3144-1)/9-10^1347	CF	has factors: 71
+(10^3144-1)/9-10^1346	CF	has factors: 59
+(10^3144-1)/9-10^1345	CF	has factors: 877
+(10^3144-1)/9-10^1344	CF	has factors: 19
+(10^3144-1)/9-10^1343	CF	has factors: 7687
+(10^3144-1)/9-10^1342	CF	has factors: 53
+(10^3144-1)/9-10^1341	CF	has factors: 149
+(10^3144-1)/9-10^1340	CF	has factors: 17
+(10^3144-1)/9-10^1339	CF	has factors: 631
+(10^3144-1)/9-10^1338	CF	has factors: 43
+(10^3144-1)/9-10^1337	CF	has factors: 47
+(10^3144-1)/9-10^1336	C	is composite: RES64: [2E047B4E816F2EBE] (0.1070s+0.0365s)
+(10^3144-1)/9-10^1335	CF	has factors: 619
+(10^3144-1)/9-10^1334	CF	has factors: 439
+(10^3144-1)/9-10^1333	C	is composite: RES64: [8CEBC8AFBB01DAC1] (0.1080s+0.0328s)
+(10^3144-1)/9-10^1332	CF	has factors: 23
+(10^3144-1)/9-10^1331	C	is composite: RES64: [D307B4C91BD3B828] (0.1202s+0.0409s)
+(10^3144-1)/9-10^1330	CF	has factors: 197
+(10^3144-1)/9-10^1329	CF	has factors: 53
+(10^3144-1)/9-10^1328	CF	has factors: 1579
+(10^3144-1)/9-10^1327	C	is composite: RES64: [700A7DFB449350D9] (0.1129s+0.0398s)
+(10^3144-1)/9-10^1326	CF	has factors: 19
+(10^3144-1)/9-10^1325	C	is composite: RES64: [AAE637357E8A6604] (0.1203s+0.0434s)
+(10^3144-1)/9-10^1324	CF	has factors: 17
+(10^3144-1)/9-10^1323	CF	has factors: 239
+(10^3144-1)/9-10^1322	CF	has factors: 29
+(10^3144-1)/9-10^1321	CF	has factors: 2087
+(10^3144-1)/9-10^1320	C	is composite: RES64: [98ECEB1C479B9850] (0.1258s+0.0319s)
+(10^3144-1)/9-10^1319	C	is composite: RES64: [758BB7EEC7AA396A] (0.1312s+0.0301s)
+(10^3144-1)/9-10^1318	C	is composite: RES64: [4735DDD6C6083ADF] (0.1212s+0.0416s)
+(10^3144-1)/9-10^1317	CF	has factors: 43
+(10^3144-1)/9-10^1316	CF	has factors: 53
+(10^3144-1)/9-10^1315	CF	has factors: 6521
+(10^3144-1)/9-10^1314	C	is composite: RES64: [729966D9DEABA4EC] (0.1181s+0.0325s)
+(10^3144-1)/9-10^1313	C	is composite: RES64: [41C51328A5F223E3] (0.1318s+0.0579s)
+(10^3144-1)/9-10^1312	CF	has factors: 71
+(10^3144-1)/9-10^1311	CF	has factors: 4663
+(10^3144-1)/9-10^1310	CF	has factors: 23
+(10^3144-1)/9-10^1309	CF	has factors: 227
+(10^3144-1)/9-10^1308	CF	has factors: 17
+(10^3144-1)/9-10^1307	CF	has factors: 293
+(10^3144-1)/9-10^1306	CF	has factors: 887
+(10^3144-1)/9-10^1305	C	is composite: RES64: [B9FCAA17A78F7D96] (0.1074s+0.0290s)
+(10^3144-1)/9-10^1304	C	is composite: RES64: [4FECFF0B5852A9D3] (0.1087s+0.0357s)
+(10^3144-1)/9-10^1303	CF	has factors: 53
+(10^3144-1)/9-10^1302	CF	has factors: 239
+(10^3144-1)/9-10^1301	C	is composite: RES64: [D8D4B21387F9AD0B] (0.1099s+0.0694s)
+(10^3144-1)/9-10^1300	CF	has factors: 241
+(10^3144-1)/9-10^1299	CF	has factors: 97
+(10^3144-1)/9-10^1298	CF	has factors: 4243
+(10^3144-1)/9-10^1297	CF	has factors: 1831
+(10^3144-1)/9-10^1296	CF	has factors: 43
+(10^3144-1)/9-10^1295	CF	has factors: 239
+(10^3144-1)/9-10^1294	CF	has factors: 29
+(10^3144-1)/9-10^1293	CF	has factors: 1627
+(10^3144-1)/9-10^1292	CF	has factors: 17
+(10^3144-1)/9-10^1291	CF	has factors: 47
+(10^3144-1)/9-10^1290	CF	has factors: 19
+(10^3144-1)/9-10^1289	C	is composite: RES64: [D658F123E38CF683] (0.1101s+0.0381s)
+(10^3144-1)/9-10^1288	CF	has factors: 23^2
+(10^3144-1)/9-10^1287	C	is composite: RES64: [87359DFC36791373] (0.1067s+0.0360s)
+(10^3144-1)/9-10^1286	CF	has factors: 433
+(10^3144-1)/9-10^1285	CF	has factors: 1823
+(10^3144-1)/9-10^1284	C	is composite: RES64: [E6B59D867B30C850] (0.1097s+0.0287s)
+(10^3144-1)/9-10^1283	C	is composite: RES64: [1EE8F332D4843BEB] (0.1083s+0.0293s)
+(10^3144-1)/9-10^1282	C	is composite: RES64: [09394E30D3B013C1] (0.1068s+0.0327s)
+(10^3144-1)/9-10^1281	CF	has factors: 239
+(10^3144-1)/9-10^1280	C	is composite: RES64: [BAF551A6C4C269E5] (0.1082s+0.0337s)
+(10^3144-1)/9-10^1279	CF	has factors: 1511
+(10^3144-1)/9-10^1278	C	is composite: RES64: [C34BEAD652D47DA1] (0.1071s+0.0426s)
+(10^3144-1)/9-10^1277	CF	has factors: 53
+(10^3144-1)/9-10^1276	CF	has factors: 17
+(10^3144-1)/9-10^1275	CF	has factors: 43
+(10^3144-1)/9-10^1274	CF	has factors: 167
+(10^3144-1)/9-10^1273	C	is composite: RES64: [C778781646C37A5D] (0.1077s+0.0743s)
+(10^3144-1)/9-10^1272	CF	has factors: 19
+(10^3144-1)/9-10^1271	CF	has factors: 199
+(10^3144-1)/9-10^1270	CF	has factors: 241
+(10^3144-1)/9-10^1269	CF	has factors: 157
+(10^3144-1)/9-10^1268	CF	has factors: 52937
+(10^3144-1)/9-10^1267	CF	has factors: 239
+(10^3144-1)/9-10^1266	CF	has factors: 23
+(10^3144-1)/9-10^1265	C	is composite: RES64: [2025953B1E8C6DC1] (0.1070s+0.0361s)
+(10^3144-1)/9-10^1264	CF	has factors: 53
+(10^3144-1)/9-10^1263	CF	has factors: 109
+(10^3144-1)/9-10^1262	C	is composite: RES64: [70A986C45BD81D78] (0.1103s+0.0400s)
+(10^3144-1)/9-10^1261	CF	has factors: 16097
+(10^3144-1)/9-10^1260	CF	has factors: 17
+(10^3144-1)/9-10^1259	C	is composite: RES64: [EBA294AD6EFDB5BE] (0.1067s+0.0293s)
+(10^3144-1)/9-10^1258	C	is composite: RES64: [D952C50056B74A35] (0.1084s+0.0457s)
+(10^3144-1)/9-10^1257	CF	has factors: 61
+(10^3144-1)/9-10^1256	CF	has factors: 1063
+(10^3144-1)/9-10^1255	CF	has factors: 107
+(10^3144-1)/9-10^1254	CF	has factors: 19
+(10^3144-1)/9-10^1253	CF	has factors: 239
+(10^3144-1)/9-10^1252	C	is composite: RES64: [A9707B89EBBE4BE2] (0.1080s+0.0317s)
+(10^3144-1)/9-10^1251	CF	has factors: 53
+(10^3144-1)/9-10^1250	C	is composite: RES64: [45DFFB7984217E32] (0.1072s+0.0377s)
+(10^3144-1)/9-10^1249	CF	has factors: 941
+(10^3144-1)/9-10^1248	CF	has factors: 2549
+(10^3144-1)/9-10^1247	C	is composite: RES64: [A324E8A073A26597] (0.1076s+0.0695s)
+(10^3144-1)/9-10^1246	CF	has factors: 239
+(10^3144-1)/9-10^1245	CF	has factors: 47
+(10^3144-1)/9-10^1244	CF	has factors: 17
+(10^3144-1)/9-10^1243	CF	has factors: 1613
+(10^3144-1)/9-10^1242	CF	has factors: 71
+(10^3144-1)/9-10^1241	CF	has factors: 6823
+(10^3144-1)/9-10^1240	CF	has factors: 241
+(10^3144-1)/9-10^1239	CF	has factors: 239
+(10^3144-1)/9-10^1238	CF	has factors: 29
+(10^3144-1)/9-10^1237	CF	has factors: 1229
+(10^3144-1)/9-10^1236	CF	has factors: 19
+(10^3144-1)/9-10^1235	C	is composite: RES64: [B9E088EDBB6388C5] (0.1078s+0.0292s)
+(10^3144-1)/9-10^1234	C	is composite: RES64: [021970E35411AEA2] (0.1059s+0.0437s)
+(10^3144-1)/9-10^1233	CF	has factors: 43
+(10^3144-1)/9-10^1232	CF	has factors: 197
+(10^3144-1)/9-10^1231	CF	has factors: 317
+(10^3144-1)/9-10^1230	CF	has factors: 59
+(10^3144-1)/9-10^1229	C	is composite: RES64: [A5B5F07DAF012E4A] (0.1079s+0.0337s)
+(10^3144-1)/9-10^1228	CF	has factors: 17
+(10^3144-1)/9-10^1227	C	is composite: RES64: [BA35F2BC65A5616D] (0.1091s+0.0291s)
+(10^3144-1)/9-10^1226	C	is composite: RES64: [707BB6C834B69FD3] (0.1093s+0.0326s)
+(10^3144-1)/9-10^1225	CF	has factors: 53
+(10^3144-1)/9-10^1224	C	is composite: RES64: [FD25CD939AF27B6C] (0.1086s+0.0289s)
+(10^3144-1)/9-10^1223	C	is composite: RES64: [C9B29A07B3BD42C5] (0.1096s+0.0377s)
+(10^3144-1)/9-10^1222	CF	has factors: 23
+(10^3144-1)/9-10^1221	CF	has factors: 2963
+(10^3144-1)/9-10^1220	C	is composite: RES64: [82472A18A55F8B12] (0.1102s+0.0513s)
+(10^3144-1)/9-10^1219	CF	has factors: 20149
+(10^3144-1)/9-10^1218	CF	has factors: 19
+(10^3144-1)/9-10^1217	CF	has factors: 113
+(10^3144-1)/9-10^1216	C	is composite: RES64: [B5CF70557651A1DF] (0.1079s+0.0375s)
+(10^3144-1)/9-10^1215	CF	has factors: 307
+(10^3144-1)/9-10^1214	CF	has factors: 829
+(10^3144-1)/9-10^1213	C	is composite: RES64: [1FDB812BAE0332DD] (0.1075s+0.0528s)
+(10^3144-1)/9-10^1212	CF	has factors: 17^2
+(10^3144-1)/9-10^1211	CF	has factors: 239
+(10^3144-1)/9-10^1210	CF	has factors: 29
+(10^3144-1)/9-10^1209	CF	has factors: 179
+(10^3144-1)/9-10^1208	CF	has factors: 347
+(10^3144-1)/9-10^1207	CF	has factors: 71
+(10^3144-1)/9-10^1206	CF	has factors: 367
+(10^3144-1)/9-10^1205	C	is composite: RES64: [3627F3693E4223C4] (0.1069s+0.0487s)
+(10^3144-1)/9-10^1204	CF	has factors: 239
+(10^3144-1)/9-10^1203	CF	has factors: 97
+(10^3144-1)/9-10^1202	CF	has factors: 107
+(10^3144-1)/9-10^1201	CF	has factors: 151
+(10^3144-1)/9-10^1200	CF	has factors: 19^2
+(10^3144-1)/9-10^1199	CF	has factors: 47
+(10^3144-1)/9-10^1198	C	is composite: RES64: [998B2EED5111A287] (0.1067s+0.0826s)
+(10^3144-1)/9-10^1197	CF	has factors: 61
+(10^3144-1)/9-10^1196	CF	has factors: 17
+(10^3144-1)/9-10^1195	CF	has factors: 223
+(10^3144-1)/9-10^1194	CF	has factors: 3373
+(10^3144-1)/9-10^1193	CF	has factors: 149
+(10^3144-1)/9-10^1192	CF	has factors: 1447
+(10^3144-1)/9-10^1191	CF	has factors: 43
+(10^3144-1)/9-10^1190	CF	has factors: 239
+(10^3144-1)/9-10^1189	CF	has factors: 19753
+(10^3144-1)/9-10^1188	CF	has factors: 33563
+(10^3144-1)/9-10^1187	C	is composite: RES64: [767C78B35A8DF666] (0.1110s+0.0377s)
+(10^3144-1)/9-10^1186	CF	has factors: 53
+(10^3144-1)/9-10^1185	CF	has factors: 7297
+(10^3144-1)/9-10^1184	C	is composite: RES64: [A34D3DF3E89C637F] (0.1078s+0.0790s)
+(10^3144-1)/9-10^1183	CF	has factors: 239
+(10^3144-1)/9-10^1182	CF	has factors: 19
+(10^3144-1)/9-10^1181	CF	has factors: 499
+(10^3144-1)/9-10^1180	CF	has factors: 17
+(10^3144-1)/9-10^1179	CF	has factors: 191
+(10^3144-1)/9-10^1178	CF	has factors: 23
+(10^3144-1)/9-10^1177	CF	has factors: 15767
+(10^3144-1)/9-10^1176	CF	has factors: 239
+(10^3144-1)/9-10^1175	C	is composite: RES64: [62E7A83C8728D0C4] (0.1246s+0.0475s)
+(10^3144-1)/9-10^1174	CF	has factors: 3049
+(10^3144-1)/9-10^1173	CF	has factors: 53
+(10^3144-1)/9-10^1172	CF	has factors: 59
+(10^3144-1)/9-10^1171	C	is composite: RES64: [5F4FBB197230E62C] (0.1264s+0.0411s)
+(10^3144-1)/9-10^1170	CF	has factors: 43
+(10^3144-1)/9-10^1169	CF	has factors: 239
+(10^3144-1)/9-10^1168	C	is composite: RES64: [5207F343C2B14687] (0.1153s+0.0288s)
+(10^3144-1)/9-10^1167	C	is composite: RES64: [CB3DAB3DB6BC6DA3] (0.1244s+0.0312s)
+(10^3144-1)/9-10^1166	C	is composite: RES64: [BB2F21371F652325] (0.1264s+0.0287s)
+(10^3144-1)/9-10^1165	C	is composite: RES64: [DFB398150B184D53] (0.1076s+0.0325s)
+(10^3144-1)/9-10^1164	CF	has factors: 17
+(10^3144-1)/9-10^1163	C	is composite: RES64: [EDDD74B70DB7A713] (0.1110s+0.0435s)
+(10^3144-1)/9-10^1162	CF	has factors: 239
+(10^3144-1)/9-10^1161	CF	has factors: 293
+(10^3144-1)/9-10^1160	CF	has factors: 53^2
+(10^3144-1)/9-10^1159	CF	has factors: 5233
+(10^3144-1)/9-10^1158	C	is composite: RES64: [77C79FE3C685D636] (0.1070s+0.0299s)
+(10^3144-1)/9-10^1157	C	is composite: RES64: [E7171AA99326EA3C] (0.1081s+0.0675s)
+(10^3144-1)/9-10^1156	CF	has factors: 23
+(10^3144-1)/9-10^1155	CF	has factors: 109
+(10^3144-1)/9-10^1154	CF	has factors: 29
+(10^3144-1)/9-10^1153	CF	has factors: 47
+(10^3144-1)/9-10^1152	CF	has factors: 317
+(10^3144-1)/9-10^1151	CF	has factors: 461
+(10^3144-1)/9-10^1150	CF	has factors: 241
+(10^3144-1)/9-10^1149	CF	has factors: 43
+(10^3144-1)/9-10^1148	CF	has factors: 17
+(10^3144-1)/9-10^1147	CF	has factors: 53
+(10^3144-1)/9-10^1146	CF	has factors: 19
+(10^3144-1)/9-10^1145	C	is composite: RES64: [6EE62ACDBEBD4E63] (0.1089s+0.0286s)
+(10^3144-1)/9-10^1144	C	is composite: RES64: [1D78FEFFECC11682] (0.1073s+0.0434s)
+(10^3144-1)/9-10^1143	CF	has factors: 7309
+(10^3144-1)/9-10^1142	CF	has factors: 5581
+(10^3144-1)/9-10^1141	CF	has factors: 239
+(10^3144-1)/9-10^1140	C	is composite: RES64: [0F70B11CA2866CA0] (0.1082s+0.0395s)
+(10^3144-1)/9-10^1139	CF	has factors: 269
+(10^3144-1)/9-10^1138	CF	has factors: 3533
+(10^3144-1)/9-10^1137	CF	has factors: 61
+(10^3144-1)/9-10^1136	C	is composite: RES64: [59A885332AFD14BE] (0.1070s+0.0296s)
+(10^3144-1)/9-10^1135	C	is composite: RES64: [6FE1B881DFA49355] (0.1100s+0.0324s)
+(10^3144-1)/9-10^1134	CF	has factors: 23
+(10^3144-1)/9-10^1133	C	is composite: RES64: [A06F046AFF246FF4] (0.1084s+0.0406s)
+(10^3144-1)/9-10^1132	CF	has factors: 17
+(10^3144-1)/9-10^1131	CF	has factors: 491
+(10^3144-1)/9-10^1130	CF	has factors: 3583
+(10^3144-1)/9-10^1129	C	is composite: RES64: [5FB2EFC8A89F1EB8] (0.1086s+0.0503s)
+(10^3144-1)/9-10^1128	CF	has factors: 19
+(10^3144-1)/9-10^1127	CF	has factors: 239
+(10^3144-1)/9-10^1126	CF	has factors: 29
+(10^3144-1)/9-10^1125	CF	has factors: 11087
+(10^3144-1)/9-10^1124	CF	has factors: 1451
+(10^3144-1)/9-10^1123	C	is composite: RES64: [B21A49F48C79E74E] (0.1074s+0.0289s)
+(10^3144-1)/9-10^1122	C	is composite: RES64: [19BD1E41E431D6B4] (0.1119s+0.0409s)
+(10^3144-1)/9-10^1121	CF	has factors: 53
+(10^3144-1)/9-10^1120	CF	has factors: 239
+(10^3144-1)/9-10^1119	CF	has factors: 2351
+(10^3144-1)/9-10^1118	C	is composite: RES64: [A5D929DCE0AA2F90] (0.1107s+0.0501s)
+(10^3144-1)/9-10^1117	CF	has factors: 373
+(10^3144-1)/9-10^1116	CF	has factors: 17
+(10^3144-1)/9-10^1115	CF	has factors: 439
+(10^3144-1)/9-10^1114	CF	has factors: 59
+(10^3144-1)/9-10^1113	CF	has factors: 157
+(10^3144-1)/9-10^1112	CF	has factors: 23
+(10^3144-1)/9-10^1111	C	is composite: RES64: [39F1A5C3A130FB56] (0.1090s+0.0510s)
+(10^3144-1)/9-10^1110	CF	has factors: 19
+(10^3144-1)/9-10^1109	CF	has factors: 2141
+(10^3144-1)/9-10^1108	CF	has factors: 53
+(10^3144-1)/9-10^1107	CF	has factors: 43
+(10^3144-1)/9-10^1106	CF	has factors: 239
+(10^3144-1)/9-10^1105	CF	has factors: 113
+(10^3144-1)/9-10^1104	C	is composite: RES64: [7BFFC033DA17A6F0] (0.1061s+0.0291s)
+(10^3144-1)/9-10^1103	C	is composite: RES64: [8D9FA5E94395F4E6] (0.1076s+0.0947s)
+(10^3144-1)/9-10^1102	CF	has factors: 71
+(10^3144-1)/9-10^1101	CF	has factors: 78479
+(10^3144-1)/9-10^1100	CF	has factors: 17
+(10^3144-1)/9-10^1099	CF	has factors: 239
+(10^3144-1)/9-10^1098	CF	has factors: 29
+(10^3144-1)/9-10^1097	CF	has factors: 28297
+(10^3144-1)/9-10^1096	CF	has factors: 107
+(10^3144-1)/9-10^1095	CF	has factors: 53
+(10^3144-1)/9-10^1094	CF	has factors: 4523
+(10^3144-1)/9-10^1093	C	is composite: RES64: [76FBC9F099016EC0] (0.1079s+0.0330s)
+(10^3144-1)/9-10^1092	CF	has factors: 19
+(10^3144-1)/9-10^1091	C	is composite: RES64: [47AF778509EDB752] (0.1088s+0.0412s)
+(10^3144-1)/9-10^1090	CF	has factors: 23
+(10^3144-1)/9-10^1089	CF	has factors: 4663
+(10^3144-1)/9-10^1088	CF	has factors: 571
+(10^3144-1)/9-10^1087	C	is composite: RES64: [CA81B64A19F3F379] (0.1074s+0.0511s)
+(10^3144-1)/9-10^1086	CF	has factors: 43
+(10^3144-1)/9-10^1085	CF	has factors: 239
+(10^3144-1)/9-10^1084	CF	has factors: 17
+(10^3144-1)/9-10^1083	CF	has factors: 227
+(10^3144-1)/9-10^1082	CF	has factors: 53
+(10^3144-1)/9-10^1081	CF	has factors: 2521
+(10^3144-1)/9-10^1080	C	is composite: RES64: [D1E69820394406DB] (0.1081s+0.0575s)
+(10^3144-1)/9-10^1079	CF	has factors: 1171
+(10^3144-1)/9-10^1078	CF	has factors: 239
+(10^3144-1)/9-10^1077	CF	has factors: 61
+(10^3144-1)/9-10^1076	CF	has factors: 389
+(10^3144-1)/9-10^1075	CF	has factors: 797
+(10^3144-1)/9-10^1074	CF	has factors: 19
+(10^3144-1)/9-10^1073	CF	has factors: 199
+(10^3144-1)/9-10^1072	C	is composite: RES64: [AA61BFB9F1FFE641] (0.1110s+0.0444s)
+(10^3144-1)/9-10^1071	CF	has factors: 239
+(10^3144-1)/9-10^1070	CF	has factors: 29
+(10^3144-1)/9-10^1069	CF	has factors: 53
+(10^3144-1)/9-10^1068	CF	has factors: 17
+(10^3144-1)/9-10^1067	CF	has factors: 71
+(10^3144-1)/9-10^1066	C	is composite: RES64: [A0E9017868056CB1] (0.1071s+0.0590s)
+(10^3144-1)/9-10^1065	CF	has factors: 43
+(10^3144-1)/9-10^1064	CF	has factors: 239
+(10^3144-1)/9-10^1063	CF	has factors: 5807
+(10^3144-1)/9-10^1062	CF	has factors: 307
+(10^3144-1)/9-10^1061	CF	has factors: 47
+(10^3144-1)/9-10^1060	CF	has factors: 241
+(10^3144-1)/9-10^1059	CF	has factors: 937
+(10^3144-1)/9-10^1058	C	is composite: RES64: [4F7E83DF1B716785] (0.1106s+0.0443s)
+(10^3144-1)/9-10^1057	CF	has factors: 239
+(10^3144-1)/9-10^1056	CF	has factors: 19
+(10^3144-1)/9-10^1055	CF	has factors: 1297
+(10^3144-1)/9-10^1054	C	is composite: RES64: [2E373EF615EB0706] (0.1085s+0.0291s)
+(10^3144-1)/9-10^1053	C	is composite: RES64: [5FCBB6571EA12E59] (0.1095s+0.0466s)
+(10^3144-1)/9-10^1052	CF	has factors: 17
+(10^3144-1)/9-10^1051	CF	has factors: 151
+(10^3144-1)/9-10^1050	CF	has factors: 239
+(10^3144-1)/9-10^1049	CF	has factors: 1657
+(10^3144-1)/9-10^1048	C	is composite: RES64: [350D65CF006F9BF7] (0.1088s+0.0551s)
+(10^3144-1)/9-10^1047	CF	has factors: 109
+(10^3144-1)/9-10^1046	CF	has factors: 23
+(10^3144-1)/9-10^1045	CF	has factors: 149
+(10^3144-1)/9-10^1044	CF	has factors: 43
+(10^3144-1)/9-10^1043	CF	has factors: 53
+(10^3144-1)/9-10^1042	CF	has factors: 29
+(10^3144-1)/9-10^1041	C	is composite: RES64: [38B03674AD47FC69] (0.1279s+0.0350s)
+(10^3144-1)/9-10^1040	CF	has factors: 929
+(10^3144-1)/9-10^1039	C	is composite: RES64: [9B8129D57714C18A] (0.1081s+0.0328s)
+(10^3144-1)/9-10^1038	CF	has factors: 19
+(10^3144-1)/9-10^1037	C	is composite: RES64: [2382F14FCDA9FEEF] (0.1161s+0.0361s)
+(10^3144-1)/9-10^1036	CF	has factors: 17
+(10^3144-1)/9-10^1035	CF	has factors: 157
+(10^3144-1)/9-10^1034	C	is composite: RES64: [2AA50EC3F2ED691C] (0.1252s+0.0301s)
+(10^3144-1)/9-10^1033	C	is composite: RES64: [334D4634D626E45D] (0.1105s+0.0466s)
+(10^3144-1)/9-10^1032	CF	has factors: 71
+(10^3144-1)/9-10^1031	CF	has factors: 179
+(10^3144-1)/9-10^1030	CF	has factors: 53
+(10^3144-1)/9-10^1029	CF	has factors: 229
+(10^3144-1)/9-10^1028	C	is composite: RES64: [42A4134E12293B05] (0.1215s+0.0428s)
+(10^3144-1)/9-10^1027	C	is composite: RES64: [C8575F8BC0D5514D] (0.1148s+0.0309s)
+(10^3144-1)/9-10^1026	C	is composite: RES64: [3C5EED36AEC52E28] (0.1110s+0.0294s)
+(10^3144-1)/9-10^1025	C	is composite: RES64: [FADB7CFF10A3A358] (0.1196s+0.0479s)
+(10^3144-1)/9-10^1024	CF	has factors: 23
+(10^3144-1)/9-10^1023	CF	has factors: 43
+(10^3144-1)/9-10^1022	CF	has factors: 239
+(10^3144-1)/9-10^1021	C	is composite: RES64: [19A8556107AD257D] (0.1135s+0.0353s)
+(10^3144-1)/9-10^1020	CF	has factors: 17
+(10^3144-1)/9-10^1019	C	is composite: RES64: [CE56488F2F863773] (0.1105s+0.0582s)
+(10^3144-1)/9-10^1018	CF	has factors: 16231
+(10^3144-1)/9-10^1017	CF	has factors: 53
+(10^3144-1)/9-10^1016	CF	has factors: 811
+(10^3144-1)/9-10^1015	CF	has factors: 47
+(10^3144-1)/9-10^1014	CF	has factors: 29
+(10^3144-1)/9-10^1013	C	is composite: RES64: [4235A75E20893876] (0.1094s+0.0297s)
+(10^3144-1)/9-10^1012	C	is composite: RES64: [0FC5954A315C6FCD] (0.1149s+0.0587s)
+(10^3144-1)/9-10^1011	CF	has factors: 97
+(10^3144-1)/9-10^1010	CF	has factors: 34033
+(10^3144-1)/9-10^1009	CF	has factors: 1097
+(10^3144-1)/9-10^1008	CF	has factors: 239
+(10^3144-1)/9-10^1007	CF	has factors: 983
+(10^3144-1)/9-10^1006	C	is composite: RES64: [6BAA389606A62166] (0.1088s+0.0290s)
+(10^3144-1)/9-10^1005	C	is composite: RES64: [AB2F452215C073C4] (0.1121s+0.0334s)
+(10^3144-1)/9-10^1004	CF	has factors: 17
+(10^3144-1)/9-10^1003	C	is composite: RES64: [CBA60A7E61DEB1AD] (0.1066s+0.0684s)
+(10^3144-1)/9-10^1002	CF	has factors: 19
+(10^3144-1)/9-10^1001	CF	has factors: 239
+(10^3144-1)/9-10^1000	CF	has factors: 241
+(10^3144-1)/9-10^999	CF	has factors: 53891
+(10^3144-1)/9-10^998	CF	has factors: 59
+(10^3144-1)/9-10^997	CF	has factors: 71
+(10^3144-1)/9-10^996	C	is composite: RES64: [41CF98645EC7CE1E] (0.1080s+0.0293s)
+(10^3144-1)/9-10^995	C	is composite: RES64: [B5D8D35D754CD37C] (0.1080s+0.0806s)
+(10^3144-1)/9-10^994	CF	has factors: 239
+(10^3144-1)/9-10^993	CF	has factors: 113
+(10^3144-1)/9-10^992	CF	has factors: 1831
+(10^3144-1)/9-10^991	CF	has factors: 53
+(10^3144-1)/9-10^990	CF	has factors: 107
+(10^3144-1)/9-10^989	CF	has factors: 191
+(10^3144-1)/9-10^988	CF	has factors: 17
+(10^3144-1)/9-10^987	CF	has factors: 239
+(10^3144-1)/9-10^986	CF	has factors: 29
+(10^3144-1)/9-10^985	CF	has factors: 5711
+(10^3144-1)/9-10^984	CF	has factors: 19
+(10^3144-1)/9-10^983	CF	has factors: 6449
+(10^3144-1)/9-10^982	C	is composite: RES64: [18642E58130C84EC] (0.1103s+0.0408s)
+(10^3144-1)/9-10^981	CF	has factors: 43
+(10^3144-1)/9-10^980	CF	has factors: 23
+(10^3144-1)/9-10^979	C	is composite: RES64: [F7CF4EB69C94EC43] (0.1102s+0.0359s)
+(10^3144-1)/9-10^978	CF	has factors: 53
+(10^3144-1)/9-10^977	C	is composite: RES64: [C21628634611BB90] (0.1093s+0.0360s)
+(10^3144-1)/9-10^976	CF	has factors: 151
+(10^3144-1)/9-10^975	C	is composite: RES64: [2981AC7B7C98BA62] (0.1111s+0.0459s)
+(10^3144-1)/9-10^974	CF	has factors: 199
+(10^3144-1)/9-10^973	CF	has factors: 223
+(10^3144-1)/9-10^972	CF	has factors: 17
+(10^3144-1)/9-10^971	C	is composite: RES64: [7F08DC55ADC3DE97] (0.1081s+0.0591s)
+(10^3144-1)/9-10^970	CF	has factors: 227
+(10^3144-1)/9-10^969	CF	has factors: 47
+(10^3144-1)/9-10^968	CF	has factors: 131
+(10^3144-1)/9-10^967	CF	has factors: 3821
+(10^3144-1)/9-10^966	CF	has factors: 19
+(10^3144-1)/9-10^965	CF	has factors: 53
+(10^3144-1)/9-10^964	C	is composite: RES64: [71719F5B0A29E26F] (0.1090s+0.0303s)
+(10^3144-1)/9-10^963	C	is composite: RES64: [2466FBC04F194E0E] (0.1111s+0.0323s)
+(10^3144-1)/9-10^962	CF	has factors: 71
+(10^3144-1)/9-10^961	C	is composite: RES64: [861315C06670A290] (0.1086s+0.0520s)
+(10^3144-1)/9-10^960	CF	has factors: 43
+(10^3144-1)/9-10^959	CF	has factors: 239
+(10^3144-1)/9-10^958	CF	has factors: 23
+(10^3144-1)/9-10^957	CF	has factors: 61
+(10^3144-1)/9-10^956	CF	has factors: 17
+(10^3144-1)/9-10^955	C	is composite: RES64: [F41BBCB7448851E5] (0.1133s+0.0307s)
+(10^3144-1)/9-10^954	C	is composite: RES64: [AAB5B1FB76BAD821] (0.1093s+0.0386s)
+(10^3144-1)/9-10^953	CF	has factors: 683
+(10^3144-1)/9-10^952	CF	has factors: 53
+(10^3144-1)/9-10^951	C	is composite: RES64: [484B0298B92AFFF2] (0.1084s+0.0342s)
+(10^3144-1)/9-10^950	C	is composite: RES64: [7A2D3312898D4407] (0.1094s+0.1335s)
+(10^3144-1)/9-10^949	CF	has factors: 16567
+(10^3144-1)/9-10^948	CF	has factors: 19
+(10^3144-1)/9-10^947	CF	has factors: 24821
+(10^3144-1)/9-10^946	CF	has factors: 79903
+(10^3144-1)/9-10^945	CF	has factors: 239
+(10^3144-1)/9-10^944	CF	has factors: 419
+(10^3144-1)/9-10^943	CF	has factors: 853
+(10^3144-1)/9-10^942	CF	has factors: 167
+(10^3144-1)/9-10^941	CF	has factors: 1453
+(10^3144-1)/9-10^940	CF	has factors: 17^2
+(10^3144-1)/9-10^939	CF	has factors: 43^2
+(10^3144-1)/9-10^938	CF	has factors: 197
+(10^3144-1)/9-10^937	CF	has factors: 107
+(10^3144-1)/9-10^936	CF	has factors: 23
+(10^3144-1)/9-10^935	CF	has factors: 1861
+(10^3144-1)/9-10^934	C	is composite: RES64: [582CF8D33030CBC4] (0.1084s+0.0375s)
+(10^3144-1)/9-10^933	CF	has factors: 3529
+(10^3144-1)/9-10^932	C	is composite: RES64: [A90308111CCEAF13] (0.1103s+0.0364s)
+(10^3144-1)/9-10^931	CF	has factors: 239
+(10^3144-1)/9-10^930	CF	has factors: 19
+(10^3144-1)/9-10^929	C	is composite: RES64: [6873EFCED317D787] (0.1117s+0.0520s)
+(10^3144-1)/9-10^928	CF	has factors: 283
+(10^3144-1)/9-10^927	CF	has factors: 71
+(10^3144-1)/9-10^926	CF	has factors: 53
+(10^3144-1)/9-10^925	CF	has factors: 1553
+(10^3144-1)/9-10^924	CF	has factors: 17
+(10^3144-1)/9-10^923	CF	has factors: 47
+(10^3144-1)/9-10^922	C	is composite: RES64: [E74B748B932D14EC] (0.1083s+0.0302s)
+(10^3144-1)/9-10^921	C	is composite: RES64: [967990BC3356D40B] (0.1063s+0.0293s)
+(10^3144-1)/9-10^920	C	is composite: RES64: [1B4ADB2F2BE037B2] (0.1081s+0.0403s)
+(10^3144-1)/9-10^919	CF	has factors: 359
+(10^3144-1)/9-10^918	CF	has factors: 43
+(10^3144-1)/9-10^917	CF	has factors: 239
+(10^3144-1)/9-10^916	C	is composite: RES64: [58C3EAEF66B62055] (0.1085s+0.0816s)
+(10^3144-1)/9-10^915	CF	has factors: 97
+(10^3144-1)/9-10^914	CF	has factors: 23
+(10^3144-1)/9-10^913	CF	has factors: 53
+(10^3144-1)/9-10^912	CF	has factors: 19
+(10^3144-1)/9-10^911	CF	has factors: 2909
+(10^3144-1)/9-10^910	CF	has factors: 239
+(10^3144-1)/9-10^909	CF	has factors: 307
+(10^3144-1)/9-10^908	CF	has factors: 17
+(10^3144-1)/9-10^907	CF	has factors: 877
+(10^3144-1)/9-10^906	CF	has factors: 23981
+(10^3144-1)/9-10^905	CF	has factors: 907
+(10^3144-1)/9-10^904	C	is composite: RES64: [099213D5170E63A8] (0.1131s+0.0571s)
+(10^3144-1)/9-10^903	CF	has factors: 239
+(10^3144-1)/9-10^902	CF	has factors: 29
+(10^3144-1)/9-10^901	CF	has factors: 151
+(10^3144-1)/9-10^900	CF	has factors: 53
+(10^3144-1)/9-10^899	C	is composite: RES64: [BEB095DD5A19CFFE] (0.1251s+0.0523s)
+(10^3144-1)/9-10^898	CF	has factors: 14369
+(10^3144-1)/9-10^897	CF	has factors: 43
+(10^3144-1)/9-10^896	CF	has factors: 239
+(10^3144-1)/9-10^895	C	is composite: RES64: [358232E570683D63] (0.1085s+0.0364s)
+(10^3144-1)/9-10^894	CF	has factors: 19
+(10^3144-1)/9-10^893	C	is composite: RES64: [EDEEF2A87587C89B] (0.1122s+0.0360s)
+(10^3144-1)/9-10^892	CF	has factors: 17
+(10^3144-1)/9-10^891	C	is composite: RES64: [2BAECFAD9891720B] (0.1335s+0.0356s)
+(10^3144-1)/9-10^890	CF	has factors: 1669
+(10^3144-1)/9-10^889	CF	has factors: 239
+(10^3144-1)/9-10^888	C	is composite: RES64: [7FF5DB77DAEE2D2B] (0.1555s+0.0334s)
+(10^3144-1)/9-10^887	CF	has factors: 53
+(10^3144-1)/9-10^886	C	is composite: RES64: [48BA2EAF6E81CE96] (0.1254s+0.0324s)
+(10^3144-1)/9-10^885	C	is composite: RES64: [FD421995744E257A] (0.1191s+0.0520s)
+(10^3144-1)/9-10^884	CF	has factors: 107
+(10^3144-1)/9-10^883	CF	has factors: 2879
+(10^3144-1)/9-10^882	CF	has factors: 59
+(10^3144-1)/9-10^881	CF	has factors: 113
+(10^3144-1)/9-10^880	CF	has factors: 233
+(10^3144-1)/9-10^879	CF	has factors: 157
+(10^3144-1)/9-10^878	C	is composite: RES64: [ABFF93CF4AD5D8F9] (0.1093s+0.0795s)
+(10^3144-1)/9-10^877	CF	has factors: 47
+(10^3144-1)/9-10^876	CF	has factors: 17
+(10^3144-1)/9-10^875	CF	has factors: 199
+(10^3144-1)/9-10^874	CF	has factors: 29
+(10^3144-1)/9-10^873	CF	has factors: 9907
+(10^3144-1)/9-10^872	CF	has factors: 487
+(10^3144-1)/9-10^871	CF	has factors: 269
+(10^3144-1)/9-10^870	CF	has factors: 23
+(10^3144-1)/9-10^869	CF	has factors: 293
+(10^3144-1)/9-10^868	CF	has factors: 239
+(10^3144-1)/9-10^867	CF	has factors: 4663
+(10^3144-1)/9-10^866	C	is composite: RES64: [248B4921C0DBCD54] (0.1095s+0.0339s)
+(10^3144-1)/9-10^865	CF	has factors: 181
+(10^3144-1)/9-10^864	C	is composite: RES64: [002EA60AEBA33CCA] (0.1101s+0.0312s)
+(10^3144-1)/9-10^863	C	is composite: RES64: [13CA8B651C32B252] (0.1088s+0.0742s)
+(10^3144-1)/9-10^862	CF	has factors: 347
+(10^3144-1)/9-10^861	CF	has factors: 53
+(10^3144-1)/9-10^860	CF	has factors: 17
+(10^3144-1)/9-10^859	CF	has factors: 701
+(10^3144-1)/9-10^858	CF	has factors: 19^2
+(10^3144-1)/9-10^857	CF	has factors: 71
+(10^3144-1)/9-10^856	CF	has factors: 12163
+(10^3144-1)/9-10^855	CF	has factors: 43
+(10^3144-1)/9-10^854	CF	has factors: 239
+(10^3144-1)/9-10^853	CF	has factors: 179
+(10^3144-1)/9-10^852	C	is composite: RES64: [FFC18A3B9388EFCA] (0.1092s+0.0529s)
+(10^3144-1)/9-10^851	CF	has factors: 3943
+(10^3144-1)/9-10^850	CF	has factors: 241
+(10^3144-1)/9-10^849	CF	has factors: 709
+(10^3144-1)/9-10^848	CF	has factors: 23
+(10^3144-1)/9-10^847	CF	has factors: 239
+(10^3144-1)/9-10^846	CF	has factors: 29
+(10^3144-1)/9-10^845	C	is composite: RES64: [54BA522F87D5A9AD] (0.1095s+0.0336s)
+(10^3144-1)/9-10^844	CF	has factors: 17
+(10^3144-1)/9-10^843	C	is composite: RES64: [1EEE2B6978B15D56] (0.1102s+0.0300s)
+(10^3144-1)/9-10^842	C	is composite: RES64: [226F6BF2A296E2C9] (0.1097s+0.0423s)
+(10^3144-1)/9-10^841	CF	has factors: 17401
+(10^3144-1)/9-10^840	CF	has factors: 19
+(10^3144-1)/9-10^839	C	is composite: RES64: [5C4389B556A41130] (0.1072s+0.0780s)
+(10^3144-1)/9-10^838	CF	has factors: 131
+(10^3144-1)/9-10^837	CF	has factors: 61
+(10^3144-1)/9-10^836	CF	has factors: 317
+(10^3144-1)/9-10^835	CF	has factors: 53
+(10^3144-1)/9-10^834	CF	has factors: 43
+(10^3144-1)/9-10^833	CF	has factors: 239
+(10^3144-1)/9-10^832	CF	has factors: 919
+(10^3144-1)/9-10^831	CF	has factors: 47
+(10^3144-1)/9-10^830	CF	has factors: 52387
+(10^3144-1)/9-10^829	C	is composite: RES64: [37114C1BCBDE5226] (0.1086s+0.0335s)
+(10^3144-1)/9-10^828	CF	has factors: 17
+(10^3144-1)/9-10^827	C	is composite: RES64: [77FF2F9BBF7AB764] (0.1090s+0.0403s)
+(10^3144-1)/9-10^826	CF	has factors: 23
+(10^3144-1)/9-10^825	CF	has factors: 3491
+(10^3144-1)/9-10^824	CF	has factors: 59
+(10^3144-1)/9-10^823	C	is composite: RES64: [27747BD653530CD3] (0.1077s+0.0727s)
+(10^3144-1)/9-10^822	CF	has factors: 19
+(10^3144-1)/9-10^821	CF	has factors: 4229
+(10^3144-1)/9-10^820	CF	has factors: 241
+(10^3144-1)/9-10^819	CF	has factors: 97
+(10^3144-1)/9-10^818	CF	has factors: 29
+(10^3144-1)/9-10^817	CF	has factors: 2207
+(10^3144-1)/9-10^816	CF	has factors: 17519
+(10^3144-1)/9-10^815	CF	has factors: 23339
+(10^3144-1)/9-10^814	C	is composite: RES64: [ED5F9105A6E8C5F6] (0.1123s+0.0356s)
+(10^3144-1)/9-10^813	CF	has factors: 43
+(10^3144-1)/9-10^812	CF	has factors: 17
+(10^3144-1)/9-10^811	C	is composite: RES64: [2302A27BBCEDD178] (0.1077s+0.0293s)
+(10^3144-1)/9-10^810	C	is composite: RES64: [2948C5FF04B1FAA9] (0.1083s+0.0357s)
+(10^3144-1)/9-10^809	CF	has factors: 53
+(10^3144-1)/9-10^808	C	is composite: RES64: [5FC8039FCFE45FB6] (0.1115s+0.0299s)
+(10^3144-1)/9-10^807	C	is composite: RES64: [D50186697CCF445F] (0.1113s+0.0306s)
+(10^3144-1)/9-10^806	C	is composite: RES64: [587F8A201FDB608E] (0.1098s+0.0423s)
+(10^3144-1)/9-10^805	CF	has factors: 239
+(10^3144-1)/9-10^804	CF	has factors: 19
+(10^3144-1)/9-10^803	C	is composite: RES64: [5FAB34850A1D283B] (0.1090s+0.0296s)
+(10^3144-1)/9-10^802	C	is composite: RES64: [7D8A1CCB99F3E027] (0.1124s+0.0500s)
+(10^3144-1)/9-10^801	CF	has factors: 157
+(10^3144-1)/9-10^800	CF	has factors: 1487
+(10^3144-1)/9-10^799	CF	has factors: 191
+(10^3144-1)/9-10^798	CF	has factors: 239
+(10^3144-1)/9-10^797	C	is composite: RES64: [AAF0798F6E626F21] (0.1106s+0.0444s)
+(10^3144-1)/9-10^796	CF	has factors: 17
+(10^3144-1)/9-10^795	CF	has factors: 19603
+(10^3144-1)/9-10^794	C	is composite: RES64: [518BC5B725F95305] (0.1079s+0.0312s)
+(10^3144-1)/9-10^793	C	is composite: RES64: [1FE5CA50BA8C2985] (0.1278s+0.0395s)
+(10^3144-1)/9-10^792	CF	has factors: 43
+(10^3144-1)/9-10^791	CF	has factors: 239
+(10^3144-1)/9-10^790	CF	has factors: 29
+(10^3144-1)/9-10^789	C	is composite: RES64: [44A80260736A4477] (0.1134s+0.0290s)
+(10^3144-1)/9-10^788	C	is composite: RES64: [0292EF44A099EB6C] (0.1079s+0.0797s)
+(10^3144-1)/9-10^787	CF	has factors: 71
+(10^3144-1)/9-10^786	CF	has factors: 19
+(10^3144-1)/9-10^785	CF	has factors: 47
+(10^3144-1)/9-10^784	CF	has factors: 239
+(10^3144-1)/9-10^783	CF	has factors: 53
+(10^3144-1)/9-10^782	CF	has factors: 23^2
+(10^3144-1)/9-10^781	CF	has factors: 1759
+(10^3144-1)/9-10^780	CF	has factors: 17
+(10^3144-1)/9-10^779	CF	has factors: 1663
+(10^3144-1)/9-10^778	CF	has factors: 107
+(10^3144-1)/9-10^777	CF	has factors: 61
+(10^3144-1)/9-10^776	CF	has factors: 167
+(10^3144-1)/9-10^775	CF	has factors: 991
+(10^3144-1)/9-10^774	C	is composite: RES64: [06E603D04621B316] (0.1104s+0.0327s)
+(10^3144-1)/9-10^773	C	is composite: RES64: [BAE39C71C83548E1] (0.1086s+0.0292s)
+(10^3144-1)/9-10^772	C	is composite: RES64: [DB5DE904C2FABAF1] (0.1083s+0.0462s)
+(10^3144-1)/9-10^771	CF	has factors: 43
+(10^3144-1)/9-10^770	CF	has factors: 53
+(10^3144-1)/9-10^769	CF	has factors: 113
+(10^3144-1)/9-10^768	CF	has factors: 19
+(10^3144-1)/9-10^767	C	is composite: RES64: [37496E1D41FAD95A] (0.1108s+0.0592s)
+(10^3144-1)/9-10^766	CF	has factors: 59
+(10^3144-1)/9-10^765	CF	has factors: 1531
+(10^3144-1)/9-10^764	CF	has factors: 17
+(10^3144-1)/9-10^763	CF	has factors: 239
+(10^3144-1)/9-10^762	CF	has factors: 29
+(10^3144-1)/9-10^761	C	is composite: RES64: [3DB01A5662648C20] (0.1152s+0.0370s)
+(10^3144-1)/9-10^760	CF	has factors: 23
+(10^3144-1)/9-10^759	C	is composite: RES64: [3D351FD46FE3B241] (0.1102s+0.0312s)
+(10^3144-1)/9-10^758	C	is composite: RES64: [2DCA2AB7D959DC8A] (0.1126s+0.0568s)
+(10^3144-1)/9-10^757	CF	has factors: 53
+(10^3144-1)/9-10^756	CF	has factors: 239
+(10^3144-1)/9-10^755	CF	has factors: 863
+(10^3144-1)/9-10^754	CF	has factors: 907
+(10^3144-1)/9-10^753	C	is composite: RES64: [07A63DEA5CF43B80] (0.1508s+0.0630s)
+(10^3144-1)/9-10^752	CF	has factors: 71
+(10^3144-1)/9-10^751	CF	has factors: 151
+(10^3144-1)/9-10^750	CF	has factors: 19
+(10^3144-1)/9-10^749	CF	has factors: 149
+(10^3144-1)/9-10^748	CF	has factors: 17
+(10^3144-1)/9-10^747	CF	has factors: 29473
+(10^3144-1)/9-10^746	C	is composite: RES64: [EBCACBB53067CEC6] (0.1160s+0.0599s)
+(10^3144-1)/9-10^745	CF	has factors: 373
+(10^3144-1)/9-10^744	CF	has factors: 53
+(10^3144-1)/9-10^743	CF	has factors: 20743
+(10^3144-1)/9-10^742	CF	has factors: 197
+(10^3144-1)/9-10^741	C	is composite: RES64: [C43AEA856BEF207A] (0.1370s+0.0481s)
+(10^3144-1)/9-10^740	CF	has factors: 359
+(10^3144-1)/9-10^739	CF	has factors: 47
+(10^3144-1)/9-10^738	CF	has factors: 23
+(10^3144-1)/9-10^737	C	is composite: RES64: [8DC0A78087A08ED4] (0.1087s+0.0296s)
+(10^3144-1)/9-10^736	C	is composite: RES64: [708EDBE63E4B77DD] (0.1128s+0.0360s)
+(10^3144-1)/9-10^735	CF	has factors: 239
+(10^3144-1)/9-10^734	CF	has factors: 29
+(10^3144-1)/9-10^733	C	is composite: RES64: [192E273FF6D7EEB6] (0.1094s+0.0548s)
+(10^3144-1)/9-10^732	CF	has factors: 17
+(10^3144-1)/9-10^731	CF	has factors: 53
+(10^3144-1)/9-10^730	CF	has factors: 241
+(10^3144-1)/9-10^729	CF	has factors: 43
+(10^3144-1)/9-10^728	CF	has factors: 239
+(10^3144-1)/9-10^727	CF	has factors: 10889
+(10^3144-1)/9-10^726	C	is composite: RES64: [E28EBD49FAFF3E05] (0.1103s+0.0472s)
+(10^3144-1)/9-10^725	CF	has factors: 107
+(10^3144-1)/9-10^724	CF	has factors: 18773
+(10^3144-1)/9-10^723	CF	has factors: 97
+(10^3144-1)/9-10^722	C	is composite: RES64: [17E951DB3494F062] (0.1069s+0.0629s)
+(10^3144-1)/9-10^721	CF	has factors: 239
+(10^3144-1)/9-10^720	CF	has factors: 257
+(10^3144-1)/9-10^719	CF	has factors: 10177
+(10^3144-1)/9-10^718	CF	has factors: 53
+(10^3144-1)/9-10^717	CF	has factors: 61
+(10^3144-1)/9-10^716	CF	has factors: 17
+(10^3144-1)/9-10^715	CF	has factors: 557
+(10^3144-1)/9-10^714	CF	has factors: 19
+(10^3144-1)/9-10^713	CF	has factors: 743
+(10^3144-1)/9-10^712	C	is composite: RES64: [4EBA9F8677361507] (0.1085s+0.0286s)
+(10^3144-1)/9-10^711	C	is composite: RES64: [7612476CB5D0FDD7] (0.1069s+0.0310s)
+(10^3144-1)/9-10^710	C	is composite: RES64: [C99E985FB4456368] (0.1071s+0.0497s)
+(10^3144-1)/9-10^709	CF	has factors: 631
+(10^3144-1)/9-10^708	CF	has factors: 43
+(10^3144-1)/9-10^707	CF	has factors: 239
+(10^3144-1)/9-10^706	CF	has factors: 29
+(10^3144-1)/9-10^705	CF	has factors: 53
+(10^3144-1)/9-10^704	CF	has factors: 191
+(10^3144-1)/9-10^703	C	is composite: RES64: [ACBA977B16437F55] (0.1104s+0.0292s)
+(10^3144-1)/9-10^702	C	is composite: RES64: [563CE0E0973E9A47] (0.1089s+0.0301s)
+(10^3144-1)/9-10^701	C	is composite: RES64: [2AA8527C7684B7E9] (0.1124s+0.0320s)
+(10^3144-1)/9-10^700	CF	has factors: 17
+(10^3144-1)/9-10^699	C	is composite: RES64: [C32AECE1BAC99B4B] (0.1095s+0.0289s)
+(10^3144-1)/9-10^698	C	is composite: RES64: [73CC6CE2FD78CEAA] (0.1089s+0.0295s)
+(10^3144-1)/9-10^697	C	is composite: RES64: [A287599E6BDE538E] (0.1070s+0.0653s)
+(10^3144-1)/9-10^696	CF	has factors: 19
+(10^3144-1)/9-10^695	CF	has factors: 3851
+(10^3144-1)/9-10^694	CF	has factors: 23
+(10^3144-1)/9-10^693	CF	has factors: 47
+(10^3144-1)/9-10^692	CF	has factors: 53
+(10^3144-1)/9-10^691	CF	has factors: 461
+(10^3144-1)/9-10^690	C	is composite: RES64: [373B4689D6C43A93] (0.1104s+0.0608s)
+(10^3144-1)/9-10^689	CF	has factors: 347
+(10^3144-1)/9-10^688	CF	has factors: 389
+(10^3144-1)/9-10^687	CF	has factors: 43
+(10^3144-1)/9-10^686	CF	has factors: 239
+(10^3144-1)/9-10^685	CF	has factors: 181
+(10^3144-1)/9-10^684	CF	has factors: 17
+(10^3144-1)/9-10^683	CF	has factors: 499
+(10^3144-1)/9-10^682	CF	has factors: 71
+(10^3144-1)/9-10^681	C	is composite: RES64: [63F5F3D12AC50F6D] (0.1093s+0.0288s)
+(10^3144-1)/9-10^680	C	is composite: RES64: [95DA3FDE751A27BD] (0.1127s+0.0491s)
+(10^3144-1)/9-10^679	CF	has factors: 53
+(10^3144-1)/9-10^678	CF	has factors: 19
+(10^3144-1)/9-10^677	CF	has factors: 199^2
+(10^3144-1)/9-10^676	CF	has factors: 151
+(10^3144-1)/9-10^675	CF	has factors: 179
+(10^3144-1)/9-10^674	C	is composite: RES64: [0AC15CA181370DC3] (0.1084s+0.0296s)
+(10^3144-1)/9-10^673	C	is composite: RES64: [26DE898B3862E213] (0.1073s+0.0332s)
+(10^3144-1)/9-10^672	CF	has factors: 23
+(10^3144-1)/9-10^671	C	is composite: RES64: [90BDCB73F479DD10] (0.1102s+0.0342s)
+(10^3144-1)/9-10^670	CF	has factors: 241
+(10^3144-1)/9-10^669	C	is composite: RES64: [887FD1274F81E666] (0.1094s+0.0319s)
+(10^3144-1)/9-10^668	CF	has factors: 17^2
+(10^3144-1)/9-10^667	C	is composite: RES64: [DFA5653C669CD43E] (0.1092s+0.0429s)
+(10^3144-1)/9-10^666	CF	has factors: 43
+(10^3144-1)/9-10^665	CF	has factors: 239
+(10^3144-1)/9-10^664	C	is composite: RES64: [6DB7D59930960028] (0.1085s+0.0291s)
+(10^3144-1)/9-10^663	C	is composite: RES64: [DB206C5119DD5052] (0.1145s+0.0369s)
+(10^3144-1)/9-10^662	CF	has factors: 829
+(10^3144-1)/9-10^661	C	is composite: RES64: [C4EF4EA6BC5CB52E] (0.1080s+0.0340s)
+(10^3144-1)/9-10^660	CF	has factors: 19
+(10^3144-1)/9-10^659	C	is composite: RES64: [41E98F19454436AB] (0.1099s+0.0438s)
+(10^3144-1)/9-10^658	CF	has factors: 239
+(10^3144-1)/9-10^657	CF	has factors: 61
+(10^3144-1)/9-10^656	CF	has factors: 523
+(10^3144-1)/9-10^655	C	is composite: RES64: [960EAE47D31F1EAF] (0.1078s+0.0534s)
+(10^3144-1)/9-10^654	CF	has factors: 14221
+(10^3144-1)/9-10^653	CF	has factors: 53
+(10^3144-1)/9-10^652	CF	has factors: 17
+(10^3144-1)/9-10^651	CF	has factors: 239
+(10^3144-1)/9-10^650	CF	has factors: 23
+(10^3144-1)/9-10^649	C	is composite: RES64: [4121ED3B03A8CBA4] (0.1405s+0.0784s)
+(10^3144-1)/9-10^648	CF	has factors: 233
+(10^3144-1)/9-10^647	CF	has factors: 47
+(10^3144-1)/9-10^646	CF	has factors: 283
+(10^3144-1)/9-10^645	CF	has factors: 43
+(10^3144-1)/9-10^644	CF	has factors: 197
+(10^3144-1)/9-10^643	CF	has factors: 3559
+(10^3144-1)/9-10^642	CF	has factors: 19
+(10^3144-1)/9-10^641	CF	has factors: 491
+(10^3144-1)/9-10^640	CF	has factors: 53
+(10^3144-1)/9-10^639	C	is composite: RES64: [E9CFE7BED423B4C4] (0.1109s+0.0488s)
+(10^3144-1)/9-10^638	CF	has factors: 5881
+(10^3144-1)/9-10^637	CF	has factors: 239
+(10^3144-1)/9-10^636	CF	has factors: 17
+(10^3144-1)/9-10^635	CF	has factors: 1291
+(10^3144-1)/9-10^634	C	is composite: RES64: [AD8CF7A8A60B7276] (0.1129s+0.0311s)
+(10^3144-1)/9-10^633	C	is composite: RES64: [63C6CF69A2669E31] (0.1282s+0.0307s)
+(10^3144-1)/9-10^632	C	is composite: RES64: [E1B29FE880EB1238] (0.1198s+0.0435s)
+(10^3144-1)/9-10^631	CF	has factors: 227
+(10^3144-1)/9-10^630	CF	has factors: 239
+(10^3144-1)/9-10^629	C	is composite: RES64: [0A77547F12B48E69] (0.1194s+0.0809s)
+(10^3144-1)/9-10^628	CF	has factors: 23
+(10^3144-1)/9-10^627	CF	has factors: 53
+(10^3144-1)/9-10^626	CF	has factors: 1741
+(10^3144-1)/9-10^625	CF	has factors: 1997
+(10^3144-1)/9-10^624	CF	has factors: 19
+(10^3144-1)/9-10^623	CF	has factors: 239
+(10^3144-1)/9-10^622	CF	has factors: 29^2
+(10^3144-1)/9-10^621	C	is composite: RES64: [5E10FABD1FAED53B] (0.1219s+0.0400s)
+(10^3144-1)/9-10^620	CF	has factors: 17
+(10^3144-1)/9-10^619	CF	has factors: 107
+(10^3144-1)/9-10^618	C	is composite: RES64: [5E7EC6FC284F0A09] (0.1175s+0.0728s)
+(10^3144-1)/9-10^617	CF	has factors: 6793
+(10^3144-1)/9-10^616	CF	has factors: 239
+(10^3144-1)/9-10^615	CF	has factors: 109
+(10^3144-1)/9-10^614	CF	has factors: 53
+(10^3144-1)/9-10^613	CF	has factors: 821
+(10^3144-1)/9-10^612	CF	has factors: 71
+(10^3144-1)/9-10^611	CF	has factors: 17627
+(10^3144-1)/9-10^610	CF	has factors: 167
+(10^3144-1)/9-10^609	CF	has factors: 191
+(10^3144-1)/9-10^608	C	is composite: RES64: [9ACCDD07364D394D] (0.1344s+0.0399s)
+(10^3144-1)/9-10^607	C	is composite: RES64: [17608CD2D7446F57] (0.1123s+0.0329s)
+(10^3144-1)/9-10^606	CF	has factors: 19
+(10^3144-1)/9-10^605	C	is composite: RES64: [2D8B6392E17F6AA2] (0.1091s+0.0484s)
+(10^3144-1)/9-10^604	CF	has factors: 17
+(10^3144-1)/9-10^603	CF	has factors: 43
+(10^3144-1)/9-10^602	CF	has factors: 239
+(10^3144-1)/9-10^601	CF	has factors: 47
+(10^3144-1)/9-10^600	C	is composite: RES64: [A1F0796157BAEB0F] (0.1113s+0.0361s)
+(10^3144-1)/9-10^599	CF	has factors: 317
+(10^3144-1)/9-10^598	C	is composite: RES64: [19F038ECF334412A] (0.1122s+0.0573s)
+(10^3144-1)/9-10^597	CF	has factors: 61
+(10^3144-1)/9-10^596	C	is composite: RES64: [4A1034233F3DFCAA] (0.1118s+0.0489s)
+(10^3144-1)/9-10^595	CF	has factors: 239
+(10^3144-1)/9-10^594	CF	has factors: 29
+(10^3144-1)/9-10^593	CF	has factors: 14939
+(10^3144-1)/9-10^592	CF	has factors: 59
+(10^3144-1)/9-10^591	CF	has factors: 2029
+(10^3144-1)/9-10^590	C	is composite: RES64: [B97C8D95C88D26D7] (0.1077s+0.0323s)
+(10^3144-1)/9-10^589	C	is composite: RES64: [F278DFA9BA050655] (0.1089s+0.0317s)
+(10^3144-1)/9-10^588	CF	has factors: 17
+(10^3144-1)/9-10^587	C	is composite: RES64: [85EFD61DD1B8C69D] (0.1078s+0.0318s)
+(10^3144-1)/9-10^586	CF	has factors: 569
+(10^3144-1)/9-10^585	C	is composite: RES64: [2D792EDEF0C4EE3F] (0.1071s+0.0318s)
+(10^3144-1)/9-10^584	CF	has factors: 23
+(10^3144-1)/9-10^583	C	is composite: RES64: [BB90570A45D4C4EB] (0.1080s+0.0677s)
+(10^3144-1)/9-10^582	CF	has factors: 43
+(10^3144-1)/9-10^581	CF	has factors: 239
+(10^3144-1)/9-10^580	CF	has factors: 241
+(10^3144-1)/9-10^579	CF	has factors: 5059
+(10^3144-1)/9-10^578	CF	has factors: 131
+(10^3144-1)/9-10^577	CF	has factors: 71
+(10^3144-1)/9-10^576	CF	has factors: 929
+(10^3144-1)/9-10^575	CF	has factors: 53
+(10^3144-1)/9-10^574	CF	has factors: 239
+(10^3144-1)/9-10^573	CF	has factors: 229
+(10^3144-1)/9-10^572	CF	has factors: 17
+(10^3144-1)/9-10^571	C	is composite: RES64: [9806B8FEF5625B73] (0.1090s+0.0417s)
+(10^3144-1)/9-10^570	CF	has factors: 19
+(10^3144-1)/9-10^569	CF	has factors: 1039
+(10^3144-1)/9-10^568	C	is composite: RES64: [65047478BE8639A1] (0.1071s+0.0345s)
+(10^3144-1)/9-10^567	CF	has factors: 157
+(10^3144-1)/9-10^566	CF	has factors: 29
+(10^3144-1)/9-10^565	C	is composite: RES64: [680449CF35A49D65] (0.1093s+0.0486s)
+(10^3144-1)/9-10^564	CF	has factors: 3637
+(10^3144-1)/9-10^563	CF	has factors: 677
+(10^3144-1)/9-10^562	CF	has factors: 23
+(10^3144-1)/9-10^561	CF	has factors: 43
+(10^3144-1)/9-10^560	CF	has factors: 239
+(10^3144-1)/9-10^559	CF	has factors: 373
+(10^3144-1)/9-10^558	C	is composite: RES64: [87B031D4C1A930F8] (0.1072s+0.0515s)
+(10^3144-1)/9-10^557	CF	has factors: 9533
+(10^3144-1)/9-10^556	CF	has factors: 17
+(10^3144-1)/9-10^555	CF	has factors: 47
+(10^3144-1)/9-10^554	CF	has factors: 7411
+(10^3144-1)/9-10^553	CF	has factors: 239
+(10^3144-1)/9-10^552	CF	has factors: 19
+(10^3144-1)/9-10^551	C	is composite: RES64: [A7C7591CA33973A8] (0.1189s+0.0677s)
+(10^3144-1)/9-10^550	CF	has factors: 241
+(10^3144-1)/9-10^549	CF	has factors: 53
+(10^3144-1)/9-10^548	CF	has factors: 33937
+(10^3144-1)/9-10^547	CF	has factors: 2927
+(10^3144-1)/9-10^546	CF	has factors: 197
+(10^3144-1)/9-10^545	CF	has factors: 113
+(10^3144-1)/9-10^544	CF	has factors: 1451
+(10^3144-1)/9-10^543	CF	has factors: 337
+(10^3144-1)/9-10^542	CF	has factors: 71
+(10^3144-1)/9-10^541	C	is composite: RES64: [EDAA7D6FAEEA410F] (0.1064s+0.0495s)
+(10^3144-1)/9-10^540	CF	has factors: 17
+(10^3144-1)/9-10^539	CF	has factors: 239
+(10^3144-1)/9-10^538	CF	has factors: 29
+(10^3144-1)/9-10^537	CF	has factors: 61
+(10^3144-1)/9-10^536	CF	has factors: 53
+(10^3144-1)/9-10^535	CF	has factors: 383
+(10^3144-1)/9-10^534	CF	has factors: 19
+(10^3144-1)/9-10^533	C	is composite: RES64: [F79088D7C75EFD6A] (0.1062s+0.0355s)
+(10^3144-1)/9-10^532	CF	has factors: 239
+(10^3144-1)/9-10^531	CF	has factors: 97
+(10^3144-1)/9-10^530	C	is composite: RES64: [85D0A0E7177A2836] (0.1073s+0.0606s)
+(10^3144-1)/9-10^529	CF	has factors: 223
+(10^3144-1)/9-10^528	CF	has factors: 77359
+(10^3144-1)/9-10^527	C	is composite: RES64: [53947BE540FF5217] (0.1073s+0.0463s)
+(10^3144-1)/9-10^526	CF	has factors: 151
+(10^3144-1)/9-10^525	CF	has factors: 239
+(10^3144-1)/9-10^524	CF	has factors: 17
+(10^3144-1)/9-10^523	CF	has factors: 53
+(10^3144-1)/9-10^522	C	is composite: RES64: [5DFCBD93E9A81752] (0.1069s+0.0512s)
+(10^3144-1)/9-10^521	CF	has factors: 10037
+(10^3144-1)/9-10^520	CF	has factors: 241
+(10^3144-1)/9-10^519	CF	has factors: 43
+(10^3144-1)/9-10^518	CF	has factors: 23
+(10^3144-1)/9-10^517	CF	has factors: 853
+(10^3144-1)/9-10^516	CF	has factors: 19^2
+(10^3144-1)/9-10^515	C	is composite: RES64: [C2DA588036EF326A] (0.1078s+0.0353s)
+(10^3144-1)/9-10^514	CF	has factors: 191
+(10^3144-1)/9-10^513	CF	has factors: 107
+(10^3144-1)/9-10^512	C	is composite: RES64: [F94DE3796BD60F80] (0.1093s+0.0454s)
+(10^3144-1)/9-10^511	CF	has factors: 239
+(10^3144-1)/9-10^510	CF	has factors: 29
+(10^3144-1)/9-10^509	CF	has factors: 47
+(10^3144-1)/9-10^508	CF	has factors: 17
+(10^3144-1)/9-10^507	CF	has factors: 71
+(10^3144-1)/9-10^506	C	is composite: RES64: [D11F632680896E77] (0.1084s+0.0399s)
+(10^3144-1)/9-10^505	CF	has factors: 181
+(10^3144-1)/9-10^504	CF	has factors: 239
+(10^3144-1)/9-10^503	CF	has factors: 2687
+(10^3144-1)/9-10^502	C	is composite: RES64: [6A08595ED37E53E3] (0.1059s+0.0413s)
+(10^3144-1)/9-10^501	CF	has factors: 4783
+(10^3144-1)/9-10^500	CF	has factors: 6521
+(10^3144-1)/9-10^499	C	is composite: RES64: [D1840C7639CFB984] (0.1073s+0.0377s)
+(10^3144-1)/9-10^498	CF	has factors: 19
+(10^3144-1)/9-10^497	CF	has factors: 53
+(10^3144-1)/9-10^496	CF	has factors: 23
+(10^3144-1)/9-10^495	C	is composite: RES64: [A8F5E988ED521171] (0.1132s+0.0352s)
+(10^3144-1)/9-10^494	CF	has factors: 7723
+(10^3144-1)/9-10^493	C	is composite: RES64: [8EDBCDF12E69143A] (0.1073s+0.0322s)
+(10^3144-1)/9-10^492	CF	has factors: 17
+(10^3144-1)/9-10^491	C	is composite: RES64: [101FE83F685EF1A1] (0.1064s+0.0356s)
+(10^3144-1)/9-10^490	CF	has factors: 239
+(10^3144-1)/9-10^489	CF	has factors: 157
+(10^3144-1)/9-10^488	C	is composite: RES64: [A9C2A3D46A936753] (0.1075s+0.0292s)
+(10^3144-1)/9-10^487	C	is composite: RES64: [D5A2597661B4829B] (0.1068s+0.0289s)
+(10^3144-1)/9-10^486	C	is composite: RES64: [6AE65AB827A3B60A] (0.1078s+0.0284s)
+(10^3144-1)/9-10^485	C	is composite: RES64: [F7C7D94883628947] (0.1074s+0.0393s)
+(10^3144-1)/9-10^484	CF	has factors: 53
+(10^3144-1)/9-10^483	CF	has factors: 239
+(10^3144-1)/9-10^482	CF	has factors: 29
+(10^3144-1)/9-10^481	C	is composite: RES64: [DE820EAA57B0BC0E] (0.1171s+0.0474s)
+(10^3144-1)/9-10^480	CF	has factors: 19
+(10^3144-1)/9-10^479	CF	has factors: 199
+(10^3144-1)/9-10^478	CF	has factors: 797
+(10^3144-1)/9-10^477	CF	has factors: 43
+(10^3144-1)/9-10^476	CF	has factors: 17
+(10^3144-1)/9-10^475	C	is composite: RES64: [421A384B3C287A51] (0.1240s+0.0318s)
+(10^3144-1)/9-10^474	CF	has factors: 23
+(10^3144-1)/9-10^473	C	is composite: RES64: [7D82B3F1972758AD] (0.1096s+0.0371s)
+(10^3144-1)/9-10^472	CF	has factors: 71
+(10^3144-1)/9-10^471	CF	has factors: 53^2
+(10^3144-1)/9-10^470	C	is composite: RES64: [72BE93ED20CE04A0] (0.1103s+0.0341s)
+(10^3144-1)/9-10^469	CF	has factors: 239
+(10^3144-1)/9-10^468	C	is composite: RES64: [D3CA6D8527277713] (0.1160s+0.0310s)
+(10^3144-1)/9-10^467	C	is composite: RES64: [D47FD3F113B5D4FF] (0.1110s+0.0283s)
+(10^3144-1)/9-10^466	C	is composite: RES64: [966B114FA008F34A] (0.1095s+0.0420s)
+(10^3144-1)/9-10^465	CF	has factors: 3067
+(10^3144-1)/9-10^464	CF	has factors: 257
+(10^3144-1)/9-10^463	CF	has factors: 47
+(10^3144-1)/9-10^462	CF	has factors: 19
+(10^3144-1)/9-10^461	C	is composite: RES64: [642AD0C216254F37] (0.1123s+0.0388s)
+(10^3144-1)/9-10^460	CF	has factors: 17
+(10^3144-1)/9-10^459	CF	has factors: 3511
+(10^3144-1)/9-10^458	CF	has factors: 53
+(10^3144-1)/9-10^457	C	is composite: RES64: [A2DE6DB3359EAEAF] (0.1087s+0.0618s)
+(10^3144-1)/9-10^456	CF	has factors: 43
+(10^3144-1)/9-10^455	CF	has factors: 239
+(10^3144-1)/9-10^454	CF	has factors: 29
+(10^3144-1)/9-10^453	CF	has factors: 149
+(10^3144-1)/9-10^452	CF	has factors: 23
+(10^3144-1)/9-10^451	CF	has factors: 151
+(10^3144-1)/9-10^450	CF	has factors: 307
+(10^3144-1)/9-10^449	CF	has factors: 14369
+(10^3144-1)/9-10^448	CF	has factors: 131
+(10^3144-1)/9-10^447	C	is composite: RES64: [293B18EAF2DC8F02] (0.1073s+0.0288s)
+(10^3144-1)/9-10^446	C	is composite: RES64: [A28D7E7389C6446E] (0.1089s+0.0345s)
+(10^3144-1)/9-10^445	CF	has factors: 53
+(10^3144-1)/9-10^444	CF	has factors: 17
+(10^3144-1)/9-10^443	C	is composite: RES64: [C3645CE43A83D23B] (0.1072s+0.0354s)
+(10^3144-1)/9-10^442	CF	has factors: 1087
+(10^3144-1)/9-10^441	CF	has factors: 239
+(10^3144-1)/9-10^440	C	is composite: RES64: [B6011FD12F52B3AD] (0.1069s+0.0291s)
+(10^3144-1)/9-10^439	C	is composite: RES64: [1CF270E4C01FD76B] (0.1077s+0.0725s)
+(10^3144-1)/9-10^438	CF	has factors: 29879
+(10^3144-1)/9-10^437	CF	has factors: 71
+(10^3144-1)/9-10^436	CF	has factors: 2731
+(10^3144-1)/9-10^435	CF	has factors: 43
+(10^3144-1)/9-10^434	CF	has factors: 239
+(10^3144-1)/9-10^433	CF	has factors: 113
+(10^3144-1)/9-10^432	CF	has factors: 53
+(10^3144-1)/9-10^431	CF	has factors: 293
+(10^3144-1)/9-10^430	CF	has factors: 23
+(10^3144-1)/9-10^429	C	is composite: RES64: [7B1C3CD944765DCB] (0.1099s+0.0387s)
+(10^3144-1)/9-10^428	CF	has factors: 17
+(10^3144-1)/9-10^427	CF	has factors: 239
+(10^3144-1)/9-10^426	CF	has factors: 19
+(10^3144-1)/9-10^425	C	is composite: RES64: [04D7AB8805E9791F] (0.1080s+0.0617s)
+(10^3144-1)/9-10^424	CF	has factors: 2861
+(10^3144-1)/9-10^423	CF	has factors: 313
+(10^3144-1)/9-10^422	CF	has factors: 433
+(10^3144-1)/9-10^421	CF	has factors: 6277
+(10^3144-1)/9-10^420	CF	has factors: 239
+(10^3144-1)/9-10^419	CF	has factors: 53
+(10^3144-1)/9-10^418	CF	has factors: 59
+(10^3144-1)/9-10^417	CF	has factors: 47
+(10^3144-1)/9-10^416	CF	has factors: 233
+(10^3144-1)/9-10^415	C	is composite: RES64: [D6B431DD60736281] (0.1076s+0.0790s)
+(10^3144-1)/9-10^414	CF	has factors: 43
+(10^3144-1)/9-10^413	CF	has factors: 239
+(10^3144-1)/9-10^412	CF	has factors: 17
+(10^3144-1)/9-10^411	CF	has factors: 157
+(10^3144-1)/9-10^410	CF	has factors: 10273
+(10^3144-1)/9-10^409	CF	has factors: 44179
+(10^3144-1)/9-10^408	CF	has factors: 19
+(10^3144-1)/9-10^407	CF	has factors: 107
+(10^3144-1)/9-10^406	CF	has factors: 53
+(10^3144-1)/9-10^405	CF	has factors: 227
+(10^3144-1)/9-10^404	C	is composite: RES64: [66D7893F2928D849] (0.1084s+0.0285s)
+(10^3144-1)/9-10^403	C	is composite: RES64: [A8CC046D0D8515F8] (0.1077s+0.0317s)
+(10^3144-1)/9-10^402	CF	has factors: 71
+(10^3144-1)/9-10^401	C	is composite: RES64: [3138F8553DC5E996] (0.1069s+0.0380s)
+(10^3144-1)/9-10^400	CF	has factors: 241
+(10^3144-1)/9-10^399	CF	has factors: 109
+(10^3144-1)/9-10^398	CF	has factors: 29
+(10^3144-1)/9-10^397	C	is composite: RES64: [3129B69A847ABF0F] (0.1102s+0.0446s)
+(10^3144-1)/9-10^396	CF	has factors: 17^2
+(10^3144-1)/9-10^395	CF	has factors: 523
+(10^3144-1)/9-10^394	CF	has factors: 631
+(10^3144-1)/9-10^393	CF	has factors: 43
+(10^3144-1)/9-10^392	CF	has factors: 239
+(10^3144-1)/9-10^391	C	is composite: RES64: [C0BE12A0CAD0F161] (0.1078s+0.0526s)
+(10^3144-1)/9-10^390	CF	has factors: 19
+(10^3144-1)/9-10^389	CF	has factors: 40459
+(10^3144-1)/9-10^388	CF	has factors: 3301
+(10^3144-1)/9-10^387	C	is composite: RES64: [1105F0F6EB5127FB] (0.1069s+0.0433s)
+(10^3144-1)/9-10^386	CF	has factors: 23
+(10^3144-1)/9-10^385	CF	has factors: 239
+(10^3144-1)/9-10^384	CF	has factors: 18307
+(10^3144-1)/9-10^383	C	is composite: RES64: [39181F4010D4A05E] (0.1068s+0.0388s)
+(10^3144-1)/9-10^382	CF	has factors: 359
+(10^3144-1)/9-10^381	CF	has factors: 2441
+(10^3144-1)/9-10^380	CF	has factors: 17
+(10^3144-1)/9-10^379	C	is composite: RES64: [B2F99B5E8516CE6E] (0.1075s+0.0380s)
+(10^3144-1)/9-10^378	CF	has factors: 239
+(10^3144-1)/9-10^377	CF	has factors: 1019
+(10^3144-1)/9-10^376	CF	has factors: 151
+(10^3144-1)/9-10^375	C	is composite: RES64: [DA91D124E29404AC] (0.1073s+0.0501s)
+(10^3144-1)/9-10^374	CF	has factors: 18917
+(10^3144-1)/9-10^373	CF	has factors: 373
+(10^3144-1)/9-10^372	CF	has factors: 19
+(10^3144-1)/9-10^371	CF	has factors: 47
+(10^3144-1)/9-10^370	CF	has factors: 29
+(10^3144-1)/9-10^369	C	is composite: RES64: [046662D2DB19BDCF] (0.1093s+0.0459s)
+(10^3144-1)/9-10^368	P(FactorDB)	is 3-PRP! (0.1102s+0.0322s)	http://factordb.com/index.php?id=1100000001101412249
+(10^3144-1)/9-10^367	CF	has factors: 53
+(10^3144-1)/9-10^366	C	is composite: RES64: [24D4775041E045EB] (0.1070s+0.0299s)
+(10^3144-1)/9-10^365	C	is composite: RES64: [757A76832D1F6200] (0.1076s+0.0598s)
+(10^3144-1)/9-10^364	CF	has factors: 17
+(10^3144-1)/9-10^363	CF	has factors: 14827
+(10^3144-1)/9-10^362	CF	has factors: 317
+(10^3144-1)/9-10^361	CF	has factors: 1327
+(10^3144-1)/9-10^360	CF	has factors: 59
+(10^3144-1)/9-10^359	CF	has factors: 1949
+(10^3144-1)/9-10^358	CF	has factors: 3691
+(10^3144-1)/9-10^357	CF	has factors: 61
+(10^3144-1)/9-10^356	C	is composite: RES64: [9886E17E8EEA8B07] (0.1089s+0.0289s)
+(10^3144-1)/9-10^355	C	is composite: RES64: [4F6E6B58EFCD9C36] (0.1080s+0.0565s)
+(10^3144-1)/9-10^354	CF	has factors: 19
+(10^3144-1)/9-10^353	CF	has factors: 34469
+(10^3144-1)/9-10^352	CF	has factors: 541
+(10^3144-1)/9-10^351	CF	has factors: 43
+(10^3144-1)/9-10^350	CF	has factors: 197
+(10^3144-1)/9-10^349	C	is composite: RES64: [7813E6587535A066] (0.1070s+0.0351s)
+(10^3144-1)/9-10^348	CF	has factors: 17
+(10^3144-1)/9-10^347	CF	has factors: 1783
+(10^3144-1)/9-10^346	C	is composite: RES64: [665DC45E12C27B51] (0.1102s+0.0315s)
+(10^3144-1)/9-10^345	CF	has factors: 229
+(10^3144-1)/9-10^344	C	is composite: RES64: [09F06D348852A1F9] (0.1089s+0.0458s)
+(10^3144-1)/9-10^343	CF	has factors: 239
+(10^3144-1)/9-10^342	CF	has factors: 23
+(10^3144-1)/9-10^341	CF	has factors: 53
+(10^3144-1)/9-10^340	CF	has factors: 241
+(10^3144-1)/9-10^339	CF	has factors: 97
+(10^3144-1)/9-10^338	C	is composite: RES64: [9AF8F44FEF338207] (0.1232s+0.0885s)
+(10^3144-1)/9-10^337	CF	has factors: 32833
+(10^3144-1)/9-10^336	CF	has factors: 19
+(10^3144-1)/9-10^335	CF	has factors: 269
+(10^3144-1)/9-10^334	CF	has factors: 1669
+(10^3144-1)/9-10^333	CF	has factors: 157
+(10^3144-1)/9-10^332	CF	has factors: 17
+(10^3144-1)/9-10^331	CF	has factors: 21661
+(10^3144-1)/9-10^330	CF	has factors: 43
+(10^3144-1)/9-10^329	CF	has factors: 239
+(10^3144-1)/9-10^328	CF	has factors: 53
+(10^3144-1)/9-10^327	C	is composite: RES64: [CE010CE9ED87AFAD] (0.1126s+0.0539s)
+(10^3144-1)/9-10^326	CF	has factors: 34847
+(10^3144-1)/9-10^325	CF	has factors: 47
+(10^3144-1)/9-10^324	CF	has factors: 191
+(10^3144-1)/9-10^323	C	is composite: RES64: [B1D661058A930D1E] (0.1164s+0.0660s)
+(10^3144-1)/9-10^322	CF	has factors: 239
+(10^3144-1)/9-10^321	CF	has factors: 113
+(10^3144-1)/9-10^320	CF	has factors: 23
+(10^3144-1)/9-10^319	CF	has factors: 179
+(10^3144-1)/9-10^318	CF	has factors: 19
+(10^3144-1)/9-10^317	C	is composite: RES64: [C707B6F7D1C19CE9] (0.1161s+0.0393s)
+(10^3144-1)/9-10^316	CF	has factors: 17
+(10^3144-1)/9-10^315	CF	has factors: 53
+(10^3144-1)/9-10^314	CF	has factors: 29
+(10^3144-1)/9-10^313	C	is composite: RES64: [7F99B0457AE13485] (0.1175s+0.0303s)
+(10^3144-1)/9-10^312	C	is composite: RES64: [2E9A1B89FC24CE3D] (0.1242s+0.0315s)
+(10^3144-1)/9-10^311	C	is composite: RES64: [CC3C6E939C34221F] (0.1108s+0.0602s)
+(10^3144-1)/9-10^310	CF	has factors: 241
+(10^3144-1)/9-10^309	CF	has factors: 43
+(10^3144-1)/9-10^308	CF	has factors: 239
+(10^3144-1)/9-10^307	CF	has factors: 223
+(10^3144-1)/9-10^306	CF	has factors: 32143
+(10^3144-1)/9-10^305	CF	has factors: 149
+(10^3144-1)/9-10^304	CF	has factors: 853
+(10^3144-1)/9-10^303	C	is composite: RES64: [789450FF875D81C5] (0.1087s+0.0384s)
+(10^3144-1)/9-10^302	CF	has factors: 53
+(10^3144-1)/9-10^301	CF	has factors: 107
+(10^3144-1)/9-10^300	CF	has factors: 17
+(10^3144-1)/9-10^299	C	is composite: RES64: [4C9AC0DAB137E597] (0.1076s+0.0494s)
+(10^3144-1)/9-10^298	CF	has factors: 23
+(10^3144-1)/9-10^297	CF	has factors: 61
+(10^3144-1)/9-10^296	CF	has factors: 9697
+(10^3144-1)/9-10^295	CF	has factors: 8101
+(10^3144-1)/9-10^294	CF	has factors: 239
+(10^3144-1)/9-10^293	C	is composite: RES64: [B7B1CD696224C3E3] (0.1081s+0.0364s)
+(10^3144-1)/9-10^292	CF	has factors: 227
+(10^3144-1)/9-10^291	CF	has factors: 109
+(10^3144-1)/9-10^290	C	is composite: RES64: [4E483ED2216A0C4F] (0.1068s+0.0962s)
+(10^3144-1)/9-10^289	CF	has factors: 53
+(10^3144-1)/9-10^288	CF	has factors: 43
+(10^3144-1)/9-10^287	CF	has factors: 239
+(10^3144-1)/9-10^286	CF	has factors: 29
+(10^3144-1)/9-10^285	CF	has factors: 293
+(10^3144-1)/9-10^284	CF	has factors: 17
+(10^3144-1)/9-10^283	CF	has factors: 317
+(10^3144-1)/9-10^282	CF	has factors: 19
+(10^3144-1)/9-10^281	CF	has factors: 199
+(10^3144-1)/9-10^280	CF	has factors: 239
+(10^3144-1)/9-10^279	CF	has factors: 47
+(10^3144-1)/9-10^278	CF	has factors: 167
+(10^3144-1)/9-10^277	CF	has factors: 5857
+(10^3144-1)/9-10^276	CF	has factors: 23^2
+(10^3144-1)/9-10^275	CF	has factors: 10627
+(10^3144-1)/9-10^274	CF	has factors: 2857
+(10^3144-1)/9-10^273	CF	has factors: 239
+(10^3144-1)/9-10^272	C	is composite: RES64: [DC29573DD210E8EE] (0.1088s+0.0318s)
+(10^3144-1)/9-10^271	CF	has factors: 683
+(10^3144-1)/9-10^270	C	is composite: RES64: [D9E4A4CDF0DB804E] (0.1072s+0.0437s)
+(10^3144-1)/9-10^269	CF	has factors: 1103
+(10^3144-1)/9-10^268	CF	has factors: 17
+(10^3144-1)/9-10^267	CF	has factors: 43
+(10^3144-1)/9-10^266	CF	has factors: 239
+(10^3144-1)/9-10^265	C	is composite: RES64: [24EFC65736105A5F] (0.1066s+0.0388s)
+(10^3144-1)/9-10^264	CF	has factors: 19
+(10^3144-1)/9-10^263	CF	has factors: 53
+(10^3144-1)/9-10^262	CF	has factors: 71
+(10^3144-1)/9-10^261	C	is composite: RES64: [BCD592362A23240C] (0.2704s+0.0284s)
+(10^3144-1)/9-10^260	C	is composite: RES64: [DBC0E2232CF57713] (0.1066s+0.0358s)
+(10^3144-1)/9-10^259	CF	has factors: 239
+(10^3144-1)/9-10^258	CF	has factors: 29
+(10^3144-1)/9-10^257	C	is composite: RES64: [EDFF6E15AEB2186B] (0.1104s+0.0291s)
+(10^3144-1)/9-10^256	C	is composite: RES64: [B63E60E84EFEECE1] (0.1094s+0.0389s)
+(10^3144-1)/9-10^255	CF	has factors: 157
+(10^3144-1)/9-10^254	CF	has factors: 23
+(10^3144-1)/9-10^253	C	is composite: RES64: [AD46530683DF0C97] (0.1104s+0.0315s)
+(10^3144-1)/9-10^252	CF	has factors: 17
+(10^3144-1)/9-10^251	C	is composite: RES64: [B220815791F4B3AD] (0.1078s+0.0316s)
+(10^3144-1)/9-10^250	CF	has factors: 53
+(10^3144-1)/9-10^249	C	is composite: RES64: [DDCD31B265134416] (0.1064s+0.0327s)
+(10^3144-1)/9-10^248	CF	has factors: 107
+(10^3144-1)/9-10^247	C	is composite: RES64: [B794B3E04682D116] (0.1071s+0.0418s)
+(10^3144-1)/9-10^246	CF	has factors: 19
+(10^3144-1)/9-10^245	CF	has factors: 239
+(10^3144-1)/9-10^244	CF	has factors: 59
+(10^3144-1)/9-10^243	CF	has factors: 97
+(10^3144-1)/9-10^242	C	is composite: RES64: [3F054B82D7F1A3D1] (0.1088s+0.0293s)
+(10^3144-1)/9-10^241	C	is composite: RES64: [CACC16B8F73D09E7] (0.1080s+0.0283s)
+(10^3144-1)/9-10^240	C	is composite: RES64: [CF30CFB68626D04F] (0.1142s+0.0420s)
+(10^3144-1)/9-10^239	CF	has factors: 439
+(10^3144-1)/9-10^238	CF	has factors: 239
+(10^3144-1)/9-10^237	CF	has factors: 53
+(10^3144-1)/9-10^236	CF	has factors: 17
+(10^3144-1)/9-10^235	C	is composite: RES64: [BE0D3775DFF2131E] (0.1071s+0.0685s)
+(10^3144-1)/9-10^234	CF	has factors: 3931
+(10^3144-1)/9-10^233	CF	has factors: 47
+(10^3144-1)/9-10^232	CF	has factors: 23
+(10^3144-1)/9-10^231	CF	has factors: 239
+(10^3144-1)/9-10^230	CF	has factors: 29
+(10^3144-1)/9-10^229	CF	has factors: 191
+(10^3144-1)/9-10^228	CF	has factors: 19
+(10^3144-1)/9-10^227	CF	has factors: 71
+(10^3144-1)/9-10^226	CF	has factors: 151
+(10^3144-1)/9-10^225	CF	has factors: 43
+(10^3144-1)/9-10^224	CF	has factors: 53
+(10^3144-1)/9-10^223	CF	has factors: 283
+(10^3144-1)/9-10^222	C	is composite: RES64: [B02EE5A4BFB1239E] (0.1079s+0.0284s)
+(10^3144-1)/9-10^221	C	is composite: RES64: [D865CC346D601CC2] (0.1089s+0.0319s)
+(10^3144-1)/9-10^220	CF	has factors: 17
+(10^3144-1)/9-10^219	C	is composite: RES64: [AEAAB1AA7499E6A0] (0.1147s+0.0292s)
+(10^3144-1)/9-10^218	C	is composite: RES64: [DEC112EBA40F1A58] (0.1094s+0.0321s)
+(10^3144-1)/9-10^217	CF	has factors: 239
+(10^3144-1)/9-10^216	C	is composite: RES64: [B121D27E131F96D2] (0.1091s+0.0339s)
+(10^3144-1)/9-10^215	CF	has factors: 1453
+(10^3144-1)/9-10^214	C	is composite: RES64: [30468DE720489035] (0.1067s+0.0559s)
+(10^3144-1)/9-10^213	CF	has factors: 2819
+(10^3144-1)/9-10^212	CF	has factors: 839
+(10^3144-1)/9-10^211	CF	has factors: 53
+(10^3144-1)/9-10^210	CF	has factors: 19
+(10^3144-1)/9-10^209	CF	has factors: 113
+(10^3144-1)/9-10^208	CF	has factors: 257
+(10^3144-1)/9-10^207	CF	has factors: 337
+(10^3144-1)/9-10^206	CF	has factors: 811
+(10^3144-1)/9-10^205	C	is composite: RES64: [ACA05AA383849493] (0.1066s+0.0424s)
+(10^3144-1)/9-10^204	CF	has factors: 17
+(10^3144-1)/9-10^203	CF	has factors: 239
+(10^3144-1)/9-10^202	CF	has factors: 29
+(10^3144-1)/9-10^201	CF	has factors: 4663
+(10^3144-1)/9-10^200	C	is composite: RES64: [F2797AFF7B137A65] (0.1077s+0.0283s)
+(10^3144-1)/9-10^199	C	is composite: RES64: [F8C8AFBF1F61EFCF] (0.1086s+0.0492s)
+(10^3144-1)/9-10^198	CF	has factors: 53
+(10^3144-1)/9-10^197	CF	has factors: 8627
+(10^3144-1)/9-10^196	CF	has factors: 239
+(10^3144-1)/9-10^195	CF	has factors: 107
+(10^3144-1)/9-10^194	CF	has factors: 1063
+(10^3144-1)/9-10^193	C	is composite: RES64: [048CC2AF8CEFB883] (0.1132s+0.0840s)
+(10^3144-1)/9-10^192	CF	has factors: 19
+(10^3144-1)/9-10^191	CF	has factors: 6323
+(10^3144-1)/9-10^190	CF	has factors: 241
+(10^3144-1)/9-10^189	CF	has factors: 239
+(10^3144-1)/9-10^188	CF	has factors: 17
+(10^3144-1)/9-10^187	CF	has factors: 47
+(10^3144-1)/9-10^186	CF	has factors: 59
+(10^3144-1)/9-10^185	CF	has factors: 53
+(10^3144-1)/9-10^184	CF	has factors: 233
+(10^3144-1)/9-10^183	CF	has factors: 43
+(10^3144-1)/9-10^182	CF	has factors: 199
+(10^3144-1)/9-10^181	C	is composite: RES64: [CCD6BD9ED3B3F33F] (0.1267s+0.0311s)
+(10^3144-1)/9-10^180	C	is composite: RES64: [575CDDA49DEE3235] (0.1217s+0.0357s)
+(10^3144-1)/9-10^179	CF	has factors: 227
+(10^3144-1)/9-10^178	C	is composite: RES64: [A60D7753C3086702] (0.1338s+0.0431s)
+(10^3144-1)/9-10^177	CF	has factors: 61
+(10^3144-1)/9-10^176	CF	has factors: 727
+(10^3144-1)/9-10^175	CF	has factors: 239
+(10^3144-1)/9-10^174	CF	has factors: 19^3
+(10^3144-1)/9-10^173	C	is composite: RES64: [46AF353C52D2F040] (0.1177s+0.0336s)
+(10^3144-1)/9-10^172	CF	has factors: 17
+(10^3144-1)/9-10^171	C	is composite: RES64: [3E847F5BA090C85A] (0.1138s+0.0343s)
+(10^3144-1)/9-10^170	CF	has factors: 347
+(10^3144-1)/9-10^169	C	is composite: RES64: [264E35AFAD58589F] (0.1238s+0.0345s)
+(10^3144-1)/9-10^168	CF	has factors: 239
+(10^3144-1)/9-10^167	C	is composite: RES64: [F4A641FFAA82644A] (0.1101s+0.0331s)
+(10^3144-1)/9-10^166	CF	has factors: 23
+(10^3144-1)/9-10^165	C	is composite: RES64: [CA39F9CE050C0DD4] (0.1076s+0.0302s)
+(10^3144-1)/9-10^164	C	is composite: RES64: [CFB9E74284028C53] (0.1104s+0.0297s)
+(10^3144-1)/9-10^163	C	is composite: RES64: [322D8368991EF7D6] (0.1092s+0.0513s)
+(10^3144-1)/9-10^162	CF	has factors: 43
+(10^3144-1)/9-10^161	CF	has factors: 239
+(10^3144-1)/9-10^160	CF	has factors: 241
+(10^3144-1)/9-10^159	CF	has factors: 53
+(10^3144-1)/9-10^158	CF	has factors: 1697
+(10^3144-1)/9-10^157	CF	has factors: 71
+(10^3144-1)/9-10^156	CF	has factors: 17
+(10^3144-1)/9-10^155	C	is composite: RES64: [9577DF303A53DEA4] (0.1078s+0.0354s)
+(10^3144-1)/9-10^154	CF	has factors: 197
+(10^3144-1)/9-10^153	CF	has factors: 383
+(10^3144-1)/9-10^152	C	is composite: RES64: [0A165F1650CB0548] (0.1078s+0.0362s)
+(10^3144-1)/9-10^151	CF	has factors: 151
+(10^3144-1)/9-10^150	CF	has factors: 907
+(10^3144-1)/9-10^149	C	is composite: RES64: [C80220808C862C07] (0.1141s+0.0826s)
+(10^3144-1)/9-10^148	CF	has factors: 1913
+(10^3144-1)/9-10^147	CF	has factors: 97
+(10^3144-1)/9-10^146	CF	has factors: 29
+(10^3144-1)/9-10^145	CF	has factors: 181
+(10^3144-1)/9-10^144	CF	has factors: 23
+(10^3144-1)/9-10^143	CF	has factors: 44971
+(10^3144-1)/9-10^142	CF	has factors: 107
+(10^3144-1)/9-10^141	CF	has factors: 43
+(10^3144-1)/9-10^140	CF	has factors: 17
+(10^3144-1)/9-10^139	CF	has factors: 293
+(10^3144-1)/9-10^138	CF	has factors: 19
+(10^3144-1)/9-10^137	CF	has factors: 4679
+(10^3144-1)/9-10^136	C	is composite: RES64: [14B78CAA06825315] (0.1105s+0.0416s)
+(10^3144-1)/9-10^135	CF	has factors: 10037
+(10^3144-1)/9-10^134	CF	has factors: 191
+(10^3144-1)/9-10^133	CF	has factors: 53
+(10^3144-1)/9-10^132	C	is composite: RES64: [8D56DBD67CA4EAFF] (0.1070s+0.0280s)
+(10^3144-1)/9-10^131	C	is composite: RES64: [575BC6151AD88B58] (0.1079s+0.0587s)
+(10^3144-1)/9-10^130	CF	has factors: 241
+(10^3144-1)/9-10^129	CF	has factors: 2087
+(10^3144-1)/9-10^128	CF	has factors: 59
+(10^3144-1)/9-10^127	CF	has factors: 3491
+(10^3144-1)/9-10^126	CF	has factors: 239
+(10^3144-1)/9-10^125	CF	has factors: 317
+(10^3144-1)/9-10^124	CF	has factors: 17^2
+(10^3144-1)/9-10^123	CF	has factors: 937
+(10^3144-1)/9-10^122	CF	has factors: 23
+(10^3144-1)/9-10^121	C	is composite: RES64: [311D6AA9FEC49F6E] (0.1067s+0.0423s)
+(10^3144-1)/9-10^120	CF	has factors: 19
+(10^3144-1)/9-10^119	CF	has factors: 239
+(10^3144-1)/9-10^118	CF	has factors: 29
+(10^3144-1)/9-10^117	CF	has factors: 61
+(10^3144-1)/9-10^116	C	is composite: RES64: [F65950E593273812] (0.1078s+0.0286s)
+(10^3144-1)/9-10^115	C	is composite: RES64: [FC24094E46187E7F] (0.1148s+0.0288s)
+(10^3144-1)/9-10^114	C	is composite: RES64: [8AC05348A2E60456] (0.1066s+0.0431s)
+(10^3144-1)/9-10^113	CF	has factors: 4759
+(10^3144-1)/9-10^112	CF	has factors: 167
+(10^3144-1)/9-10^111	CF	has factors: 313
+(10^3144-1)/9-10^110	CF	has factors: 829
+(10^3144-1)/9-10^109	C	is composite: RES64: [3C08192F71A95777] (0.1089s+0.0543s)
+(10^3144-1)/9-10^108	CF	has factors: 17
+(10^3144-1)/9-10^107	CF	has factors: 53
+(10^3144-1)/9-10^106	CF	has factors: 11789
+(10^3144-1)/9-10^105	CF	has factors: 239
+(10^3144-1)/9-10^104	CF	has factors: 1381
+(10^3144-1)/9-10^103	CF	has factors: 2017
+(10^3144-1)/9-10^102	CF	has factors: 19
+(10^3144-1)/9-10^101	C	is composite: RES64: [7B095596E911024B] (0.1086s+0.0603s)
+(10^3144-1)/9-10^100	CF	has factors: 23
+(10^3144-1)/9-10^99	CF	has factors: 43
+(10^3144-1)/9-10^98	CF	has factors: 239
+(10^3144-1)/9-10^97	CF	has factors: 113
+(10^3144-1)/9-10^96	CF	has factors: 32141
+(10^3144-1)/9-10^95	CF	has factors: 47
+(10^3144-1)/9-10^94	CF	has factors: 53
+(10^3144-1)/9-10^93	C	is composite: RES64: [3D575A98F9B41880] (0.1080s+0.0409s)
+(10^3144-1)/9-10^92	CF	has factors: 17
+(10^3144-1)/9-10^91	CF	has factors: 239
+(10^3144-1)/9-10^90	CF	has factors: 29
+(10^3144-1)/9-10^89	CF	has factors: 107
+(10^3144-1)/9-10^88	C	is composite: RES64: [3E70E671D45E036A] (0.1086s+0.0317s)
+(10^3144-1)/9-10^87	CF	has factors: 71
+(10^3144-1)/9-10^86	C	is composite: RES64: [19C30E56E79A14D2] (0.1075s+0.0641s)
+(10^3144-1)/9-10^85	CF	has factors: 223
+(10^3144-1)/9-10^84	CF	has factors: 19
+(10^3144-1)/9-10^83	CF	has factors: 199
+(10^3144-1)/9-10^82	CF	has factors: 283
+(10^3144-1)/9-10^81	CF	has factors: 53
+(10^3144-1)/9-10^80	CF	has factors: 797
+(10^3144-1)/9-10^79	CF	has factors: 631
+(10^3144-1)/9-10^78	CF	has factors: 23
+(10^3144-1)/9-10^77	CF	has factors: 239
+(10^3144-1)/9-10^76	CF	has factors: 17
+(10^3144-1)/9-10^75	CF	has factors: 109
+(10^3144-1)/9-10^74	C	is composite: RES64: [D32C1C73522AAB6D] (0.1069s+0.0297s)
+(10^3144-1)/9-10^73	C	is composite: RES64: [05695022D2D6C1C3] (0.1093s+0.0351s)
+(10^3144-1)/9-10^72	CF	has factors: 379
+(10^3144-1)/9-10^71	C	is composite: RES64: [8BCA8CE7603593BE] (0.1085s+0.0321s)
+(10^3144-1)/9-10^70	CF	has factors: 59
+(10^3144-1)/9-10^69	C	is composite: RES64: [CB3CAC94268DEE01] (0.1089s+0.0375s)
+(10^3144-1)/9-10^68	CF	has factors: 53
+(10^3144-1)/9-10^67	CF	has factors: 269
+(10^3144-1)/9-10^66	CF	has factors: 19
+(10^3144-1)/9-10^65	C	is composite: RES64: [C8A808C8DC77BE96] (0.1065s+0.0291s)
+(10^3144-1)/9-10^64	C	is composite: RES64: [584D9FAA82D72A9B] (0.1078s+0.0838s)
+(10^3144-1)/9-10^63	CF	has factors: 239
+(10^3144-1)/9-10^62	CF	has factors: 29
+(10^3144-1)/9-10^61	CF	has factors: 59351
+(10^3144-1)/9-10^60	CF	has factors: 17
+(10^3144-1)/9-10^59	CF	has factors: 1259
+(10^3144-1)/9-10^58	CF	has factors: 131
+(10^3144-1)/9-10^57	CF	has factors: 43
+(10^3144-1)/9-10^56	CF	has factors: 23
+(10^3144-1)/9-10^55	CF	has factors: 53
+(10^3144-1)/9-10^54	CF	has factors: 4259
+(10^3144-1)/9-10^53	C	is composite: RES64: [F6EFF72A782FE32D] (0.1091s+0.0482s)
+(10^3144-1)/9-10^52	CF	has factors: 71
+(10^3144-1)/9-10^51	CF	has factors: 97
+(10^3144-1)/9-10^50	CF	has factors: 1039
+(10^3144-1)/9-10^49	CF	has factors: 47
+(10^3144-1)/9-10^48	CF	has factors: 19
+(10^3144-1)/9-10^47	C	is composite: RES64: [DF4524631AFFC39C] (0.1072s+0.0319s)
+(10^3144-1)/9-10^46	CF	has factors: 317
+(10^3144-1)/9-10^45	C	is composite: RES64: [2F6E053B1F12387D] (0.1077s+0.0323s)
+(10^3144-1)/9-10^44	CF	has factors: 17
+(10^3144-1)/9-10^43	C	is composite: RES64: [F5B608D6AE8EC0C1] (0.1074s+0.0327s)
+(10^3144-1)/9-10^42	CF	has factors: 53
+(10^3144-1)/9-10^41	C	is composite: RES64: [607401E18265296C] (0.1074s+0.0351s)
+(10^3144-1)/9-10^40	CF	has factors: 241
+(10^3144-1)/9-10^39	CF	has factors: 191
+(10^3144-1)/9-10^38	C	is composite: RES64: [50CDEE990C196A46] (0.1072s+0.0504s)
+(10^3144-1)/9-10^37	CF	has factors: 13451
+(10^3144-1)/9-10^36	CF	has factors: 43^2
+(10^3144-1)/9-10^35	CF	has factors: 239
+(10^3144-1)/9-10^34	CF	has factors: 23
+(10^3144-1)/9-10^33	CF	has factors: 3889
+(10^3144-1)/9-10^32	C	is composite: RES64: [527D730A60278A4F] (0.1068s+0.0871s)
+(10^3144-1)/9-10^31	CF	has factors: 877
+(10^3144-1)/9-10^30	CF	has factors: 19
+(10^3144-1)/9-10^29	CF	has factors: 53
+(10^3144-1)/9-10^28	CF	has factors: 17
+(10^3144-1)/9-10^27	CF	has factors: 1543
+(10^3144-1)/9-10^26	CF	has factors: 53951
+(10^3144-1)/9-10^25	CF	has factors: 983
+(10^3144-1)/9-10^24	CF	has factors: 359
+(10^3144-1)/9-10^23	CF	has factors: 29209
+(10^3144-1)/9-10^22	C	is composite: RES64: [02F75000D074C5D2] (0.1095s+0.0644s)
+(10^3144-1)/9-10^21	CF	has factors: 157
+(10^3144-1)/9-10^20	CF	has factors: 439
+(10^3144-1)/9-10^19	CF	has factors: 20107
+(10^3144-1)/9-10^18	CF	has factors: 193
+(10^3144-1)/9-10^17	CF	has factors: 71
+(10^3144-1)/9-10^16	CF	has factors: 53
+(10^3144-1)/9-10^15	CF	has factors: 43
+(10^3144-1)/9-10^14	CF	has factors: 239
+(10^3144-1)/9-10^13	C	is composite: RES64: [3A1198689A193E9F] (0.1298s+0.0411s)
+(10^3144-1)/9-10^12	CF	has factors: 17
+(10^3144-1)/9-10^11	C	is composite: RES64: [ED0B08B4416112BE] (0.1135s+0.0372s)
+(10^3144-1)/9-10^10	CF	has factors: 241
+(10^3144-1)/9-10^9	CF	has factors: 149
+(10^3144-1)/9-10^8	C	is composite: RES64: [D37AB600A2CA46E3] (0.1132s+0.0497s)
+(10^3144-1)/9-10^7	CF	has factors: 239
+(10^3144-1)/9-10^6	CF	has factors: 29
+(10^3144-1)/9-10^5	C	is composite: RES64: [898D92A5CD97351B] (0.1144s+0.0322s)
+(10^3144-1)/9-10^4	C	is composite: RES64: [82EB85ACDCF28694] (0.1072s+0.0328s)
+(10^3144-1)/9-10^3	CF	has factors: 47
+(10^3144-1)/9-10^2	C	is composite: RES64: [FC0285AF5C226218] (0.1115s+0.0798s)
+(10^3144-1)/9-10^1	CF	has factors: 151
+(10^3144-1)/9-10^0	CF	has factors: 2

@@ -1,0 +1,9 @@
+2^10-2^8-1	FF	trivially factors as: 13*59
+2^10-2^7-1	FF	trivially factors as: 5*179
+2^10-2^6-1	FF	trivially factors as: 7*137
+2^10-2^5-1	P(FactorDB)	is trivially prime!: 991	http://factordb.com/index.php?id=991
+2^10-2^4-1	FF	trivially factors as: 19*53
+2^10-2^3-1	FF	trivially factors as: 5*7*29
+2^10-2^2-1	P(FactorDB)	is trivially prime!: 1019	http://factordb.com/index.php?id=1019
+2^10-2^1-1	P(FactorDB)	is trivially prime!: 1021	http://factordb.com/index.php?id=1021
+2^10-2^0-1	FF	trivially factors as: 2*7*73

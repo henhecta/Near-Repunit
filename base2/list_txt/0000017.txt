@@ -1,0 +1,16 @@
+2^17-2^15-1	FF	trivially factors as: 197*499
+2^17-2^14-1	FF	trivially factors as: 3^2*12743
+2^17-2^13-1	FF	trivially factors as: 103*1193
+2^17-2^12-1	FF	trivially factors as: 3*5^2*1693
+2^17-2^11-1	P(FactorDB)	is trivially prime!: 129023	http://factordb.com/index.php?id=129023
+2^17-2^10-1	FF	trivially factors as: 3*67*647
+2^17-2^9-1	FF	trivially factors as: 11^2*13*83
+2^17-2^8-1	FF	trivially factors as: 3^4*5*17*19
+2^17-2^7-1	FF	trivially factors as: 37*3539
+2^17-2^6-1	FF	trivially factors as: 3*43669
+2^17-2^5-1	FF	trivially factors as: 59*2221
+2^17-2^4-1	FF	trivially factors as: 3*5*8737
+2^17-2^3-1	P(FactorDB)	is trivially prime!: 131063	http://factordb.com/index.php?id=131063
+2^17-2^2-1	FF	trivially factors as: 3^2*14563
+2^17-2^1-1	FF	trivially factors as: 53*2473
+2^17-2^0-1	FF	trivially factors as: 2*3*5*17*257

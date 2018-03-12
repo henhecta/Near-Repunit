@@ -1,0 +1,25 @@
+2^26-2^24-1	FF	trivially factors as: 6563*7669
+2^26-2^23-1	FF	trivially factors as: 5*11*137*7793
+2^26-2^22-1	FF	trivially factors as: 3361*18719
+2^26-2^21-1	FF	trivially factors as: 19*3421669
+2^26-2^20-1	FF	trivially factors as: 31*131*16267
+2^26-2^19-1	FF	trivially factors as: 5^2*433*6151
+2^26-2^18-1	FF	trivially factors as: 79*846161
+2^26-2^17-1	FF	trivially factors as: 29*439*5261
+2^26-2^16-1	FF	trivially factors as: 13*5157179
+2^26-2^15-1	FF	trivially factors as: 5*31*432749
+2^26-2^14-1	FF	trivially factors as: 3761*17839
+2^26-2^13-1	FF	trivially factors as: 11^2*61*9091
+2^26-2^12-1	FF	trivially factors as: 47*281*5081
+2^26-2^11-1	FF	trivially factors as: 5*13421363
+2^26-2^10-1	FF	trivially factors as: 31*59*36691
+2^26-2^9-1	P(FactorDB)	is trivially prime!: 67108351	http://factordb.com/index.php?id=67108351
+2^26-2^8-1	FF	trivially factors as: 67*1001621
+2^26-2^7-1	FF	trivially factors as: 5*13421747
+2^26-2^6-1	FF	trivially factors as: 6029*11131
+2^26-2^5-1	FF	trivially factors as: 31*2164801
+2^26-2^4-1	FF	trivially factors as: 13*5162219
+2^26-2^3-1	FF	trivially factors as: 5*11*19*149*431
+2^26-2^2-1	P(FactorDB)	is trivially prime!: 67108859	http://factordb.com/index.php?id=67108859
+2^26-2^1-1	FF	trivially factors as: 37*349*5197
+2^26-2^0-1	FF	trivially factors as: 2*31*601*1801

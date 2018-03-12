@@ -1,0 +1,59 @@
+2^60-2^58-1	CF	has factors: 23
+2^60-2^57-1	CF	has factors: 47
+2^60-2^56-1	CF	has factors: 839
+2^60-2^55-1	CF	has factors: 29
+2^60-2^54-1	CF	has factors: 281
+2^60-2^53-1	CF	has factors: 17
+2^60-2^52-1	CF	has factors: 37
+2^60-2^51-1	CF	has factors: 137
+2^60-2^50-1	CF	has factors: 19
+2^60-2^49-1	CF	has factors: 1039
+2^60-2^48-1	CF	has factors: 433
+2^60-2^47-1	CF	has factors: 23
+2^60-2^46-1	C	is composite: RES64: [016704D20F70FED2] (0.0000s+0.0138s)
+2^60-2^45-1	CF	has factors: 17
+2^60-2^44-1	CF	has factors: 263
+2^60-2^43-1	CF	has factors: 101
+2^60-2^42-1	P(FactorDB)	is 3-PRP! (0.0000s+0.0131s)	http://factordb.com/index.php?id=1100000001104131626
+2^60-2^41-1	CF	has factors: 223
+2^60-2^40-1	C	is composite: RES64: [04C04B3A06AE10C4] (0.0000s+0.0045s)
+2^60-2^39-1	P(FactorDB)	is 3-PRP! (0.0000s+0.0195s)	http://factordb.com/index.php?id=1100000001104131624
+2^60-2^38-1	CF	has factors: 937
+2^60-2^37-1	CF	has factors: 17
+2^60-2^36-1	CF	has factors: 23
+2^60-2^35-1	CF	has factors: 113
+2^60-2^34-1	CF	has factors: 47
+2^60-2^33-1	P(FactorDB)	is 3-PRP! (0.0000s+0.0063s)	http://factordb.com/index.php?id=1100000001104131620
+2^60-2^32-1	CF	has factors: 19
+2^60-2^31-1	C	is composite: RES64: [0658BC3D13C4E134] (0.0000s+0.0104s)
+2^60-2^30-1	CF	has factors: 2879
+2^60-2^29-1	CF	has factors: 17
+2^60-2^28-1	P(FactorDB)	is 3-PRP! (0.0000s+0.0078s)	http://factordb.com/index.php?id=1100000000916568647
+2^60-2^27-1	CF	has factors: 29
+2^60-2^26-1	P(FactorDB)	is 3-PRP! (0.0000s+0.0064s)	http://factordb.com/index.php?id=1100000001104131619
+2^60-2^25-1	CF	has factors: 23
+2^60-2^24-1	C	is composite: RES64: [063C0C266F5D1C19] (0.0000s+0.0157s)
+2^60-2^23-1	CF	has factors: 157
+2^60-2^22-1	CF	has factors: 53
+2^60-2^21-1	CF	has factors: 17
+2^60-2^20-1	CF	has factors: 607
+2^60-2^19-1	P(FactorDB)	is 3-PRP! (0.0000s+0.0045s)	http://factordb.com/index.php?id=1100000001104131515
+2^60-2^18-1	P(FactorDB)	is 3-PRP! (0.0000s+0.0096s)	http://factordb.com/index.php?id=1100000001104131209
+2^60-2^17-1	CF	has factors: 521
+2^60-2^16-1	CF	has factors: 37
+2^60-2^15-1	C	is composite: RES64: [095B2B7C2843FE11] (0.0000s+0.0094s)
+2^60-2^14-1	CF	has factors: 19
+2^60-2^13-1	CF	has factors: 17
+2^60-2^12-1	C	is composite: RES64: [0FFA3D8B18E60F9F] (0.0000s+0.0286s)
+2^60-2^11-1	CF	has factors: 47
+2^60-2^10-1	CF	has factors: 2707
+2^60-2^9-1	CF	has factors: 277
+2^60-2^8-1	P(FactorDB)	is 3-PRP! (0.0000s+0.0066s)	http://factordb.com/index.php?id=1100000000085721845
+2^60-2^7-1	CF	has factors: 113
+2^60-2^6-1	C	is composite: RES64: [0B08567DDE5C702E] (0.0000s+0.0155s)
+2^60-2^5-1	CF	has factors: 17
+2^60-2^4-1	CF	has factors: 223
+2^60-2^3-1	CF	has factors: 23
+2^60-2^2-1	CF	has factors: 409
+2^60-2^1-1	C	is composite: RES64: [0FB5ED99F5C15B3D] (0.0000s+0.0475s)
+2^60-2^0-1	CF	has factors: 2

@@ -1,0 +1,21 @@
+2^22-2^20-1	FF	trivially factors as: 13*241979
+2^22-2^19-1	FF	trivially factors as: 5*734003
+2^22-2^18-1	FF	trivially factors as: 7*11*223*229
+2^22-2^17-1	FF	trivially factors as: 1567*2593
+2^22-2^16-1	P(FactorDB)	is trivially prime!: 4128767	http://factordb.com/index.php?id=4128767
+2^22-2^15-1	FF	trivially factors as: 5*7*118901
+2^22-2^14-1	FF	trivially factors as: 67*127*491
+2^22-2^13-1	FF	trivially factors as: 499*8389
+2^22-2^12-1	FF	trivially factors as: 7*71*8431
+2^22-2^11-1	FF	trivially factors as: 5*19*44129
+2^22-2^10-1	P(FactorDB)	is trivially prime!: 4193279	http://factordb.com/index.php?id=4193279
+2^22-2^9-1	FF	trivially factors as: 7*179*3347
+2^22-2^8-1	FF	trivially factors as: 11*13*139*211
+2^22-2^7-1	FF	trivially factors as: 5^2*127*1321
+2^22-2^6-1	FF	trivially factors as: 7*83*7219
+2^22-2^5-1	P(FactorDB)	is trivially prime!: 4194271	http://factordb.com/index.php?id=4194271
+2^22-2^4-1	P(FactorDB)	is trivially prime!: 4194287	http://factordb.com/index.php?id=4194287
+2^22-2^3-1	FF	trivially factors as: 5*7*293*409
+2^22-2^2-1	FF	trivially factors as: 29*61*2371
+2^22-2^1-1	P(FactorDB)	is trivially prime!: 4194301	http://factordb.com/index.php?id=4194301
+2^22-2^0-1	FF	trivially factors as: 2*7^2*127*337
